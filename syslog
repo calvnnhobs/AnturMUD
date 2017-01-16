@@ -271,3 +271,13 @@ Jan 16 11:00:56     :: Klakdor (level 34) has 7 objects (max 30).
 Jan 16 11:00:58 4    :: Klakdor has quit the game.
 Jan 16 11:00:58     :: Losing player: Klakdor.
 Jan 16 11:00:58      :: No connections.  Going to sleep.
+Jan 16 11:02:36      :: New connection.  Waking up.
+Jan 16 11:02:41      :: Klakdor has connected.
+Jan 16 11:02:42 0    :: Klakdor un-renting and entering game.
+Jan 16 11:02:42     :: Klakdor (level 34) has 7 objects (max 30).
+Jan 16 11:02:57      :: OLC: Klakdor starts editing zone 30 allowed zone 0
+Jan 16 11:03:15      :: OLC: Klakdor edits obj 3034
+Jan 16 11:03:15     :: OLC: Klakdor stops editing zone 30 allowed zone 0
+Jan 16 11:03:19 4    :: Klakdor has quit the game.
+Jan 16 11:03:20     :: Losing player: Klakdor.
+Jan 16 11:03:20      :: No connections.  Going to sleep.
