@@ -7,3 +7,8 @@ SYSERR: bind: Address already in use
 Jan 13 11:14:32      :: SYSERR: Received SIGHUP, SIGINT, or SIGTERM.  Shutting down...
 SYSERR: bind: Address already in use
 Jan 13 15:16:56      :: SYSERR: Received SIGHUP, SIGINT, or SIGTERM.  Shutting down...
+SYSERR: perform_socket_read: about to lose connection: Connection timed out
+Jan 14 19:59:33      :: SYSERR: Mob using '((ch)->player_specials->saved.invis_level)' at act.informative.c:1093.
+Jan 14 19:59:59      :: SYSERR: Mob using '((d->character)->player_specials->saved.page_length)' at modify.c:477.
+Jan 14 19:59:59      :: SYSERR: Mob using '((d->character)->player_specials->saved.page_length)' at modify.c:478.
+Binary file syslog matches

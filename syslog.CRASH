@@ -1,30 +1,30 @@
-Jan 13 15:07:33      :: Resetting #346: God Hall Ext 346 for God Hall Cmplx (rooms 34600-34699).
-Jan 13 15:07:33      :: Resetting #555: Ultima (rooms 55500-55599).
-Jan 13 15:07:33      :: Resetting #556: Ultima II (rooms 55600-55699).
-Jan 13 15:07:33      :: Resetting #653: Apartment (rooms 65300-65399).
-Jan 13 15:07:33      :: Resetting #654: Subdivision (rooms 65400-65499).
-Jan 13 15:07:33      :: Boot db -- DONE.
-Jan 13 15:07:33     :: Signal trapping.
-Jan 13 15:07:33 ZZZZ :: Entering game loop.
-Jan 13 15:07:33      :: No connections.  Going to sleep.
-Jan 13 15:08:09      :: New connection.  Waking up.
-Jan 13 15:08:14      :: Klakdor has connected.
-Jan 13 15:08:16      :: Klakdor had no variable file
-Jan 13 15:08:16 0    :: Klakdor un-renting and entering game.
-Jan 13 15:08:16      :: Klakdor (level 34) has 1 object (max 30).
-Jan 13 15:08:21 4    :: Klakdor has quit the game.
-Jan 13 15:08:21      :: Losing player: Klakdor.
-Jan 13 15:08:21 ¿NK :: No connections.  Going to sleep.
-Jan 13 15:08:28 ¿NK :: New connection.  Waking up.
-Jan 13 15:08:37      :: Klakdor has connected.
-Jan 13 15:08:38      :: Klakdor had no variable file
-Jan 13 15:08:38 0    :: Klakdor un-renting and entering game.
-Jan 13 15:08:38     :: Klakdor (level 34) has 1 object (max 30).
-Jan 13 15:08:41 
-S  :: Klakdor has quit the game.
-Jan 13 15:08:41     :: Losing player: Klakdor.
-Jan 13 15:08:41      :: No connections.  Going to sleep.
-Jan 13 15:16:56      :: SYSERR: Received SIGHUP, SIGINT, or SIGTERM.  Shutting down...
-Quick boot mode -- rent check supressed.
-Using file descriptor for logging.
+Jan 16 06:32:10      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 16 06:37:10      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 16 06:42:10      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 16 06:47:10      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 16 06:52:10      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 16 06:57:10      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 16 07:02:10      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 16 07:07:10      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 16 07:12:10      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 16 07:17:10      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 16 07:18:21 4    :: Klakdor has quit the game.
+Jan 16 07:18:23 @N…8 :: Losing player: Klakdor.
+Jan 16 07:18:23      :: No connections.  Going to sleep.
+Jan 16 09:27:11      :: New connection.  Waking up.
+Jan 16 09:27:11     :: WARNING: EOF on socket read (connection broken by peer)
+Jan 16 09:27:11     :: Losing descriptor without char.
+Jan 16 09:27:11 ¿Ó† :: No connections.  Going to sleep.
+Jan 16 09:27:12 ¿Ó† :: New connection.  Waking up.
+Jan 16 09:27:12     :: WARNING: EOF on socket read (connection broken by peer)
+Jan 16 09:27:12     :: Losing descriptor without char.
+Jan 16 09:27:12     :: No connections.  Going to sleep.
+Jan 16 09:27:48     :: New connection.  Waking up.
+Jan 16 09:27:51      :: Klakdor has connected.
+Jan 16 09:27:51     :: Cro has connected.
+Jan 16 09:27:55 0    :: Klakdor un-renting and entering game.
+Jan 16 09:27:55     :: Klakdor (level 34) has 7 objects (max 30).
+Jan 16 09:28:18 0    :: Closing link to: Klakdor.
+Jan 16 09:28:18     :: Losing player: Cro.
+Jan 16 09:28:18 V 8 :: No connections.  Going to sleep.
 Improper shutdown of autorun detected, rotating syslogs before startup.
