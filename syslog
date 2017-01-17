@@ -281,3 +281,71 @@ Jan 16 11:03:15     :: OLC: Klakdor stops editing zone 30 allowed zone 0
 Jan 16 11:03:19 4    :: Klakdor has quit the game.
 Jan 16 11:03:20     :: Losing player: Klakdor.
 Jan 16 11:03:20      :: No connections.  Going to sleep.
+Jan 16 11:05:09      :: New connection.  Waking up.
+Jan 16 11:05:13  Ïö :: WARNING: EOF on socket read (connection broken by peer)
+Jan 16 11:05:13     :: Losing descriptor without char.
+Jan 16 11:05:13  Ïö :: No connections.  Going to sleep.
+Jan 16 12:10:47  Ïö :: New connection.  Waking up.
+Jan 16 12:11:23 0    :: Jolo [c-24-5-121-178.hsd1.ca.comcast.net] new player.
+Jan 16 12:12:10      :: Jolo had no variable file
+Jan 16 12:12:10      :: Jolo entering game with no equipment.
+Jan 16 12:12:50      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 16 12:14:30 ÿÿÿÿ :: Jolo has quit the game.
+Jan 16 12:14:36 ACT :: Losing player: Jolo.
+Jan 16 12:14:36      :: No connections.  Going to sleep.
+Jan 16 15:04:22      :: New connection.  Waking up.
+Jan 16 15:04:34      :: Klakdor has connected.
+Jan 16 15:04:35 0    :: Klakdor un-renting and entering game.
+Jan 16 15:04:35      :: Klakdor (level 34) has 7 objects (max 30).
+Jan 16 15:06:45 ÿÿÿÿ :: Klakdor tried to get help on znoe
+Jan 16 15:06:52 ò²S  :: OLC: Klakdor starts editing zone 30 allowed zone 0
+Jan 16 15:07:15 NO_M :: OLC: Klakdor stops editing zone 30 allowed zone 0
+Jan 16 15:07:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 16 15:08:14      :: OLC: Klakdor starts editing zone 0 allowed zone 0
+Jan 16 15:08:48     :: OLC: Klakdor stops editing zone 0 allowed zone 0
+Jan 16 15:08:52     :: OLC: Klakdor starts editing zone 0 allowed zone 0
+Jan 16 15:08:57 INDO :: OLC: Klakdor stops editing zone 0 allowed zone 0
+Jan 16 15:09:24 ò²S  :: OLC: Klakdor starts editing zone 0 allowed zone 0
+Jan 16 15:09:39 Ô!P  :: OLC: Klakdor stops editing zone 0 allowed zone 0
+Jan 16 15:09:42 ò²S  :: OLC: Klakdor starts editing zone 0 allowed zone 0
+Jan 16 15:11:02 Ô!P  :: OLC: Klakdor stops editing zone 0 allowed zone 0
+Jan 16 15:12:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 16 15:12:52 ÿÿÿÿ :: Klakdor tried to get help on action-editer
+Jan 16 15:17:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 16 15:22:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 16 15:27:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 16 15:32:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 16 15:37:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 16 15:42:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 16 15:43:26 ÿÿÿÿ :: Klakdor tried to get help on apostraphe
+Jan 16 15:47:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 16 15:52:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 16 15:57:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 16 16:02:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 16 16:07:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 16 16:09:36 ÿÿÿÿ :: Klakdor tried to get help on digwalkl
+Jan 16 16:12:10 
+    :: GenOLC: save_rooms: Saving rooms in zone #0 (0-99).
+Jan 16 16:12:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 16 16:17:33 y    ::    2648 entries, 84736 bytes.
+Jan 16 16:17:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 16 16:21:09 CDR  :: OLC: Klakdor starts editing zone 0 allowed zone 0
+Jan 16 16:21:12      :: OLC: Klakdor stops editing zone 0 allowed zone 0
+Jan 16 16:22:20      :: OLC: Klakdor starts editing the game configuration.
+Jan 16 16:22:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 16 16:23:34     :: OLC: Klakdor modifies the game configuration.
+Jan 16 16:23:34 Jan  :: OLC: Klakdor stops editing the game configuration
+Jan 16 16:23:44     :: OLC: Klakdor starts editing zone 0 allowed zone 0
+Jan 16 16:23:55      :: GenOLC: add_room: Updated existing room #8.
+Jan 16 16:23:55      :: OLC: Klakdor edits room 8.
+Jan 16 16:23:55 I   :: GenOLC: save_rooms: Saving rooms in zone #0 (0-99).
+Jan 16 16:23:55      :: OLC: Klakdor stops editing zone 0 allowed zone 0
+Jan 16 16:24:32      :: OLC: Klakdor starts editing the game configuration.
+Jan 16 16:27:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 16 16:27:47     :: OLC: Klakdor modifies the game configuration.
+Jan 16 16:27:47 Jan  :: OLC: Klakdor stops editing the game configuration
+Jan 16 16:29:01      :: OLC: Klakdor saves 'text/motd'.
+Jan 16 16:29:01      :: OLC: Klakdor stops editing text files.
+Jan 16 16:30:49      :: OLC: Klakdor saves 'text/motd'.
+Jan 16 16:30:49      :: OLC: Klakdor stops editing text files.
+Jan 16 16:31:22      :: OLC: Klakdor stops editing text files.
