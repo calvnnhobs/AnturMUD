@@ -12,3 +12,10 @@ Jan 14 19:59:33      :: SYSERR: Mob using '((ch)->player_specials->saved.invis_l
 Jan 14 19:59:59      :: SYSERR: Mob using '((d->character)->player_specials->saved.page_length)' at modify.c:477.
 Jan 14 19:59:59      :: SYSERR: Mob using '((d->character)->player_specials->saved.page_length)' at modify.c:478.
 Binary file syslog matches
+SYSERR: gethostbyaddr: Success
+SYSERR: gethostbyaddr: Success
+SYSERR: gethostbyaddr: Success
+SYSERR: gethostbyaddr: Success
+SYSERR: gethostbyaddr: Success
+SYSERR: gethostbyaddr: Success
+SYSERR: gethostbyaddr: Success

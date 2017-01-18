@@ -1,351 +1,844 @@
-autorun starting game Mon Jan 16 10:56:21 PST 2017
+autorun starting game Tue Jan 17 14:20:31 PST 2017
 running bin/circle -q 4000
 nohup: ignoring input
-No etc/config file, using defaults: No such file or directory
-Jan 16 10:56:21      :: Loading configuration.
-Jan 16 10:56:21      :: tbaMUD 3.67
-Jan 16 10:56:21      :: Using lib as data directory.
-Jan 16 10:56:21      :: Running game on port 4000.
-Jan 16 10:56:21      :: Finding player limit.
-Jan 16 10:56:21      ::    Setting player limit to 300 using rlimit.
-Jan 16 10:56:21      :: Opening mother connection.
-Jan 16 10:56:21      :: Binding to all IP interfaces on this host.
-Jan 16 10:56:21      :: Boot db -- BEGIN.
-Jan 16 10:56:21      :: Resetting the game time:
-Jan 16 10:56:21 –b¯$ ::    Current Gametime: 5H 2D 14M 778Y.
-Jan 16 10:56:21 –b¯$ :: Initialize Global Lists
-Jan 16 10:56:21      :: Initializing Events
-Jan 16 10:56:21 [    :: Reading news, credits, help, ihelp, bground, info & motds.
-Jan 16 10:56:21      :: Loading spell definitions.
-Jan 16 10:56:21 a¯$ :: Loading zone table.
-Jan 16 10:56:21 q    ::    189 zones, 13608 bytes.
-Jan 16 10:56:21 a¯$ :: Loading triggers and generating index.
-Jan 16 10:56:21 a¯$ :: Loading rooms.
-Jan 16 10:56:21 ~    ::    12732 rooms, 2342688 bytes.
-Jan 16 10:56:21 a¯$ :: Renumbering rooms.
-Jan 16 10:56:21 a¯$ :: Checking start rooms.
-Jan 16 10:56:21 a¯$ :: Loading mobs and generating index.
-Jan 16 10:56:21 z    ::    3705 mobs, 118560 bytes in index, 2134080 bytes in prototypes.
-Jan 16 10:56:21 a¯$ :: Loading objs and generating index.
-Jan 16 10:56:21 {    ::    4765 objs, 152480 bytes in index, 1143600 bytes in prototypes.
-Jan 16 10:56:21 a¯$ :: Renumbering zone table.
-Jan 16 10:56:21 a¯$ :: Loading shops.
-Jan 16 10:56:21 a¯$ :: Loading quests.
-Jan 16 10:56:21 	    ::    1 entries, 128 bytes.
-Jan 16 10:56:21 	    :: Loading help entries.
-Jan 16 10:56:21 y    ::    2648 entries, 84736 bytes.
-Jan 16 10:56:21 	    :: Generating player index.
-Jan 16 10:56:21 	    :: Loading fight messages.
-Jan 16 10:56:21     :: Loaded 37 Combat Messages...
-Jan 16 10:56:21 Pp˛  :: Loading social messages.
-Jan 16 10:56:21 Iî%% :: Social table contains 489 socials.
-Jan 16 10:56:21 Pp˛  :: Building command list.
-Jan 16 10:56:21 ∞e» :: Command info rebuilt, 762 total commands.
-Jan 16 10:56:21 ∞e» :: Assigning function pointers:
-Jan 16 10:56:21 ∞e» ::    Mobiles.
-Jan 16 10:56:21 ∞e» ::    Shopkeepers.
-Jan 16 10:56:21 ∞e» ::    Objects.
-Jan 16 10:56:21 ∞e» ::    Rooms.
-Jan 16 10:56:21 ∞e» ::    Questmasters.
-Jan 16 10:56:21 ∞e» :: Assigning spell and skill levels.
-Jan 16 10:56:21 ∞e» :: Sorting command list and spells.
-Jan 16 10:56:21     :: Booting mail system.
-Jan 16 10:56:21 5    ::    Mail file read -- 0 messages.
-Jan 16 10:56:21 Pp˛  :: Reading banned site and invalid-name list.
-Jan 16 10:56:21 Pp˛  :: Loading Ideas.
-Jan 16 10:56:21 Pp˛  :: Loading Bugs.
-Jan 16 10:56:21 Pp˛  :: Loading Typos.
-Jan 16 10:56:21 Pp˛  :: Booting houses.
-Jan 16 10:56:21      ::    No houses to load. File 'etc/hcontrol' does not exist.
-Jan 16 10:56:21      :: Cleaning up last log.
-Jan 16 10:56:21      :: Resetting #0: The Builder Academy Zone (rooms 0-99).
-Jan 16 10:56:21      :: Resetting #1: Sanctus (rooms 100-199).
-Jan 16 10:56:21      :: Resetting #2: Sanctus II (rooms 200-299).
-Jan 16 10:56:21      :: Resetting #3: Sanctus III (rooms 300-399).
-Jan 16 10:56:21      :: Resetting #4: Jade Forest (rooms 400-499).
-Jan 16 10:56:21      :: Resetting #5: Newbie Farm (rooms 500-599).
-Jan 16 10:56:21      :: Resetting #6: Sea of Souls (rooms 600-699).
-Jan 16 10:56:21      :: Resetting #7: Camelot (rooms 700-799).
-Jan 16 10:56:21      :: Resetting #9: River Island of Minos (rooms 900-999).
-Jan 16 10:56:21      :: Resetting #11: Frozen Castle (rooms 1100-1199).
-Jan 16 10:56:21      :: Resetting #12: God Complex Merged with 343 (rooms 1200-1299).
-Jan 16 10:56:21      :: Resetting #13: TBA Examples (rooms 1300-1399).
-Jan 16 10:56:21      :: Resetting #14: TBA Examples II (rooms 1400-1499).
-Jan 16 10:56:21      :: Resetting #15: Straight Path (rooms 1500-1599).
-Jan 16 10:56:21      :: Resetting #16: Camelot II (rooms 1600-1699).
-Jan 16 10:56:21      :: Resetting #17: Camelot III (rooms 1700-1799).
-Jan 16 10:56:21      :: Resetting #18: Nuclear Wasteland (rooms 1800-1899).
-Jan 16 10:56:21      :: Resetting #19: Spider Swamp (rooms 1900-1999).
-Jan 16 10:56:21      :: Resetting #20: Arena (rooms 2000-2099).
-Jan 16 10:56:21      :: Resetting #22: Tower of the Undead (rooms 2200-2299).
-Jan 16 10:56:21      :: Resetting #25: High Tower of Magic (rooms 2500-2599).
-Jan 16 10:56:21      :: Resetting #26: High Tower of Magic II (rooms 2600-2699).
-Jan 16 10:56:21      :: Resetting #27: Memlin Caverns (rooms 2700-2799).
-Jan 16 10:56:21      :: Resetting #28: Mudschool (rooms 2800-2899).
-Jan 16 10:56:21      :: Resetting #30: Northern Midgaard (rooms 3000-3099).
-Jan 16 10:56:21      :: Resetting #31: Southern Midgaard (rooms 3100-3199).
-Jan 16 10:56:21      :: Resetting #32: Midgaard (rooms 3200-3299).
-Jan 16 10:56:21      :: Resetting #33: Three of Swords (rooms 3300-3399).
-Jan 16 10:56:21      :: Resetting #35: Miden'Nir (rooms 3500-3599).
-Jan 16 10:56:21      :: Resetting #36: Chessboard of Midgaard (rooms 3600-3699).
-Jan 16 10:56:21      :: Resetting #37: Capital Sewer System (rooms 3700-3799).
-Jan 16 10:56:21      :: Resetting #38: Capital Sewer System II (rooms 3800-3899).
-Jan 16 10:56:21      :: Resetting #39: Haven (rooms 3900-3999).
-Jan 16 10:56:21      :: Resetting #40: Mines of Moria (rooms 4000-4099).
-Jan 16 10:56:21      :: Resetting #41: Mines of Moria (rooms 4100-4199).
-Jan 16 10:56:21      :: Resetting #42: Dragon Chasm (rooms 4200-4299).
-Jan 16 10:56:21      :: Resetting #43: Arctic Zone (rooms 4300-4399).
-Jan 16 10:56:21      :: Resetting #44: Orc Camp (rooms 4400-4499).
-Jan 16 10:56:21      :: Resetting #45: Woodland Monastery (rooms 4500-4599).
-Jan 16 10:56:21      :: Resetting #46: Ant Hill (rooms 4600-4699).
-Jan 16 10:56:21      :: Resetting #50: Great Eastern Desert (rooms 5000-5099).
-Jan 16 10:56:21      :: Resetting #51: Drow City (rooms 5100-5199).
-Jan 16 10:56:21      :: Resetting #52: City of Thalos (rooms 5200-5299).
-Jan 16 10:56:21      :: Resetting #53: Great Pyramid (rooms 5300-5399).
-Jan 16 10:56:21      :: Resetting #54: New Thalos (rooms 5400-5499).
-Jan 16 10:56:21      :: Resetting #55: New Thalos II (rooms 5500-5599).
-Jan 16 10:56:21      :: Resetting #56: New Thalos Wilderness (rooms 5600-5699).
-Jan 16 10:56:21      :: Resetting #57: Zodiac (rooms 5700-5799).
-Jan 16 10:56:21      :: Resetting #60: Haon-Dor, Light Forest (rooms 6000-6099).
-Jan 16 10:56:21      :: Resetting #61: Haon-Dor, Light Forest II (rooms 6100-6199).
-Jan 16 10:56:21      :: Resetting #62: Orc Enclave (rooms 6200-6299).
-Jan 16 10:56:21      :: Resetting #63: Arachnos (rooms 6300-6399).
-Jan 16 10:56:21      :: Resetting #64: Rand's Tower (rooms 6400-6499).
-Jan 16 10:56:21      :: Resetting #65: Dwarven Kingdom (rooms 6500-6599).
-Jan 16 10:56:21      :: Resetting #70: Sewer, First Level (rooms 7000-7099).
-Jan 16 10:56:21      :: Resetting #71: Second Sewer (rooms 7100-7199).
-Jan 16 10:56:21      :: Resetting #72: Sewer Maze (rooms 7200-7299).
-Jan 16 10:56:21      :: Resetting #73: Tunnels in the Sewer (rooms 7300-7399).
-Jan 16 10:56:21      :: Resetting #74: Newbie Graveyard (rooms 7400-7499).
-Jan 16 10:56:21      :: Resetting #75: Zamba (rooms 7500-7599).
-Jan 16 10:56:21      :: Resetting #78: Gideon (rooms 7800-7899).
-Jan 16 10:56:21      :: Resetting #79: Redferne's Residence (rooms 7900-7999).
-Jan 16 10:56:21      :: Resetting #83: Glumgold's Sea (rooms 8300-8399).
-Jan 16 10:56:21      :: Resetting #86: Duke Kalithorn's Keep (rooms 8600-8699).
-Jan 16 10:56:21      :: Resetting #90: Oasis (rooms 9000-9099).
-Jan 16 10:56:21      :: Resetting #96: Domiae (rooms 9600-9699).
-Jan 16 10:56:21      :: Resetting #100: Northern Highway (rooms 10000-10099).
-Jan 16 10:56:21      :: Resetting #101: South Road (rooms 10100-10199).
-Jan 16 10:56:21      :: Resetting #103: DBZ World (rooms 10300-10399).
-Jan 16 10:56:21      :: Resetting #104: Land of Orchan (rooms 10400-10499).
-Jan 16 10:56:21      :: Resetting #106: Elcardo (rooms 10600-10699).
-Jan 16 10:56:21      :: Resetting #107: Realms of Iuel (rooms 10700-10799).
-Jan 16 10:56:21      :: Resetting #115: Monestary Omega (rooms 11500-11599).
-Jan 16 10:56:21      :: Resetting #117: Los Torres (rooms 11700-11799).
-Jan 16 10:56:21      :: Resetting #118: The Dollhouse (rooms 11800-11899).
-Jan 16 10:56:21      :: Resetting #120: Rome (rooms 12000-12099).
-Jan 16 10:56:21      :: Resetting #125: Hannah (rooms 12500-12599).
-Jan 16 10:56:21      :: Resetting #130: Mist Maze (rooms 13000-13099).
-Jan 16 10:56:21      :: Resetting #140: Wyvern City (rooms 14000-14099).
-Jan 16 10:56:21      :: Resetting #150: King Welmar's Castle (rooms 15000-15099).
-Jan 16 10:56:21      :: Resetting #169: Gibberling Caves (rooms 16900-16999).
-Jan 16 10:56:21      :: Resetting #175: Cardinal Wizards (rooms 17500-17599).
-Jan 16 10:56:21      :: Resetting #186: Newbie Zone (rooms 18600-18699).
-Jan 16 10:56:21      :: Resetting #187: Circus (rooms 18700-18799).
-Jan 16 10:56:21      :: Resetting #200: Western Highway (rooms 20000-20099).
-Jan 16 10:56:21      :: Resetting #201: Sapphire Islands (rooms 20100-20199).
-Jan 16 10:56:21      :: Resetting #211: Tarot (rooms 21100-21199).
-Jan 16 10:56:21      :: Resetting #220: The Enchanted Kitchen (rooms 22000-22099).
-Jan 16 10:56:21      :: Resetting #232: Terringham (rooms 23200-23299).
-Jan 16 10:56:21      :: Resetting #233: Dragon Plains (rooms 23300-23399).
-Jan 16 10:56:21      :: Resetting #234: Newbie School (rooms 23400-23499).
-Jan 16 10:56:21      :: Resetting #235: Dwarven Mines (rooms 23500-23599).
-Jan 16 10:56:21      :: Resetting #236: Aldin (rooms 23600-23699).
-Jan 16 10:56:21      :: Resetting #237: Dwarven Trade Route (rooms 23700-23799).
-Jan 16 10:56:21      :: Resetting #238: Crystal Castle (rooms 23800-23899).
-Jan 16 10:56:21      :: Resetting #239: South Pass (rooms 23900-23999).
-Jan 16 10:56:21      :: Resetting #240: Dun Maura (rooms 24000-24099).
-Jan 16 10:56:21      :: Resetting #241: Starship Enterprise (rooms 24100-24199).
-Jan 16 10:56:21      :: Resetting #242: New Southern Midgaard (rooms 24200-24299).
-Jan 16 10:56:21      :: Resetting #243: Snowy Valley (rooms 24300-24399).
-Jan 16 10:56:21      :: Resetting #244: Cooland Prison (rooms 24400-24499).
-Jan 16 10:56:21      :: Resetting #245: The Nether (rooms 24500-24599).
-Jan 16 10:56:21      :: Resetting #246: The Nether II (rooms 24600-24699).
-Jan 16 10:56:21      :: Resetting #247: Graveyard (rooms 24700-24799).
-Jan 16 10:56:21      :: Resetting #248: Elven Woods (rooms 24800-24899).
-Jan 16 10:56:21      :: Resetting #249: Jedi Clan House (rooms 24900-24999).
-Jan 16 10:56:21      :: Resetting #250: DragonSpyre (rooms 25000-25099).
-Jan 16 10:56:21      :: Resetting #251: Ape Village (rooms 25100-25199).
-Jan 16 10:56:21      :: Resetting #252: Castle of the Vampyre (rooms 25200-25299).
-Jan 16 10:56:21      :: Resetting #253: Windmill (rooms 25300-25399).
-Jan 16 10:56:21      :: Resetting #254: Mordecai's Village (rooms 25400-25499).
-Jan 16 10:56:21      :: Resetting #255: Shipwreck (rooms 25500-25599).
-Jan 16 10:56:21      :: Resetting #256: Lord's Keep (rooms 25600-25699).
-Jan 16 10:56:21      :: Resetting #257: Jareth Main City (rooms 25700-25799).
-Jan 16 10:56:21      :: Resetting #258: Light Forest (rooms 25800-25899).
-Jan 16 10:56:21      :: Resetting #259: Haunted Mansion (rooms 25900-25999).
-Jan 16 10:56:21      :: Resetting #260: Grasslands (rooms 26000-26099).
-Jan 16 10:56:21      :: Resetting #261: Inna & Igor's Castle (rooms 26100-26199).
-Jan 16 10:56:21      :: Resetting #262: Forest Trails (rooms 26200-26299).
-Jan 16 10:56:21      :: Resetting #263: Farmlands (rooms 26300-26399).
-Jan 16 10:56:21      :: Resetting #264: Banshide (rooms 26400-26499).
-Jan 16 10:56:21      :: Resetting #265: Beach & Lighthouse (rooms 26500-26599).
-Jan 16 10:56:21      :: Resetting #266: Realm of Lord Ankou (rooms 26600-26699).
-Jan 16 10:56:21      :: Resetting #267: Vice Island (rooms 26700-26799).
-Jan 16 10:56:21      :: Resetting #268: Vice Island II (rooms 26800-26899).
-Jan 16 10:56:21      :: Resetting #269: Southern Desert (rooms 26900-26999).
-Jan 16 10:56:21      :: Resetting #270: Wasteland (rooms 27000-27099).
-Jan 16 10:56:21      :: Resetting #271: Sundhaven (rooms 27100-27199).
-Jan 16 10:56:21      :: Resetting #272: Sundhaven II (rooms 27200-27299).
-Jan 16 10:56:21      :: Resetting #273: Space Station Alpha (rooms 27300-27399).
-Jan 16 10:56:21      :: Resetting #274: Adria: Saint Brigid (rooms 27400-27499).
-Jan 16 10:56:21      :: Resetting #275: New Sparta (rooms 27500-27599).
-Jan 16 10:56:21      :: Resetting #276: New Sparta II (rooms 27600-27699).
-Jan 16 10:56:21      :: Resetting #277: Shire (rooms 27700-27799).
-Jan 16 10:56:21      :: Resetting #278: Oceania (rooms 27800-27899).
-Jan 16 10:56:21      :: Resetting #279: Notre Dame (rooms 27900-27999).
-Jan 16 10:56:21      :: Resetting #280: Living Motherboard (rooms 28000-28099).
-Jan 16 10:56:21      :: Resetting #281: Forest of Khanjar (rooms 28100-28199).
-Jan 16 10:56:21      :: Resetting #282: Infernal Pit of Kerjim (rooms 28200-28299).
-Jan 16 10:56:21      :: Resetting #283: Haunted House (rooms 28300-28399).
-Jan 16 10:56:21      :: Resetting #284: Ghenna (rooms 28400-28499).
-Jan 16 10:56:21      :: Resetting #285: Descent to Hell II (rooms 28500-28599).
-Jan 16 10:56:21      :: Resetting #286: Descent to Hell (rooms 28600-28699).
-Jan 16 10:56:21      :: Resetting #287: Ofingia and the Goblin Town (rooms 28700-28799).
-Jan 16 10:56:21      :: Resetting #288: Galaxy (rooms 28800-28899).
-Jan 16 10:56:21      :: Resetting #289: Werith's Wayhouse (rooms 28900-28999).
-Jan 16 10:56:21      :: Resetting #290: Lizard Lair Safari (rooms 29000-29099).
-Jan 16 10:56:21      :: Resetting #291: Black Forest (rooms 29100-29199).
-Jan 16 10:56:21      :: Resetting #292: Kerofk (rooms 29200-29299).
-Jan 16 10:56:21      :: Resetting #293: Kerofk II (rooms 29300-29399).
-Jan 16 10:56:21      :: Resetting #294: Trade Road (rooms 29400-29499).
-Jan 16 10:56:21      :: Resetting #295: Jungle (rooms 29500-29599).
-Jan 16 10:56:21      :: Resetting #296: Froboz Fun Factory (rooms 29600-29699).
-Jan 16 10:56:21      :: Resetting #298: Castle of Desire (rooms 29800-29899).
-Jan 16 10:56:21      :: Resetting #299: Abandoned Cathedral (rooms 29900-29999).
-Jan 16 10:56:21      :: Resetting #300: Ancalador (rooms 30000-30099).
-Jan 16 10:56:21      :: Resetting #301: Campus (rooms 30100-30199).
-Jan 16 10:56:21      :: Resetting #302: Campus II (rooms 30200-30299).
-Jan 16 10:56:21      :: Resetting #303: Campus III (rooms 30300-30399).
-Jan 16 10:56:21      :: Resetting #304: Temple of the Bull (rooms 30400-30499).
-Jan 16 10:56:21      :: Resetting #305: Chessboard (rooms 30500-30599).
-Jan 16 10:56:21      :: Resetting #306: Newbie Tree (rooms 30600-30699).
-Jan 16 10:56:21      :: Resetting #307: Castle (rooms 30700-30799).
-Jan 16 10:56:21      :: Resetting #308: Baron Cailveh (rooms 30800-30899).
-Jan 16 10:56:21      :: Resetting #309: Keep of Baron Westlawn (rooms 30900-30999).
-Jan 16 10:56:21      :: Resetting #310: Graye Area (rooms 31000-31099).
-Jan 16 10:56:21      :: Resetting #311: The Dragon's Teeth (rooms 31100-31199).
-Jan 16 10:56:21      :: Resetting #312: Leper Island (rooms 31200-31299).
-Jan 16 10:56:21      :: Resetting #313: Farmlands of Ofingia (rooms 31300-31399).
-Jan 16 10:56:21      :: Resetting #314: X'Raantra's Altar of Sacrifice (rooms 31400-31499).
-Jan 16 10:56:21      :: Resetting #315: McGintey Business District (rooms 31500-31599).
-Jan 16 10:56:21      :: Resetting #316: McGintey Guild Area (rooms 31600-31699).
-Jan 16 10:56:21      :: Resetting #317: Wharf (rooms 31700-31799).
-Jan 16 10:56:21      :: Resetting #318: Dock Area (rooms 31800-31899).
-Jan 16 10:56:21      :: Resetting #319: Yllythad Sea (rooms 31900-31999).
-Jan 16 10:56:21      :: Resetting #320: Yllythad Sea II (rooms 32000-32099).
-Jan 16 10:56:21      :: Resetting #321: Yllythad Sea III (rooms 32100-32199).
-Jan 16 10:56:21      :: Resetting #322: McGintey Bay (rooms 32200-32299).
-Jan 16 10:56:21      :: Resetting #323: Caverns of the Pale Man (rooms 32300-32399).
-Jan 16 10:56:21      :: Resetting #324: Army Encampment (rooms 32400-32499).
-Jan 16 10:56:21      :: Resetting #325: Revelry (rooms 32500-32599).
-Jan 16 10:56:21      :: Resetting #326: Army Perimeter (rooms 32600-32699).
-Jan 16 10:56:21      :: Resetting #343: God Complex  (rooms 34300-34399).
-Jan 16 10:56:21      :: Resetting #345: Asylum for the Insane (rooms 34500-34599).
-Jan 16 10:56:21      :: Resetting #346: God Hall Ext 346 for God Hall Cmplx (rooms 34600-34699).
-Jan 16 10:56:21      :: Resetting #555: Ultima (rooms 55500-55599).
-Jan 16 10:56:21      :: Resetting #556: Ultima II (rooms 55600-55699).
-Jan 16 10:56:21      :: Resetting #653: Apartment (rooms 65300-65399).
-Jan 16 10:56:21      :: Resetting #654: Subdivision (rooms 65400-65499).
-Jan 16 10:56:21      :: Boot db -- DONE.
-Jan 16 10:56:21     :: Signal trapping.
-Jan 16 10:56:21      :: Entering game loop.
-Jan 16 10:56:21 ZZZZ :: No connections.  Going to sleep.
-Jan 16 10:56:24 ZZZZ :: New connection.  Waking up.
-Jan 16 10:56:29      :: Klakdor has connected.
-Jan 16 10:56:31      :: Klakdor retrieving crash-saved items and entering game.
-Jan 16 10:56:31      :: Klakdor (level 34) has 7 objects (max 30).
-Jan 16 10:57:13      :: Cro has connected.
-Jan 16 10:57:15      :: Cro had no variable file
-Jan 16 10:57:15 0    :: Cro un-renting and entering game.
-Jan 16 10:57:15     :: Cro (level 1) has 0 objects (max 30).
-Jan 16 10:57:17 4    :: Cro has quit the game.
-Jan 16 10:57:19      :: Losing player: Cro.
-Jan 16 10:58:27      :: Klakdor has quit the game.
-Jan 16 10:58:27     :: Losing player: Klakdor.
-Jan 16 10:58:27 †œˆ :: No connections.  Going to sleep.
-Jan 16 11:00:51 †œˆ :: New connection.  Waking up.
-Jan 16 11:00:55      :: Klakdor has connected.
-Jan 16 11:00:56 0    :: Klakdor un-renting and entering game.
-Jan 16 11:00:56     :: Klakdor (level 34) has 7 objects (max 30).
-Jan 16 11:00:58 4    :: Klakdor has quit the game.
-Jan 16 11:00:58     :: Losing player: Klakdor.
-Jan 16 11:00:58      :: No connections.  Going to sleep.
-Jan 16 11:02:36      :: New connection.  Waking up.
-Jan 16 11:02:41      :: Klakdor has connected.
-Jan 16 11:02:42 0    :: Klakdor un-renting and entering game.
-Jan 16 11:02:42     :: Klakdor (level 34) has 7 objects (max 30).
-Jan 16 11:02:57      :: OLC: Klakdor starts editing zone 30 allowed zone 0
-Jan 16 11:03:15      :: OLC: Klakdor edits obj 3034
-Jan 16 11:03:15     :: OLC: Klakdor stops editing zone 30 allowed zone 0
-Jan 16 11:03:19 4    :: Klakdor has quit the game.
-Jan 16 11:03:20     :: Losing player: Klakdor.
-Jan 16 11:03:20      :: No connections.  Going to sleep.
-Jan 16 11:05:09      :: New connection.  Waking up.
-Jan 16 11:05:13 †œˆ :: WARNING: EOF on socket read (connection broken by peer)
-Jan 16 11:05:13     :: Losing descriptor without char.
-Jan 16 11:05:13 †œˆ :: No connections.  Going to sleep.
-Jan 16 12:10:47 †œˆ :: New connection.  Waking up.
-Jan 16 12:11:23 0    :: Jolo [c-24-5-121-178.hsd1.ca.comcast.net] new player.
-Jan 16 12:12:10      :: Jolo had no variable file
-Jan 16 12:12:10      :: Jolo entering game with no equipment.
-Jan 16 12:12:50      :: nusage: 1   sockets connected, 1   sockets playing
-Jan 16 12:14:30 ˇˇˇˇ :: Jolo has quit the game.
-Jan 16 12:14:36 ACT :: Losing player: Jolo.
-Jan 16 12:14:36      :: No connections.  Going to sleep.
-Jan 16 15:04:22      :: New connection.  Waking up.
-Jan 16 15:04:34      :: Klakdor has connected.
-Jan 16 15:04:35 0    :: Klakdor un-renting and entering game.
-Jan 16 15:04:35      :: Klakdor (level 34) has 7 objects (max 30).
-Jan 16 15:06:45 ˇˇˇˇ :: Klakdor tried to get help on znoe
-Jan 16 15:06:52 Ú≤S  :: OLC: Klakdor starts editing zone 30 allowed zone 0
-Jan 16 15:07:15 NO_M :: OLC: Klakdor stops editing zone 30 allowed zone 0
-Jan 16 15:07:36      :: nusage: 1   sockets connected, 1   sockets playing
-Jan 16 15:08:14      :: OLC: Klakdor starts editing zone 0 allowed zone 0
-Jan 16 15:08:48     :: OLC: Klakdor stops editing zone 0 allowed zone 0
-Jan 16 15:08:52     :: OLC: Klakdor starts editing zone 0 allowed zone 0
-Jan 16 15:08:57 INDO :: OLC: Klakdor stops editing zone 0 allowed zone 0
-Jan 16 15:09:24 Ú≤S  :: OLC: Klakdor starts editing zone 0 allowed zone 0
-Jan 16 15:09:39 ‘!P  :: OLC: Klakdor stops editing zone 0 allowed zone 0
-Jan 16 15:09:42 Ú≤S  :: OLC: Klakdor starts editing zone 0 allowed zone 0
-Jan 16 15:11:02 ‘!P  :: OLC: Klakdor stops editing zone 0 allowed zone 0
-Jan 16 15:12:36      :: nusage: 1   sockets connected, 1   sockets playing
-Jan 16 15:12:52 ˇˇˇˇ :: Klakdor tried to get help on action-editer
-Jan 16 15:17:36      :: nusage: 1   sockets connected, 1   sockets playing
-Jan 16 15:22:36      :: nusage: 1   sockets connected, 1   sockets playing
-Jan 16 15:27:36      :: nusage: 1   sockets connected, 1   sockets playing
-Jan 16 15:32:36      :: nusage: 1   sockets connected, 1   sockets playing
-Jan 16 15:37:36      :: nusage: 1   sockets connected, 1   sockets playing
-Jan 16 15:42:36      :: nusage: 1   sockets connected, 1   sockets playing
-Jan 16 15:43:26 ˇˇˇˇ :: Klakdor tried to get help on apostraphe
-Jan 16 15:47:36      :: nusage: 1   sockets connected, 1   sockets playing
-Jan 16 15:52:36      :: nusage: 1   sockets connected, 1   sockets playing
-Jan 16 15:57:36      :: nusage: 1   sockets connected, 1   sockets playing
-Jan 16 16:02:36      :: nusage: 1   sockets connected, 1   sockets playing
-Jan 16 16:07:36      :: nusage: 1   sockets connected, 1   sockets playing
-Jan 16 16:09:36 ˇˇˇˇ :: Klakdor tried to get help on digwalkl
-Jan 16 16:12:10 
-    :: GenOLC: save_rooms: Saving rooms in zone #0 (0-99).
-Jan 16 16:12:36      :: nusage: 1   sockets connected, 1   sockets playing
-Jan 16 16:17:33 y    ::    2648 entries, 84736 bytes.
-Jan 16 16:17:36      :: nusage: 1   sockets connected, 1   sockets playing
-Jan 16 16:21:09 CDR  :: OLC: Klakdor starts editing zone 0 allowed zone 0
-Jan 16 16:21:12      :: OLC: Klakdor stops editing zone 0 allowed zone 0
-Jan 16 16:22:20      :: OLC: Klakdor starts editing the game configuration.
-Jan 16 16:22:36      :: nusage: 1   sockets connected, 1   sockets playing
-Jan 16 16:23:34     :: OLC: Klakdor modifies the game configuration.
-Jan 16 16:23:34 Jan  :: OLC: Klakdor stops editing the game configuration
-Jan 16 16:23:44     :: OLC: Klakdor starts editing zone 0 allowed zone 0
-Jan 16 16:23:55      :: GenOLC: add_room: Updated existing room #8.
-Jan 16 16:23:55      :: OLC: Klakdor edits room 8.
-Jan 16 16:23:55 I   :: GenOLC: save_rooms: Saving rooms in zone #0 (0-99).
-Jan 16 16:23:55      :: OLC: Klakdor stops editing zone 0 allowed zone 0
-Jan 16 16:24:32      :: OLC: Klakdor starts editing the game configuration.
-Jan 16 16:27:36      :: nusage: 1   sockets connected, 1   sockets playing
-Jan 16 16:27:47     :: OLC: Klakdor modifies the game configuration.
-Jan 16 16:27:47 Jan  :: OLC: Klakdor stops editing the game configuration
-Jan 16 16:29:01      :: OLC: Klakdor saves 'text/motd'.
-Jan 16 16:29:01      :: OLC: Klakdor stops editing text files.
-Jan 16 16:30:49      :: OLC: Klakdor saves 'text/motd'.
-Jan 16 16:30:49      :: OLC: Klakdor stops editing text files.
-Jan 16 16:31:22      :: OLC: Klakdor stops editing text files.
+Jan 17 14:20:31      :: Loading configuration.
+Jan 17 14:20:31      :: tbaMUD 3.67
+Jan 17 14:20:31      :: Using lib as data directory.
+Jan 17 14:20:31      :: Running game on port 4000.
+Jan 17 14:20:31 ÔIÇ :: Finding player limit.
+Jan 17 14:20:31      ::    Setting player limit to 300 using rlimit.
+Jan 17 14:20:31      :: Opening mother connection.
+Jan 17 14:20:31      :: Binding to all IP interfaces on this host.
+Jan 17 14:20:31      :: Boot db -- BEGIN.
+Jan 17 14:20:31      :: Resetting the game time:
+Jan 17 14:20:31 ∂} ::    Current Gametime: 13H 0D 15M 778Y.
+Jan 17 14:20:31 ∂} :: Initialize Global Lists
+Jan 17 14:20:31      :: Initializing Events
+Jan 17 14:20:31 [    :: Reading news, credits, help, ihelp, bground, info & motds.
+Jan 17 14:20:31 ZZZZ :: Loading spell definitions.
+Jan 17 14:20:31 $∂} :: Loading zone table.
+Jan 17 14:20:31 q    ::    189 zones, 13608 bytes.
+Jan 17 14:20:31 $∂} :: Loading triggers and generating index.
+Jan 17 14:20:31 $∂} :: Loading rooms.
+Jan 17 14:20:31 ~    ::    12732 rooms, 2342688 bytes.
+Jan 17 14:20:31 $∂} :: Renumbering rooms.
+Jan 17 14:20:31 $∂} :: Checking start rooms.
+Jan 17 14:20:31 $∂} :: Loading mobs and generating index.
+Jan 17 14:20:31 z    ::    3705 mobs, 118560 bytes in index, 2134080 bytes in prototypes.
+Jan 17 14:20:31 $∂} :: Loading objs and generating index.
+Jan 17 14:20:31 {    ::    4765 objs, 152480 bytes in index, 1143600 bytes in prototypes.
+Jan 17 14:20:31 $∂} :: Renumbering zone table.
+Jan 17 14:20:31 $∂} :: Loading shops.
+Jan 17 14:20:31 $∂} :: Loading quests.
+Jan 17 14:20:31 	    ::    1 entries, 128 bytes.
+Jan 17 14:20:31 	    :: Loading help entries.
+Jan 17 14:20:31 y    ::    2648 entries, 84736 bytes.
+Jan 17 14:20:31 	    :: Generating player index.
+Jan 17 14:20:31 	    :: Loading fight messages.
+Jan 17 14:20:31     :: Loaded 37 Combat Messages...
+Jan 17 14:20:31 ÄÄΩ  :: Loading social messages.
+Jan 17 14:20:31 Iî%% :: Social table contains 489 socials.
+Jan 17 14:20:31 ÄÄΩ  :: Building command list.
+Jan 17 14:20:31 ¿uá :: Command info rebuilt, 762 total commands.
+Jan 17 14:20:31 ¿uá :: Assigning function pointers:
+Jan 17 14:20:31 ¿uá ::    Mobiles.
+Jan 17 14:20:31 ¿uá ::    Shopkeepers.
+Jan 17 14:20:31 ¿uá ::    Objects.
+Jan 17 14:20:31 ¿uá ::    Rooms.
+Jan 17 14:20:31 ¿uá ::    Questmasters.
+Jan 17 14:20:31 ¿uá :: Assigning spell and skill levels.
+Jan 17 14:20:31 ¿uá :: Sorting command list and spells.
+Jan 17 14:20:31     :: Booting mail system.
+Jan 17 14:20:31 5    ::    Mail file read -- 0 messages.
+Jan 17 14:20:31 ÄÄΩ  :: Reading banned site and invalid-name list.
+Jan 17 14:20:31 ÄÄΩ  :: Loading Ideas.
+Jan 17 14:20:31 ÄÄΩ  :: Loading Bugs.
+Jan 17 14:20:31 ÄÄΩ  :: Loading Typos.
+Jan 17 14:20:31 ÄÄΩ  :: Booting houses.
+Jan 17 14:20:31      ::    No houses to load. File 'etc/hcontrol' does not exist.
+Jan 17 14:20:31      :: Cleaning up last log.
+Jan 17 14:20:31      :: Resetting #0: The Builder Academy Zone (rooms 0-99).
+Jan 17 14:20:31      :: Resetting #1: Sanctus (rooms 100-199).
+Jan 17 14:20:31      :: Resetting #2: Sanctus II (rooms 200-299).
+Jan 17 14:20:31      :: Resetting #3: Sanctus III (rooms 300-399).
+Jan 17 14:20:31      :: Resetting #4: Jade Forest (rooms 400-499).
+Jan 17 14:20:31      :: Resetting #5: Newbie Farm (rooms 500-599).
+Jan 17 14:20:31      :: Resetting #6: Sea of Souls (rooms 600-699).
+Jan 17 14:20:31      :: Resetting #7: Camelot (rooms 700-799).
+Jan 17 14:20:31      :: Resetting #9: River Island of Minos (rooms 900-999).
+Jan 17 14:20:31      :: Resetting #11: Frozen Castle (rooms 1100-1199).
+Jan 17 14:20:31      :: Resetting #12: God Complex Merged with 343 (rooms 1200-1299).
+Jan 17 14:20:31      :: Resetting #13: TBA Examples (rooms 1300-1399).
+Jan 17 14:20:31      :: Resetting #14: TBA Examples II (rooms 1400-1499).
+Jan 17 14:20:31      :: Resetting #15: Straight Path (rooms 1500-1599).
+Jan 17 14:20:31      :: Resetting #16: Camelot II (rooms 1600-1699).
+Jan 17 14:20:31      :: Resetting #17: Camelot III (rooms 1700-1799).
+Jan 17 14:20:31      :: Resetting #18: Nuclear Wasteland (rooms 1800-1899).
+Jan 17 14:20:31      :: Resetting #19: Spider Swamp (rooms 1900-1999).
+Jan 17 14:20:31      :: Resetting #20: Arena (rooms 2000-2099).
+Jan 17 14:20:31      :: Resetting #22: Tower of the Undead (rooms 2200-2299).
+Jan 17 14:20:31      :: Resetting #25: High Tower of Magic (rooms 2500-2599).
+Jan 17 14:20:31      :: Resetting #26: High Tower of Magic II (rooms 2600-2699).
+Jan 17 14:20:31      :: Resetting #27: Memlin Caverns (rooms 2700-2799).
+Jan 17 14:20:31      :: Resetting #28: Mudschool (rooms 2800-2899).
+Jan 17 14:20:31      :: Resetting #30: Northern Midgaard (rooms 3000-3099).
+Jan 17 14:20:31      :: Resetting #31: Southern Midgaard (rooms 3100-3199).
+Jan 17 14:20:31      :: Resetting #32: Midgaard (rooms 3200-3299).
+Jan 17 14:20:31      :: Resetting #33: Three of Swords (rooms 3300-3399).
+Jan 17 14:20:31      :: Resetting #35: Miden'Nir (rooms 3500-3599).
+Jan 17 14:20:31      :: Resetting #36: Chessboard of Midgaard (rooms 3600-3699).
+Jan 17 14:20:31      :: Resetting #37: Capital Sewer System (rooms 3700-3799).
+Jan 17 14:20:31      :: Resetting #38: Capital Sewer System II (rooms 3800-3899).
+Jan 17 14:20:31      :: Resetting #39: Haven (rooms 3900-3999).
+Jan 17 14:20:31      :: Resetting #40: Mines of Moria (rooms 4000-4099).
+Jan 17 14:20:31      :: Resetting #41: Mines of Moria (rooms 4100-4199).
+Jan 17 14:20:31      :: Resetting #42: Dragon Chasm (rooms 4200-4299).
+Jan 17 14:20:31      :: Resetting #43: Arctic Zone (rooms 4300-4399).
+Jan 17 14:20:31      :: Resetting #44: Orc Camp (rooms 4400-4499).
+Jan 17 14:20:31      :: Resetting #45: Woodland Monastery (rooms 4500-4599).
+Jan 17 14:20:31      :: Resetting #46: Ant Hill (rooms 4600-4699).
+Jan 17 14:20:31      :: Resetting #50: Great Eastern Desert (rooms 5000-5099).
+Jan 17 14:20:31      :: Resetting #51: Drow City (rooms 5100-5199).
+Jan 17 14:20:31      :: Resetting #52: City of Thalos (rooms 5200-5299).
+Jan 17 14:20:31      :: Resetting #53: Great Pyramid (rooms 5300-5399).
+Jan 17 14:20:31      :: Resetting #54: New Thalos (rooms 5400-5499).
+Jan 17 14:20:31      :: Resetting #55: New Thalos II (rooms 5500-5599).
+Jan 17 14:20:31      :: Resetting #56: New Thalos Wilderness (rooms 5600-5699).
+Jan 17 14:20:31      :: Resetting #57: Zodiac (rooms 5700-5799).
+Jan 17 14:20:31      :: Resetting #60: Haon-Dor, Light Forest (rooms 6000-6099).
+Jan 17 14:20:31      :: Resetting #61: Haon-Dor, Light Forest II (rooms 6100-6199).
+Jan 17 14:20:31      :: Resetting #62: Orc Enclave (rooms 6200-6299).
+Jan 17 14:20:31      :: Resetting #63: Arachnos (rooms 6300-6399).
+Jan 17 14:20:31      :: Resetting #64: Rand's Tower (rooms 6400-6499).
+Jan 17 14:20:31      :: Resetting #65: Dwarven Kingdom (rooms 6500-6599).
+Jan 17 14:20:31      :: Resetting #70: Sewer, First Level (rooms 7000-7099).
+Jan 17 14:20:31      :: Resetting #71: Second Sewer (rooms 7100-7199).
+Jan 17 14:20:31      :: Resetting #72: Sewer Maze (rooms 7200-7299).
+Jan 17 14:20:31      :: Resetting #73: Tunnels in the Sewer (rooms 7300-7399).
+Jan 17 14:20:31      :: Resetting #74: Newbie Graveyard (rooms 7400-7499).
+Jan 17 14:20:31      :: Resetting #75: Zamba (rooms 7500-7599).
+Jan 17 14:20:31      :: Resetting #78: Gideon (rooms 7800-7899).
+Jan 17 14:20:31      :: Resetting #79: Redferne's Residence (rooms 7900-7999).
+Jan 17 14:20:31      :: Resetting #83: Glumgold's Sea (rooms 8300-8399).
+Jan 17 14:20:31      :: Resetting #86: Duke Kalithorn's Keep (rooms 8600-8699).
+Jan 17 14:20:31      :: Resetting #90: Oasis (rooms 9000-9099).
+Jan 17 14:20:31      :: Resetting #96: Domiae (rooms 9600-9699).
+Jan 17 14:20:31      :: Resetting #100: Northern Highway (rooms 10000-10099).
+Jan 17 14:20:31      :: Resetting #101: South Road (rooms 10100-10199).
+Jan 17 14:20:31      :: Resetting #103: DBZ World (rooms 10300-10399).
+Jan 17 14:20:31      :: Resetting #104: Land of Orchan (rooms 10400-10499).
+Jan 17 14:20:31      :: Resetting #106: Elcardo (rooms 10600-10699).
+Jan 17 14:20:31      :: Resetting #107: Realms of Iuel (rooms 10700-10799).
+Jan 17 14:20:31      :: Resetting #115: Monestary Omega (rooms 11500-11599).
+Jan 17 14:20:31      :: Resetting #117: Los Torres (rooms 11700-11799).
+Jan 17 14:20:31      :: Resetting #118: The Dollhouse (rooms 11800-11899).
+Jan 17 14:20:31      :: Resetting #120: Rome (rooms 12000-12099).
+Jan 17 14:20:31      :: Resetting #125: Hannah (rooms 12500-12599).
+Jan 17 14:20:31      :: Resetting #130: Mist Maze (rooms 13000-13099).
+Jan 17 14:20:31      :: Resetting #140: Wyvern City (rooms 14000-14099).
+Jan 17 14:20:31      :: Resetting #150: King Welmar's Castle (rooms 15000-15099).
+Jan 17 14:20:31      :: Resetting #169: Gibberling Caves (rooms 16900-16999).
+Jan 17 14:20:31      :: Resetting #175: Cardinal Wizards (rooms 17500-17599).
+Jan 17 14:20:31      :: Resetting #186: Newbie Zone (rooms 18600-18699).
+Jan 17 14:20:31      :: Resetting #187: Circus (rooms 18700-18799).
+Jan 17 14:20:31      :: Resetting #200: Western Highway (rooms 20000-20099).
+Jan 17 14:20:31      :: Resetting #201: Sapphire Islands (rooms 20100-20199).
+Jan 17 14:20:31      :: Resetting #211: Tarot (rooms 21100-21199).
+Jan 17 14:20:31      :: Resetting #220: The Enchanted Kitchen (rooms 22000-22099).
+Jan 17 14:20:31      :: Resetting #232: Terringham (rooms 23200-23299).
+Jan 17 14:20:31      :: Resetting #233: Dragon Plains (rooms 23300-23399).
+Jan 17 14:20:31      :: Resetting #234: Newbie School (rooms 23400-23499).
+Jan 17 14:20:31      :: Resetting #235: Dwarven Mines (rooms 23500-23599).
+Jan 17 14:20:31      :: Resetting #236: Aldin (rooms 23600-23699).
+Jan 17 14:20:31      :: Resetting #237: Dwarven Trade Route (rooms 23700-23799).
+Jan 17 14:20:31      :: Resetting #238: Crystal Castle (rooms 23800-23899).
+Jan 17 14:20:31      :: Resetting #239: South Pass (rooms 23900-23999).
+Jan 17 14:20:31      :: Resetting #240: Dun Maura (rooms 24000-24099).
+Jan 17 14:20:31      :: Resetting #241: Starship Enterprise (rooms 24100-24199).
+Jan 17 14:20:31      :: Resetting #242: New Southern Midgaard (rooms 24200-24299).
+Jan 17 14:20:31      :: Resetting #243: Snowy Valley (rooms 24300-24399).
+Jan 17 14:20:31      :: Resetting #244: Cooland Prison (rooms 24400-24499).
+Jan 17 14:20:31      :: Resetting #245: The Nether (rooms 24500-24599).
+Jan 17 14:20:31      :: Resetting #246: The Nether II (rooms 24600-24699).
+Jan 17 14:20:31      :: Resetting #247: Graveyard (rooms 24700-24799).
+Jan 17 14:20:31      :: Resetting #248: Elven Woods (rooms 24800-24899).
+Jan 17 14:20:31      :: Resetting #249: Jedi Clan House (rooms 24900-24999).
+Jan 17 14:20:31      :: Resetting #250: DragonSpyre (rooms 25000-25099).
+Jan 17 14:20:31      :: Resetting #251: Ape Village (rooms 25100-25199).
+Jan 17 14:20:31      :: Resetting #252: Castle of the Vampyre (rooms 25200-25299).
+Jan 17 14:20:31      :: Resetting #253: Windmill (rooms 25300-25399).
+Jan 17 14:20:31      :: Resetting #254: Mordecai's Village (rooms 25400-25499).
+Jan 17 14:20:31      :: Resetting #255: Shipwreck (rooms 25500-25599).
+Jan 17 14:20:31      :: Resetting #256: Lord's Keep (rooms 25600-25699).
+Jan 17 14:20:31      :: Resetting #257: Jareth Main City (rooms 25700-25799).
+Jan 17 14:20:31      :: Resetting #258: Light Forest (rooms 25800-25899).
+Jan 17 14:20:31      :: Resetting #259: Haunted Mansion (rooms 25900-25999).
+Jan 17 14:20:31      :: Resetting #260: Grasslands (rooms 26000-26099).
+Jan 17 14:20:31      :: Resetting #261: Inna & Igor's Castle (rooms 26100-26199).
+Jan 17 14:20:31      :: Resetting #262: Forest Trails (rooms 26200-26299).
+Jan 17 14:20:31      :: Resetting #263: Farmlands (rooms 26300-26399).
+Jan 17 14:20:31      :: Resetting #264: Banshide (rooms 26400-26499).
+Jan 17 14:20:31      :: Resetting #265: Beach & Lighthouse (rooms 26500-26599).
+Jan 17 14:20:31      :: Resetting #266: Realm of Lord Ankou (rooms 26600-26699).
+Jan 17 14:20:31      :: Resetting #267: Vice Island (rooms 26700-26799).
+Jan 17 14:20:31      :: Resetting #268: Vice Island II (rooms 26800-26899).
+Jan 17 14:20:31      :: Resetting #269: Southern Desert (rooms 26900-26999).
+Jan 17 14:20:31      :: Resetting #270: Wasteland (rooms 27000-27099).
+Jan 17 14:20:31      :: Resetting #271: Sundhaven (rooms 27100-27199).
+Jan 17 14:20:31      :: Resetting #272: Sundhaven II (rooms 27200-27299).
+Jan 17 14:20:31      :: Resetting #273: Space Station Alpha (rooms 27300-27399).
+Jan 17 14:20:31      :: Resetting #274: Adria: Saint Brigid (rooms 27400-27499).
+Jan 17 14:20:31      :: Resetting #275: New Sparta (rooms 27500-27599).
+Jan 17 14:20:31      :: Resetting #276: New Sparta II (rooms 27600-27699).
+Jan 17 14:20:31      :: Resetting #277: Shire (rooms 27700-27799).
+Jan 17 14:20:31      :: Resetting #278: Oceania (rooms 27800-27899).
+Jan 17 14:20:31      :: Resetting #279: Notre Dame (rooms 27900-27999).
+Jan 17 14:20:31      :: Resetting #280: Living Motherboard (rooms 28000-28099).
+Jan 17 14:20:31      :: Resetting #281: Forest of Khanjar (rooms 28100-28199).
+Jan 17 14:20:31      :: Resetting #282: Infernal Pit of Kerjim (rooms 28200-28299).
+Jan 17 14:20:31      :: Resetting #283: Haunted House (rooms 28300-28399).
+Jan 17 14:20:31      :: Resetting #284: Ghenna (rooms 28400-28499).
+Jan 17 14:20:31      :: Resetting #285: Descent to Hell II (rooms 28500-28599).
+Jan 17 14:20:31      :: Resetting #286: Descent to Hell (rooms 28600-28699).
+Jan 17 14:20:31      :: Resetting #287: Ofingia and the Goblin Town (rooms 28700-28799).
+Jan 17 14:20:31      :: Resetting #288: Galaxy (rooms 28800-28899).
+Jan 17 14:20:31      :: Resetting #289: Werith's Wayhouse (rooms 28900-28999).
+Jan 17 14:20:31      :: Resetting #290: Lizard Lair Safari (rooms 29000-29099).
+Jan 17 14:20:31      :: Resetting #291: Black Forest (rooms 29100-29199).
+Jan 17 14:20:31      :: Resetting #292: Kerofk (rooms 29200-29299).
+Jan 17 14:20:31      :: Resetting #293: Kerofk II (rooms 29300-29399).
+Jan 17 14:20:31      :: Resetting #294: Trade Road (rooms 29400-29499).
+Jan 17 14:20:31      :: Resetting #295: Jungle (rooms 29500-29599).
+Jan 17 14:20:31      :: Resetting #296: Froboz Fun Factory (rooms 29600-29699).
+Jan 17 14:20:31      :: Resetting #298: Castle of Desire (rooms 29800-29899).
+Jan 17 14:20:31      :: Resetting #299: Abandoned Cathedral (rooms 29900-29999).
+Jan 17 14:20:31      :: Resetting #300: Ancalador (rooms 30000-30099).
+Jan 17 14:20:31      :: Resetting #301: Campus (rooms 30100-30199).
+Jan 17 14:20:31      :: Resetting #302: Campus II (rooms 30200-30299).
+Jan 17 14:20:31      :: Resetting #303: Campus III (rooms 30300-30399).
+Jan 17 14:20:31      :: Resetting #304: Temple of the Bull (rooms 30400-30499).
+Jan 17 14:20:31      :: Resetting #305: Chessboard (rooms 30500-30599).
+Jan 17 14:20:31      :: Resetting #306: Newbie Tree (rooms 30600-30699).
+Jan 17 14:20:31      :: Resetting #307: Castle (rooms 30700-30799).
+Jan 17 14:20:31      :: Resetting #308: Baron Cailveh (rooms 30800-30899).
+Jan 17 14:20:31      :: Resetting #309: Keep of Baron Westlawn (rooms 30900-30999).
+Jan 17 14:20:31      :: Resetting #310: Graye Area (rooms 31000-31099).
+Jan 17 14:20:31      :: Resetting #311: The Dragon's Teeth (rooms 31100-31199).
+Jan 17 14:20:31      :: Resetting #312: Leper Island (rooms 31200-31299).
+Jan 17 14:20:31      :: Resetting #313: Farmlands of Ofingia (rooms 31300-31399).
+Jan 17 14:20:31      :: Resetting #314: X'Raantra's Altar of Sacrifice (rooms 31400-31499).
+Jan 17 14:20:31      :: Resetting #315: McGintey Business District (rooms 31500-31599).
+Jan 17 14:20:31      :: Resetting #316: McGintey Guild Area (rooms 31600-31699).
+Jan 17 14:20:31      :: Resetting #317: Wharf (rooms 31700-31799).
+Jan 17 14:20:31      :: Resetting #318: Dock Area (rooms 31800-31899).
+Jan 17 14:20:31      :: Resetting #319: Yllythad Sea (rooms 31900-31999).
+Jan 17 14:20:31      :: Resetting #320: Yllythad Sea II (rooms 32000-32099).
+Jan 17 14:20:31      :: Resetting #321: Yllythad Sea III (rooms 32100-32199).
+Jan 17 14:20:31      :: Resetting #322: McGintey Bay (rooms 32200-32299).
+Jan 17 14:20:31      :: Resetting #323: Caverns of the Pale Man (rooms 32300-32399).
+Jan 17 14:20:31      :: Resetting #324: Army Encampment (rooms 32400-32499).
+Jan 17 14:20:31      :: Resetting #325: Revelry (rooms 32500-32599).
+Jan 17 14:20:31      :: Resetting #326: Army Perimeter (rooms 32600-32699).
+Jan 17 14:20:31      :: Resetting #343: God Complex  (rooms 34300-34399).
+Jan 17 14:20:31      :: Resetting #345: Asylum for the Insane (rooms 34500-34599).
+Jan 17 14:20:31      :: Resetting #346: God Hall Ext 346 for God Hall Cmplx (rooms 34600-34699).
+Jan 17 14:20:31      :: Resetting #555: Ultima (rooms 55500-55599).
+Jan 17 14:20:31      :: Resetting #556: Ultima II (rooms 55600-55699).
+Jan 17 14:20:31      :: Resetting #653: Apartment (rooms 65300-65399).
+Jan 17 14:20:31      :: Resetting #654: Subdivision (rooms 65400-65499).
+Jan 17 14:20:31      :: Boot db -- DONE.
+Jan 17 14:20:31     :: Signal trapping.
+Jan 17 14:20:31      :: Entering game loop.
+Jan 17 14:20:31 ZZZZ :: No connections.  Going to sleep.
+Jan 17 14:20:33 ZZZZ :: New connection.  Waking up.
+SYSERR: gethostbyaddr: Success
+Jan 17 14:20:59      :: Klakdor has connected.
+Jan 17 14:21:02      :: Klakdor retrieving crash-saved items and entering game.
+Jan 17 14:21:02      :: Klakdor (level 34) has 7 objects (max 60).
+Jan 17 14:25:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 14:30:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 14:35:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 14:40:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 14:45:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 14:50:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 14:55:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 15:00:33      :: nusage: 1   sockets connected, 1   sockets playing
+SYSERR: gethostbyaddr: Success
+Jan 17 15:01:03      :: Losing descriptor without char.
+Jan 17 15:05:33      :: nusage: 1   sockets connected, 1   sockets playing
+SYSERR: gethostbyaddr: Success
+Jan 17 15:09:52      :: Klakdor has re-logged in ... disconnecting old socket.
+Jan 17 15:09:52     :: Losing descriptor without char.
+Jan 17 15:10:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 15:15:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 15:20:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 15:25:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 15:30:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 15:35:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 15:40:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 15:45:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 15:50:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 15:55:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 16:00:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 16:05:33      :: nusage: 2   sockets connected, 1   sockets playing
+Jan 17 16:05:44     :: Jonthax has connected.
+Jan 17 16:05:52      :: Jonthax had no variable file
+Jan 17 16:05:52 0    :: Jonthax un-renting and entering game.
+Jan 17 16:05:52     :: Jonthax (level 1) has 1 object (max 60).
+Jan 17 16:10:33 ∂} :: nusage: 2   sockets connected, 2   sockets playing
+Jan 17 16:15:33 ∂} :: nusage: 2   sockets connected, 2   sockets playing
+SYSERR: gethostbyaddr: Success
+Jan 17 16:19:48      :: Losing descriptor without char.
+Jan 17 16:20:33 ∂} :: nusage: 2   sockets connected, 2   sockets playing
+Jan 17 16:24:43      :: Jonthax advanced 1 level to level 2.
+Jan 17 16:25:33 ∂} :: nusage: 2   sockets connected, 2   sockets playing
+Jan 17 16:30:33 ∂} :: nusage: 2   sockets connected, 2   sockets playing
+Jan 17 16:35:33 ∂} :: nusage: 2   sockets connected, 2   sockets playing
+Jan 17 16:40:33 ∂} :: nusage: 2   sockets connected, 2   sockets playing
+Jan 17 16:45:33 ∂} :: nusage: 2   sockets connected, 2   sockets playing
+Jan 17 16:50:33 ∂} :: nusage: 2   sockets connected, 2   sockets playing
+Jan 17 16:55:33 ∂} :: nusage: 2   sockets connected, 2   sockets playing
+Jan 17 17:00:33 ∂} :: nusage: 2   sockets connected, 2   sockets playing
+Jan 17 17:04:51 ˇˇˇˇ :: Jonthax has quit the game.
+Jan 17 17:04:57 ˇ   :: Losing player: Jonthax.
+Jan 17 17:05:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 17:10:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 17:15:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 17:20:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 17:25:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 17:30:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 17:35:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 17:40:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 17:45:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 17:50:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 17:55:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 18:00:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 18:05:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 18:10:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 18:15:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 18:20:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 18:25:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 18:30:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 18:35:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 18:40:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 18:45:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 18:50:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 18:55:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 19:00:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 19:05:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 19:10:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 19:15:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 19:20:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 19:25:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 19:26:03      :: Rellik has connected.
+Jan 17 19:26:07 0    :: Rellik un-renting and entering game.
+Jan 17 19:26:07 ¬≥} :: Rellik (level 7) has 32 objects (max 60).
+Jan 17 19:30:33 ∂} :: nusage: 2   sockets connected, 2   sockets playing
+Jan 17 19:34:17 0    :: TheAntarchist [70-36-215-128.dsl.dynamic.sonic.net] new player.
+Jan 17 19:35:33 ∂} :: nusage: 3   sockets connected, 2   sockets playing
+Jan 17 19:35:43      :: TheAntarchist had no variable file
+Jan 17 19:35:43      :: TheAntarchist entering game with no equipment.
+Jan 17 19:40:33 ∂} :: nusage: 3   sockets connected, 3   sockets playing
+Jan 17 19:41:07      :: TheAntarchist killed by the cityguard at Main Street
+Jan 17 19:41:25      :: Add_to_lookup failed. Already there. (uid = 6)
+Jan 17 19:41:25 ◊    :: TheAntarchist entering game with no equipment.
+Jan 17 19:45:33 ∂} :: nusage: 3   sockets connected, 3   sockets playing
+Jan 17 19:50:33 ∂} :: nusage: 3   sockets connected, 3   sockets playing
+Jan 17 19:55:33 ∂} :: nusage: 3   sockets connected, 3   sockets playing
+Jan 17 20:00:33 ∂} :: nusage: 3   sockets connected, 3   sockets playing
+Jan 17 20:02:29      :: TheAntarchist advanced 1 level to level 2.
+Jan 17 20:03:01      :: TheAntarchist killed by the Black Knight at A White Square
+Jan 17 20:05:10      :: Add_to_lookup failed. Already there. (uid = 6)
+Jan 17 20:05:10  doo :: TheAntarchist entering game with no equipment.
+Jan 17 20:05:33      :: nusage: 3   sockets connected, 3   sockets playing
+Jan 17 20:10:33 †ßR  :: nusage: 3   sockets connected, 3   sockets playing
+Jan 17 20:15:33 ∂} :: nusage: 3   sockets connected, 3   sockets playing
+Jan 17 20:20:33 ∂} :: nusage: 3   sockets connected, 3   sockets playing
+Jan 17 20:24:33 ·   :: TheAntarchist advanced 1 level to level 3.
+Jan 17 20:25:33      :: nusage: 3   sockets connected, 3   sockets playing
+Jan 17 20:30:33 ∂} :: nusage: 3   sockets connected, 3   sockets playing
+Jan 17 20:35:33 ∂} :: nusage: 4   sockets connected, 3   sockets playing
+Jan 17 20:35:37      :: Klakdor has re-logged in ... disconnecting old socket.
+Jan 17 20:35:37 ˇ   :: Losing descriptor without char.
+Jan 17 20:40:33 †ßR  :: nusage: 3   sockets connected, 3   sockets playing
+Jan 17 20:45:33      :: nusage: 3   sockets connected, 3   sockets playing
+Jan 17 20:48:37 d@µ} :: TheAntarchist advanced 1 level to level 4.
+Jan 17 20:50:33 ∂} :: nusage: 3   sockets connected, 3   sockets playing
+Jan 17 20:51:20      :: Cro has connected.
+Jan 17 20:51:22      :: Cro had no variable file
+Jan 17 20:51:22 0    :: Cro un-renting and entering game.
+Jan 17 20:51:22 ŸÇ  :: Cro (level 1) has 0 objects (max 60).
+Jan 17 20:52:47 ÄÇ  :: Rellik killed by the Black Bishop at A White Square
+Jan 17 20:52:51 ŸÇ  :: Add_to_lookup failed. Already there. (uid = 2)
+Jan 17 20:52:51 1∂} :: Rellik entering game with no equipment.
+Jan 17 20:52:53      :: Cro killed by the Black Bishop at A White Square
+Jan 17 20:53:01      :: Add_to_lookup failed. Already there. (uid = 3)
+Jan 17 20:53:01     :: Cro entering game with no equipment.
+Jan 17 20:53:09 1∂} :: TheAntarchist advanced 1 level to level 5.
+Jan 17 20:54:03      :: Cro has quit the game.
+Jan 17 20:54:03    8 :: Losing player: Cro.
+Jan 17 20:55:33 ∂} :: nusage: 3   sockets connected, 3   sockets playing
+Jan 17 20:56:36 >[7 :: (GC) Klakdor forced the Pawn of the Black Court to kneel
+Jan 17 20:56:41 D    :: (GC) Klakdor forced the Pawn of the Black Court to weep
+Jan 17 20:57:51 >[7 :: Cro has connected.
+Jan 17 20:57:56      :: Cro had no variable file
+Jan 17 20:57:56 0    :: Cro un-renting and entering game.
+Jan 17 20:57:56     :: Cro (level 1) has 0 objects (max 60).
+Jan 17 21:00:33 ∂} :: nusage: 4   sockets connected, 4   sockets playing
+Jan 17 21:00:58      :: Klakdor tried to get help on groupa-rmor
+Jan 17 21:01:21      :: (GC) Klakdor reset zone 36 (Chessboard of Midgaard)
+Jan 17 21:04:21      :: TheAntarchist has quit the game.
+Jan 17 21:04:23      :: Losing player: TheAntarchist.
+Jan 17 21:04:36      :: Rellik has quit the game.
+Jan 17 21:04:38     :: Losing player: Rellik.
+Jan 17 21:05:33      :: nusage: 2   sockets connected, 2   sockets playing
+Jan 17 21:10:33      :: nusage: 2   sockets connected, 2   sockets playing
+Jan 17 21:13:30      :: Cro has quit the game.
+Jan 17 21:13:30      :: Losing player: Cro.
+Jan 17 21:15:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 21:20:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 21:25:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 21:30:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 21:31:18 Ú≤S  :: OLC: Klakdor starts editing zone 30 allowed zone 0
+Jan 17 21:31:21 Bµ} :: OLC: Klakdor stops editing zone 30 allowed zone 0
+Jan 17 21:32:10      :: OLC: Klakdor creates new zone #21
+Jan 17 21:32:18 ‡˚ :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 17 21:35:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 21:38:18 \    :: GenOLC: add_room: Added room 2100 at index #1291.
+Jan 17 21:38:18      :: OLC: Klakdor edits room 2100.
+Jan 17 21:38:18 ˇˇˇˇ :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 17 21:38:18 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 17 21:39:14 lled :: GenOLC: save_rooms: Saving rooms in zone #343 (34300-34399).
+Jan 17 21:39:44      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 17 21:40:21      :: GenOLC: add_room: Added room 2101 at index #1292.
+Jan 17 21:40:21 NO_M :: OLC: Klakdor edits room 2101.
+Jan 17 21:40:21 ¸˙D  :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 17 21:40:21 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 17 21:40:31      :: GenOLC: add_room: Added room 2102 at index #1293.
+Jan 17 21:40:31      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 17 21:40:33 †ßR  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 21:40:39      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 17 21:41:50 NOBI :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 17 21:42:32 Ú≤S  :: OLC: Klakdor starts editing zone 0 allowed zone 0
+Jan 17 21:42:41 NOBI :: OLC: Klakdor stops editing zone 0 allowed zone 0
+Jan 17 21:42:49 ‘!P  :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 17 21:43:35 ‘!P  :: OLC: Klakdor edits zone info for room 2100.
+Jan 17 21:43:35     :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 17 21:43:53     :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 17 21:44:32      :: GenOLC: add_room: Updated existing room #2101.
+Jan 17 21:44:32      :: OLC: Klakdor edits room 2101.
+Jan 17 21:44:32 ¸˙D  :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 17 21:44:32 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 17 21:44:59      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 17 21:45:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 21:47:46      :: GenOLC: add_room: Updated existing room #2102.
+Jan 17 21:47:46      :: OLC: Klakdor edits room 2102.
+Jan 17 21:47:46      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 17 21:47:46 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 17 21:47:56      :: GenOLC: add_room: Added room 2103 at index #1294.
+Jan 17 21:47:56      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 17 21:48:00      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 17 21:48:20      :: GenOLC: add_room: Updated existing room #2103.
+Jan 17 21:48:20      :: OLC: Klakdor edits room 2103.
+Jan 17 21:48:20      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 17 21:48:20 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 17 21:48:26      :: GenOLC: add_room: Added room 2104 at index #1295.
+Jan 17 21:48:26      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 17 21:48:38      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 17 21:49:30      :: GenOLC: add_room: Updated existing room #2104.
+Jan 17 21:49:30      :: OLC: Klakdor edits room 2104.
+Jan 17 21:49:30      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 17 21:49:30 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 17 21:49:40      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 17 21:50:06      :: GenOLC: add_room: Updated existing room #2104.
+Jan 17 21:50:06     :: OLC: Klakdor edits room 2104.
+Jan 17 21:50:06      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 17 21:50:06 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 17 21:50:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 21:51:35      :: GenOLC: add_room: Added room 2105 at index #1296.
+Jan 17 21:51:35      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 17 21:52:40      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 17 21:52:49      :: GenOLC: add_room: Updated existing room #2105.
+Jan 17 21:52:49      :: OLC: Klakdor edits room 2105.
+Jan 17 21:52:49      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 17 21:52:49 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 17 21:52:54      :: GenOLC: add_room: Added room 2106 at index #1297.
+Jan 17 21:52:54      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 17 21:52:57      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 17 21:53:01      :: GenOLC: add_room: Updated existing room #2106.
+Jan 17 21:53:01     :: OLC: Klakdor edits room 2106.
+Jan 17 21:53:01      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 17 21:53:01 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 17 21:53:02      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 17 21:53:05      :: GenOLC: add_room: Updated existing room #2106.
+Jan 17 21:53:05      :: OLC: Klakdor edits room 2106.
+Jan 17 21:53:05      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 17 21:53:05 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 17 21:53:15      :: GenOLC: add_room: Added room 2107 at index #1298.
+Jan 17 21:53:15      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 17 21:53:27      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 17 21:53:32      :: GenOLC: add_room: Updated existing room #2107.
+Jan 17 21:53:32      :: OLC: Klakdor edits room 2107.
+Jan 17 21:53:32      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 17 21:53:32 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 17 21:53:37      :: GenOLC: add_room: Added room 2108 at index #1299.
+Jan 17 21:53:37      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 17 21:53:48      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 17 21:53:56      :: GenOLC: add_room: Updated existing room #2108.
+Jan 17 21:53:56      :: OLC: Klakdor edits room 2108.
+Jan 17 21:53:56      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 17 21:53:56 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 17 21:55:19      :: GenOLC: add_room: Added room 2109 at index #1300.
+Jan 17 21:55:19      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 17 21:55:22      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 17 21:55:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 21:55:57      :: GenOLC: add_room: Updated existing room #2109.
+Jan 17 21:55:57      :: OLC: Klakdor edits room 2109.
+Jan 17 21:55:57      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 17 21:55:57 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 17 21:56:13      :: GenOLC: add_room: Added room 2110 at index #1301.
+Jan 17 21:56:13      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 17 21:56:15      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 17 21:56:37      :: GenOLC: add_room: Updated existing room #2110.
+Jan 17 21:56:37      :: OLC: Klakdor edits room 2110.
+Jan 17 21:56:37      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 17 21:56:37 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 17 21:57:21      :: GenOLC: add_room: Added room 2111 at index #1302.
+Jan 17 21:57:21      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 17 21:57:23      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 17 21:58:39      :: GenOLC: add_room: Updated existing room #2111.
+Jan 17 21:58:39      :: OLC: Klakdor edits room 2111.
+Jan 17 21:58:39      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 17 21:58:39 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 17 21:59:31      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 17 21:59:59 NOBI :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 17 22:00:04     :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 17 22:00:09      :: GenOLC: add_room: Updated existing room #2111.
+Jan 17 22:00:09     :: OLC: Klakdor edits room 2111.
+Jan 17 22:00:09      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 17 22:00:09 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 17 22:00:33 @®R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 22:00:40      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 17 22:00:54      :: GenOLC: add_room: Updated existing room #2104.
+Jan 17 22:00:54     :: OLC: Klakdor edits room 2104.
+Jan 17 22:00:54      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 17 22:00:54 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 17 22:03:29      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 17 22:03:32      :: GenOLC: add_room: Updated existing room #2104.
+Jan 17 22:03:32      :: OLC: Klakdor edits room 2104.
+Jan 17 22:03:32      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 17 22:03:32 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 17 22:03:34      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 17 22:03:38      :: GenOLC: add_room: Updated existing room #2103.
+Jan 17 22:03:38      :: OLC: Klakdor edits room 2103.
+Jan 17 22:03:38      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 17 22:03:38 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 17 22:03:41      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 17 22:03:44      :: GenOLC: add_room: Updated existing room #2102.
+Jan 17 22:03:44      :: OLC: Klakdor edits room 2102.
+Jan 17 22:03:44      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 17 22:03:44 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 17 22:05:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 22:10:33 †ßR  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 22:15:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 22:15:48      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 17 22:16:04      :: GenOLC: add_room: Updated existing room #2111.
+Jan 17 22:16:04      :: OLC: Klakdor edits room 2111.
+Jan 17 22:16:04      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 17 22:16:04 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 17 22:20:33 ê®R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 22:25:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 22:30:33 @®R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 22:35:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 22:40:33 †ßR  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 22:45:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 22:50:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 22:55:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 23:00:33 @®R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 23:05:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 23:10:33 †ßR  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 23:15:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 23:20:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 23:25:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 23:30:33 @®R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 23:35:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 23:40:33 †ßR  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 23:43:14      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 17 23:43:22      :: GenOLC: add_room: Updated existing room #2109.
+Jan 17 23:43:22      :: OLC: Klakdor edits room 2109.
+Jan 17 23:43:22      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 17 23:43:22 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 17 23:43:43      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 17 23:43:50      :: GenOLC: add_room: Updated existing room #2110.
+Jan 17 23:43:50     :: OLC: Klakdor edits room 2110.
+Jan 17 23:43:50      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 17 23:43:50 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 17 23:44:35      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 17 23:44:41      :: GenOLC: add_room: Updated existing room #2109.
+Jan 17 23:44:41     :: OLC: Klakdor edits room 2109.
+Jan 17 23:44:41      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 17 23:44:41 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 17 23:44:46      :: Klakdor has quit the game.
+Jan 17 23:44:46      :: Losing player: Klakdor.
+Jan 17 23:44:46      :: No connections.  Going to sleep.
+Jan 18 08:31:43      :: New connection.  Waking up.
+Jan 18 08:31:49      :: Klakdor has connected.
+Jan 18 08:31:52 0    :: Klakdor un-renting and entering game.
+Jan 18 08:31:52 †¸x  :: Klakdor (level 34) has 10 objects (max 60).
+Jan 18 08:32:30      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 18 08:37:30      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 18 08:42:30      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 18 08:45:45      :: Klakdor tried to get help on alais
+Jan 18 08:46:44      :: GenOLC: add_room: Added room 2112 at index #1303.
+Jan 18 08:46:44      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 18 08:47:30 @®R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 18 08:52:30      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 18 08:53:29      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 18 08:57:30      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 18 09:02:30      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 18 09:07:30      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 18 09:12:30      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 18 09:17:30      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 18 09:21:13      :: GenOLC: add_room: Updated existing room #2112.
+Jan 18 09:21:13      :: OLC: Klakdor edits room 2112.
+Jan 18 09:21:13 cts  :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 18 09:21:13 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 18 09:21:15      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 18 09:21:25      :: GenOLC: add_room: Updated existing room #2112.
+Jan 18 09:21:25     :: OLC: Klakdor edits room 2112.
+Jan 18 09:21:25      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 18 09:21:25 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 18 09:22:30      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 18 09:25:40      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 18 09:27:02      :: GenOLC: add_room: Updated existing room #2112.
+Jan 18 09:27:02     :: OLC: Klakdor edits room 2112.
+Jan 18 09:27:02      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 18 09:27:02 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 18 09:27:08      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 18 09:27:11      :: GenOLC: add_room: Updated existing room #2109.
+Jan 18 09:27:11     :: OLC: Klakdor edits room 2109.
+Jan 18 09:27:11      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 18 09:27:11 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 18 09:27:30 †ßR  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 18 09:28:24      :: GenOLC: add_room: Added room 2113 at index #1304.
+Jan 18 09:28:24      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 18 09:28:26      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 18 09:28:45      :: GenOLC: add_room: Updated existing room #2113.
+Jan 18 09:28:45      :: OLC: Klakdor edits room 2113.
+Jan 18 09:28:45      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 18 09:28:45 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 18 09:28:49      :: GenOLC: add_room: Added room 2127 at index #1305.
+Jan 18 09:28:49  @µ} :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 18 09:28:52      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 18 09:28:59      :: GenOLC: add_room: Updated existing room #2127.
+Jan 18 09:28:59      :: OLC: Klakdor edits room 2127.
+Jan 18 09:28:59      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 18 09:28:59 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 18 09:29:15      :: GenOLC: add_room: Added room 2128 at index #1306.
+Jan 18 09:29:15      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 18 09:29:20      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 18 09:29:26      :: GenOLC: add_room: Updated existing room #2128.
+Jan 18 09:29:26      :: OLC: Klakdor edits room 2128.
+Jan 18 09:29:26      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 18 09:29:26 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 18 09:29:33      :: GenOLC: add_room: Added room 2129 at index #1307.
+Jan 18 09:29:33      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 18 09:29:38      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 18 09:29:41      :: GenOLC: add_room: Updated existing room #2129.
+Jan 18 09:29:41      :: OLC: Klakdor edits room 2129.
+Jan 18 09:29:41      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 18 09:29:41 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 18 09:29:45      :: GenOLC: add_room: Added room 2130 at index #1308.
+Jan 18 09:29:45  @µ} :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 18 09:29:51      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 18 09:30:09      :: GenOLC: add_room: Updated existing room #2130.
+Jan 18 09:30:09      :: OLC: Klakdor edits room 2130.
+Jan 18 09:30:09      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 18 09:30:09 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 18 09:30:18      :: GenOLC: add_room: Added room 2131 at index #1309.
+Jan 18 09:30:18      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 18 09:30:21      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 18 09:30:36      :: GenOLC: add_room: Updated existing room #2131.
+Jan 18 09:30:36      :: OLC: Klakdor edits room 2131.
+Jan 18 09:30:36      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 18 09:30:36 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 18 09:30:43      :: GenOLC: add_room: Added room 2132 at index #1310.
+Jan 18 09:30:43      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 18 09:30:47      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 18 09:30:52      :: GenOLC: add_room: Updated existing room #2132.
+Jan 18 09:30:52      :: OLC: Klakdor edits room 2132.
+Jan 18 09:30:52      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 18 09:30:52 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 18 09:31:06      :: GenOLC: add_room: Added room 2133 at index #1311.
+Jan 18 09:31:06      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 18 09:31:21      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 18 09:31:26      :: GenOLC: add_room: Updated existing room #2133.
+Jan 18 09:31:26      :: OLC: Klakdor edits room 2133.
+Jan 18 09:31:26      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 18 09:31:26 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 18 09:31:31      :: GenOLC: add_room: Added room 2134 at index #1312.
+Jan 18 09:31:31      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 18 09:31:33      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 18 09:31:39      :: GenOLC: add_room: Updated existing room #2134.
+Jan 18 09:31:39      :: OLC: Klakdor edits room 2134.
+Jan 18 09:31:39      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 18 09:31:39 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 18 09:31:46      :: GenOLC: add_room: Added room 2135 at index #1313.
+Jan 18 09:31:46      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 18 09:31:55      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 18 09:32:05      :: GenOLC: add_room: Updated existing room #2135.
+Jan 18 09:32:05      :: OLC: Klakdor edits room 2135.
+Jan 18 09:32:05      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 18 09:32:05 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 18 09:32:16      :: GenOLC: add_room: Added room 2136 at index #1314.
+Jan 18 09:32:16      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 18 09:32:19      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 18 09:32:22      :: GenOLC: add_room: Updated existing room #2136.
+Jan 18 09:32:22      :: OLC: Klakdor edits room 2136.
+Jan 18 09:32:22      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 18 09:32:22 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 18 09:32:26      :: GenOLC: add_room: Added room 2138 at index #1315.
+Jan 18 09:32:26  @µ} :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 18 09:32:30      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 18 09:32:33      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 18 09:32:37      :: GenOLC: add_room: Updated existing room #2138.
+Jan 18 09:32:37      :: OLC: Klakdor edits room 2138.
+Jan 18 09:32:37      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 18 09:32:37 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 18 09:32:42      :: GenOLC: add_room: Added room 2141 at index #1316.
+Jan 18 09:32:42      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 18 09:32:44      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 18 09:33:07      :: GenOLC: add_room: Updated existing room #2141.
+Jan 18 09:33:07      :: OLC: Klakdor edits room 2141.
+Jan 18 09:33:07      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 18 09:33:07 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 18 09:33:15      :: GenOLC: add_room: Added room 2139 at index #1316.
+Jan 18 09:33:15      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 18 09:33:18      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 18 09:33:31      :: GenOLC: add_room: Updated existing room #2139.
+Jan 18 09:33:31      :: OLC: Klakdor edits room 2139.
+Jan 18 09:33:31      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 18 09:33:31 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 18 09:33:35      :: GenOLC: add_room: Added room 2140 at index #1317.
+Jan 18 09:33:35  @µ} :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 18 09:33:38      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 18 09:33:46      :: GenOLC: add_room: Updated existing room #2140.
+Jan 18 09:33:46      :: OLC: Klakdor edits room 2140.
+Jan 18 09:33:46      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 18 09:33:46 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 18 09:33:59      :: GenOLC: add_room: Added room 2137 at index #1315.
+Jan 18 09:33:59      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 18 09:34:05      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 18 09:34:12      :: GenOLC: add_room: Updated existing room #2137.
+Jan 18 09:34:12      :: OLC: Klakdor edits room 2137.
+Jan 18 09:34:12      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 18 09:34:12 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 18 09:34:45      :: GenOLC: add_room: Added room 2114 at index #1305.
+Jan 18 09:34:45      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 18 09:34:51      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 18 09:34:58      :: GenOLC: add_room: Updated existing room #2114.
+Jan 18 09:34:58      :: OLC: Klakdor edits room 2114.
+Jan 18 09:34:58      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 18 09:34:58 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 18 09:35:09      :: GenOLC: add_room: Added room 2115 at index #1306.
+Jan 18 09:35:09      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 18 09:35:13      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 18 09:35:21      :: GenOLC: add_room: Updated existing room #2115.
+Jan 18 09:35:21      :: OLC: Klakdor edits room 2115.
+Jan 18 09:35:21      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 18 09:35:21 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 18 09:35:26      :: GenOLC: add_room: Added room 2116 at index #1307.
+Jan 18 09:35:26  @µ} :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 18 09:35:28      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 18 09:35:34      :: GenOLC: add_room: Updated existing room #2116.
+Jan 18 09:35:34      :: OLC: Klakdor edits room 2116.
+Jan 18 09:35:34      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 18 09:35:34 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 18 09:35:39      :: GenOLC: add_room: Added room 2117 at index #1308.
+Jan 18 09:35:39  @µ} :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 18 09:35:41      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 18 09:36:01      :: GenOLC: add_room: Updated existing room #2117.
+Jan 18 09:36:01      :: OLC: Klakdor edits room 2117.
+Jan 18 09:36:01      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 18 09:36:01 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 18 09:36:07      :: GenOLC: add_room: Added room 2118 at index #1309.
+Jan 18 09:36:07  @µ} :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 18 09:36:10      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 18 09:36:55      :: GenOLC: add_room: Updated existing room #2118.
+Jan 18 09:36:55      :: OLC: Klakdor edits room 2118.
+Jan 18 09:36:55      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 18 09:36:55 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 18 09:37:02      :: GenOLC: add_room: Added room 2119 at index #1310.
+Jan 18 09:37:02      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 18 09:37:02      :: Trigger restarted on unknown entity. Vnum: 1970
+Jan 18 09:37:02      :: Type: Room trigger
+Jan 18 09:37:02      :: attached 2 places
+Jan 18 09:37:02      :: SCRIPT ERROR: Trigger restart attempt on unknown entity.
+Jan 18 09:37:04      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 18 09:37:15      :: GenOLC: add_room: Updated existing room #2119.
+Jan 18 09:37:15      :: OLC: Klakdor edits room 2119.
+Jan 18 09:37:15      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 18 09:37:15 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 18 09:37:16      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 18 09:37:21     :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 18 09:37:25      :: GenOLC: add_room: Added room 2120 at index #1311.
+Jan 18 09:37:25  @µ} :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 18 09:37:28     :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 18 09:37:30      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 18 09:37:32      :: GenOLC: add_room: Updated existing room #2120.
+Jan 18 09:37:32      :: OLC: Klakdor edits room 2120.
+Jan 18 09:37:32      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 18 09:37:32 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 18 09:37:35      :: GenOLC: add_room: Added room 2121 at index #1312.
+Jan 18 09:37:35  @µ} :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 18 09:37:39      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 18 09:38:28      :: GenOLC: add_room: Updated existing room #2121.
+Jan 18 09:38:28      :: OLC: Klakdor edits room 2121.
+Jan 18 09:38:28      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 18 09:38:28 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 18 09:38:33      :: GenOLC: add_room: Added room 2122 at index #1313.
+Jan 18 09:38:33      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 18 09:38:34      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 18 09:38:49      :: GenOLC: add_room: Updated existing room #2122.
+Jan 18 09:38:49      :: OLC: Klakdor edits room 2122.
+Jan 18 09:38:49      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 18 09:38:49 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 18 09:38:55      :: GenOLC: add_room: Added room 2123 at index #1314.
+Jan 18 09:38:55      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 18 09:39:01      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 18 09:39:08      :: GenOLC: add_room: Updated existing room #2123.
+Jan 18 09:39:08      :: OLC: Klakdor edits room 2123.
+Jan 18 09:39:08      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 18 09:39:08 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 18 09:39:14      :: GenOLC: add_room: Added room 2124 at index #1315.
+Jan 18 09:39:14      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 18 09:39:16      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 18 09:39:25      :: GenOLC: add_room: Updated existing room #2124.
+Jan 18 09:39:25      :: OLC: Klakdor edits room 2124.
+Jan 18 09:39:25      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 18 09:39:25 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 18 09:39:33      :: GenOLC: add_room: Added room 2125 at index #1316.
+Jan 18 09:39:33      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 18 09:39:35      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 18 09:39:39      :: GenOLC: add_room: Updated existing room #2125.
+Jan 18 09:39:39      :: OLC: Klakdor edits room 2125.
+Jan 18 09:39:39      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 18 09:39:39 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 18 09:39:49      :: GenOLC: add_room: Added room 2126 at index #1317.
+Jan 18 09:39:49      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 18 09:39:53      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 18 09:40:45      :: GenOLC: add_room: Updated existing room #2126.
+Jan 18 09:40:45      :: OLC: Klakdor edits room 2126.
+Jan 18 09:40:45      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 18 09:40:45 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 18 09:42:30      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 18 09:47:30 @®R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 18 09:52:30      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 18 09:57:30 †ßR  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 18 10:02:30      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 18 10:07:30      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 18 10:12:30      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 18 10:17:30 @®R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 18 10:18:29      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 18 10:18:42 0    :: Closing link to: Klakdor.
+Jan 18 10:18:42      :: No connections.  Going to sleep.

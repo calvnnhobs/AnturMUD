@@ -9,22 +9,22 @@ Clas: 2
 Levl: 7
 Id  : 2
 Brth: 1484436768
-Plyd: 29907
-Last: 1484544559
+Plyd: 35582
+Last: 1484715633
 Lmot: 1484460145
 Lnew: 1484540580
 Host: 70-36-215-128.dsl.dynamic.sonic.net
 Hite: 181
 Wate: 160
-Alin: -7
+Alin: -113
 Act : gh 0 0 0
 Aff : 0 0 0 0
-Pref: efghnoABCDF 0 0 0
+Pref: efghnoABCDEF 0 0 0
 Frez: 34
-Room: 3026
+Room: 3001
 Lern: 38
-Hung: 6
-Thir: 3
+Hung: 16
+Thir: 21
 Hit : 80/80
 Mana: 100/100
 Move: 95/95
@@ -35,9 +35,9 @@ Dex : 16
 Con : 11
 Cha : 6
 Ac  : 100
-Gold: 47157
+Gold: 25602
 Bank: 252000
-Exp : 41154
+Exp : 32165
 Skil:
 1 100
 2 100
@@ -240,5 +240,8 @@ Skil:
 199 100
 200 100
 0 0
+Affs:
+1 21 -20 17 0 0 0 0
+0 0 0 0 0 0 0 0
 Vars: 1
-teleporter_return_room 0 9017
+teleporter_return_room 0 3654

@@ -9,3 +9,7 @@ Jan 14 15:45:20      :: OLC: Klakdor edits obj 31583
 Jan 14 15:45:20     :: OLC: Klakdor stops editing zone 315 allowed zone 0
 Jan 14 20:26:44 '    :: OLC: Klakdor starts editing the game configuration.
 Binary file syslog matches
+Jan 16 11:02:57      :: OLC: Klakdor starts editing zone 30 allowed zone 0
+Jan 16 11:03:15      :: OLC: Klakdor edits obj 3034
+Jan 16 11:03:15     :: OLC: Klakdor stops editing zone 30 allowed zone 0
+Binary file syslog matches

@@ -1,0 +1,599 @@
+#2100
+Zone Description Room - Ferrycourse Fen~
+   This is the description room for the zone Ferrycourse Fen.  See credits for
+details.
+~
+21 148 0 0 0 0
+E
+credits notes details~
+Builder: Klakdor
+ZoneID: 21
+Zone Name: Ferrycourse Fen
+Related Zones: (None)
+Date Started: 1/17/2017
+Player Level: 1-10
+Rooms: 1
+Mobs: 0
+Objects: 0
+Shops: 0
+Triggers: 0
+Theme: The road north is now an overgrown swamp.
+Plot: The long unused path to Anferry has been retaken by river and sea. The Ferrycourse, as it was called, is now all but gone, and adventurers here may get lost in the tangle and meet creatures unhappy at the intrusion.
+Notes: Some rooms will be right outside the north gate of Fasth. The road, although unkempt, will be easy to follow through some light woods north.
+~
+S
+#2101
+Fasth - Outside the Gates~
+You are in an unfinished room.
+~
+21 0 0 0 0 1
+D0
+~
+~
+0 0 2102
+S
+#2102
+Fasth - Ferrycourse Road~
+You are in an unfinished room.
+~
+21 0 0 0 0 2
+D2
+~
+~
+0 0 2101
+D6
+~
+~
+0 0 2103
+S
+#2103
+Fasth - Ferrycourse Road~
+You are in an unfinished room.
+~
+21 0 0 0 0 2
+D6
+~
+~
+0 0 2104
+D8
+~
+~
+0 0 2102
+S
+#2104
+Fasth - Ferrycourse Road~
+You are in an unfinished room.
+~
+21 0 0 0 0 2
+D6
+~
+~
+0 0 2109
+D7
+~
+~
+0 0 2105
+D8
+~
+~
+0 0 2103
+S
+#2105
+Ferrycourse Fen - Beaten Path~
+You are in an unfinished room.
+~
+21 0 0 0 0 2
+D7
+~
+~
+0 0 2106
+D9
+~
+~
+0 0 2104
+S
+#2106
+Ferrycourse Fen - Beaten Path~
+You are in an unfinished room.
+~
+21 0 0 0 0 2
+D0
+~
+~
+0 0 2107
+D9
+~
+~
+0 0 2105
+S
+#2107
+Ferrycourse Fen - Beaten Path~
+You are in an unfinished room.
+~
+21 0 0 0 0 2
+D2
+~
+~
+0 0 2106
+D7
+~
+~
+0 0 2108
+S
+#2108
+Ferrycourse Fen - Beaten Path~
+You are in an unfinished room.
+~
+21 0 0 0 0 3
+D9
+~
+~
+0 0 2107
+S
+#2109
+Ferrycourse Fen - Derelict Road~
+You are in an unfinished room.
+~
+21 0 0 0 0 2
+D6
+~
+~
+0 0 2112
+D8
+~
+~
+0 0 2104
+D9
+~
+~
+0 0 2110
+S
+#2110
+Ferrycourse Fen - Winding Trail~
+You are in an unfinished room.
+~
+21 0 0 0 0 2
+D3
+~
+~
+0 0 2111
+D7
+~
+~
+0 0 2109
+S
+#2111
+Ferrycourse Fen - Coastal Camp~
+You are in an unfinished room.
+~
+21 16 0 0 0 2
+D4
+~
+~
+0 0 2110
+S
+#2112
+Ferrycourse Fen - Derelict Road~
+You are in an unfinished room.
+~
+21 0 0 0 0 2
+D6
+~
+~
+0 0 2113
+D8
+~
+~
+0 0 2109
+S
+#2113
+Ferrycourse Fen - Derelict Road~
+You are in an unfinished room.
+~
+21 0 0 0 0 2
+D3
+~
+~
+0 0 2114
+D6
+~
+~
+0 0 2127
+D8
+~
+~
+0 0 2112
+S
+#2114
+Ferrycourse Fen - Marshland~
+You are in an unfinished room.
+~
+21 0 0 0 0 3
+D1
+~
+~
+0 0 2113
+D2
+~
+~
+0 0 2115
+D3
+~
+~
+0 0 2126
+S
+#2115
+Ferrycourse Fen - Marshland~
+You are in an unfinished room.
+~
+21 0 0 0 0 3
+D0
+~
+~
+0 0 2114
+D9
+~
+~
+0 0 2116
+S
+#2116
+Ferrycourse Fen - Marshland~
+You are in an unfinished room.
+~
+21 0 0 0 0 3
+D3
+~
+~
+0 0 2117
+D7
+~
+~
+0 0 2115
+S
+#2117
+Ferrycourse Fen - Marshland~
+You are in an unfinished room.
+~
+21 0 0 0 0 3
+D1
+~
+~
+0 0 2116
+D5
+~
+~
+0 0 2118
+D7
+~
+~
+0 0 2119
+S
+#2118
+Ferrycourse Fen - Collapsed Dock~
+You are in an unfinished room.
+~
+21 0 0 0 0 2
+D4
+~
+~
+0 0 2117
+S
+#2119
+Ferrycourse Fen - Marshland~
+You are in an unfinished room.
+~
+21 0 0 0 0 3
+D3
+~
+~
+0 0 2120
+D9
+~
+~
+0 0 2117
+S
+#2120
+Ferrycourse Fen - Marshland~
+You are in an unfinished room.
+~
+21 0 0 0 0 3
+D1
+~
+~
+0 0 2119
+D6
+~
+~
+0 0 2121
+S
+#2121
+Ferrycourse Fen - Marshland~
+You are in an unfinished room.
+~
+21 0 0 0 0 3
+D1
+~
+~
+0 0 2122
+D7
+~
+~
+0 0 2123
+D8
+~
+~
+0 0 2120
+S
+#2122
+Ferrycourse Fen - Flooded Farmhouse~
+You are in an unfinished room.
+~
+21 0 0 0 0 6
+D3
+~
+~
+0 0 2121
+S
+#2123
+Ferrycourse Fen - Broken Dike~
+You are in an unfinished room.
+~
+21 0 0 0 0 2
+D1
+~
+~
+0 0 2124
+D9
+~
+~
+0 0 2121
+S
+#2124
+Ferrycourse Fen - Broken Dike~
+You are in an unfinished room.
+~
+21 0 0 0 0 2
+D1
+~
+~
+0 0 2125
+D3
+~
+~
+0 0 2123
+S
+#2125
+Ferrycourse Fen - Broken Dike~
+You are in an unfinished room.
+~
+21 0 0 0 0 2
+D3
+~
+~
+0 0 2124
+D5
+~
+~
+0 0 2126
+S
+#2126
+Ferrycourse Fen - Marshland~
+You are in an unfinished room.
+~
+21 0 0 0 0 3
+D1
+~
+~
+0 0 2114
+D6
+~
+~
+0 0 2125
+S
+#2127
+Ferrycourse Fen - Derelict Road~
+You are in an unfinished room.
+~
+21 0 0 0 0 2
+D6
+~
+~
+0 0 2128
+D8
+~
+~
+0 0 2113
+S
+#2128
+Ferrycourse Fen - Derelict Road~
+You are in an unfinished room.
+~
+21 0 0 0 0 3
+D6
+~
+~
+0 0 2129
+D8
+~
+~
+0 0 2127
+S
+#2129
+Ferrycourse Fen - Derelict Road~
+You are in an unfinished room.
+~
+21 0 0 0 0 3
+D7
+~
+~
+0 0 2130
+D8
+~
+~
+0 0 2128
+S
+#2130
+Ferrycourse Fen - Marshy Trail~
+You are in an unfinished room.
+~
+21 0 0 0 0 3
+D1
+~
+~
+0 0 2131
+D9
+~
+~
+0 0 2129
+S
+#2131
+Ferrycourse Fen - Marshy Trail~
+You are in an unfinished room.
+~
+21 0 0 0 0 6
+D0
+~
+~
+0 0 2132
+D3
+~
+~
+0 0 2130
+S
+#2132
+Ferrycourse Fen - Marshy Trail~
+You are in an unfinished room.
+~
+21 0 0 0 0 3
+D2
+~
+~
+0 0 2131
+D6
+~
+~
+0 0 2133
+S
+#2133
+Ferrycourse Fen - Marshy Trail~
+You are in an unfinished room.
+~
+21 0 0 0 0 3
+D3
+~
+~
+0 0 2134
+D8
+~
+~
+0 0 2132
+S
+#2134
+Ferrycourse Fen - Marshy Trail~
+You are in an unfinished room.
+~
+21 0 0 0 0 3
+D1
+~
+~
+0 0 2133
+D9
+~
+~
+0 0 2135
+S
+#2135
+undefined~
+You are in an unfinished room.
+~
+21 0 0 0 0 3
+D6
+~
+~
+0 0 2136
+D7
+~
+~
+0 0 2134
+S
+#2136
+Ferrycourse Fen - Derelict Road~
+You are in an unfinished room.
+~
+21 0 0 0 0 3
+D6
+~
+~
+0 0 2138
+D8
+~
+~
+0 0 2135
+D9
+~
+~
+0 0 2137
+S
+#2137
+Ferrycourse Fen - Rotting Tavern~
+You are in an unfinished room.
+~
+21 0 0 0 0 0
+D7
+~
+~
+0 0 2136
+S
+#2138
+Ferrycourse Fen - Derelict Road~
+You are in an unfinished room.
+~
+21 0 0 0 0 3
+D5
+~
+~
+0 0 2139
+D6
+~
+~
+0 0 2141
+D8
+~
+~
+0 0 2136
+S
+#2139
+Ferrycourse Fen - Marshy Trail~
+You are in an unfinished room.
+~
+21 0 0 0 0 3
+D4
+~
+~
+0 0 2138
+D6
+~
+~
+0 0 2140
+S
+#2140
+Ferrycourse Fen - Dead End~
+You are in an unfinished room.
+~
+21 0 0 0 0 3
+D8
+~
+~
+0 0 2139
+S
+#2141
+Ferrycourse Fen - Derelict Road~
+You are in an unfinished room.
+~
+21 0 0 0 0 3
+D8
+~
+~
+0 0 2138
+S
+$~

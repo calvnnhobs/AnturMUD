@@ -1,26 +1,26 @@
 Name: Klakdor
 Pass: KllIhZIJkIrNc
-Titl: the Implementor
+Titl: the Limplementor
 Sex : 1
 Clas: 3
 Levl: 34
 Id  : 1
 Brth: 1484334534
-Plyd: 62535
-Last: 1484607872
-Lmot: 1484592998
+Plyd: 88334
+Last: 1484758030
+Lmot: 1484613053
 Lnew: 1484592995
 Host: 99-75-92-88.lightspeed.sntcca.sbcglobal.
 Hite: 192
 Wate: 157
-Alin: -327
+Alin: -189
 Act : 0 0 0 0
 Aff : 0 0 0 0
-Pref: efghmnov 0 0 0
+Pref: efghimnovACE 0 0 0
 Room: 65535
 Hit : 500/500
 Mana: 100/100
-Move: 82/82
+Move: 92/82
 Str : 25/100
 Int : 25
 Wis : 25
@@ -28,8 +28,22 @@ Dex : 25
 Con : 25
 Cha : 25
 Ac  : 100
-Gold: 5490
+Gold: 15288
 Exp : 7000000
 Olc : 0
+Page: 30
+Alis: 4
+ dsw
+ dig southwest $1
+1
+ dne
+ dig northeast $1
+1
+ dse
+ dig southeast $1
+1
+ dnw
+ dig northwest $1
+1
 Vars: 1
 tba_greeting 0 1

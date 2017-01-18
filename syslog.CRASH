@@ -1,30 +1,30 @@
-Jan 16 06:32:10      :: nusage: 1   sockets connected, 1   sockets playing
-Jan 16 06:37:10      :: nusage: 1   sockets connected, 1   sockets playing
-Jan 16 06:42:10      :: nusage: 1   sockets connected, 1   sockets playing
-Jan 16 06:47:10      :: nusage: 1   sockets connected, 1   sockets playing
-Jan 16 06:52:10      :: nusage: 1   sockets connected, 1   sockets playing
-Jan 16 06:57:10      :: nusage: 1   sockets connected, 1   sockets playing
-Jan 16 07:02:10      :: nusage: 1   sockets connected, 1   sockets playing
-Jan 16 07:07:10      :: nusage: 1   sockets connected, 1   sockets playing
-Jan 16 07:12:10      :: nusage: 1   sockets connected, 1   sockets playing
-Jan 16 07:17:10      :: nusage: 1   sockets connected, 1   sockets playing
-Jan 16 07:18:21 4    :: Klakdor has quit the game.
-Jan 16 07:18:23 @N…8 :: Losing player: Klakdor.
-Jan 16 07:18:23      :: No connections.  Going to sleep.
-Jan 16 09:27:11      :: New connection.  Waking up.
-Jan 16 09:27:11     :: WARNING: EOF on socket read (connection broken by peer)
-Jan 16 09:27:11     :: Losing descriptor without char.
-Jan 16 09:27:11 ¿Ó† :: No connections.  Going to sleep.
-Jan 16 09:27:12 ¿Ó† :: New connection.  Waking up.
-Jan 16 09:27:12     :: WARNING: EOF on socket read (connection broken by peer)
-Jan 16 09:27:12     :: Losing descriptor without char.
-Jan 16 09:27:12     :: No connections.  Going to sleep.
-Jan 16 09:27:48     :: New connection.  Waking up.
-Jan 16 09:27:51      :: Klakdor has connected.
-Jan 16 09:27:51     :: Cro has connected.
-Jan 16 09:27:55 0    :: Klakdor un-renting and entering game.
-Jan 16 09:27:55     :: Klakdor (level 34) has 7 objects (max 30).
-Jan 16 09:28:18 0    :: Closing link to: Klakdor.
-Jan 16 09:28:18     :: Losing player: Cro.
-Jan 16 09:28:18 V 8 :: No connections.  Going to sleep.
-Improper shutdown of autorun detected, rotating syslogs before startup.
+Jan 17 13:14:56      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 13:19:56      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 13:24:56      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 13:29:56      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 13:34:56      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 13:39:56      :: nusage: 1   sockets connected, 1   sockets playing
+SYSERR: gethostbyaddr: Success
+Jan 17 13:42:56 Èù˜$ :: Losing descriptor without char.
+Jan 17 13:44:56      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 13:49:56      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 13:54:56      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 13:59:56      :: nusage: 1   sockets connected, 1   sockets playing
+SYSERR: gethostbyaddr: Success
+Jan 17 14:02:49      :: WARNING: EOF on socket read (connection broken by peer)
+Jan 17 14:02:49     :: Losing descriptor without char.
+Jan 17 14:04:56      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 14:09:56      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 14:14:56      :: nusage: 1   sockets connected, 1   sockets playing
+SYSERR: gethostbyaddr: Success
+Jan 17 14:19:43      :: Klakdor has re-logged in ... disconnecting old socket.
+Jan 17 14:19:43     :: Losing descriptor without char.
+Jan 17 14:19:56      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 17 14:20:08 ˇˇˇˇ :: Klakdor tried to get help on shutdown-
+Jan 17 14:20:26      :: (GC) Reboot by Klakdor.
+Jan 17 14:20:26      :: Closing all sockets.
+Jan 17 14:20:26 0    :: Closing link to: Klakdor.
+Jan 17 14:20:26 ¿g :: Saving current MUD time.
+Jan 17 14:20:26     :: Rebooting.
+Quick boot mode -- rent check supressed.
+Using file descriptor for logging.
