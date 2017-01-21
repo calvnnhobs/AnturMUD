@@ -1,26 +1,29 @@
 Name: Jonthax
 Pass: JowlIkTWnjcjw
-Titl: the Attendant
+Titl: the Novice
 Sex : 1
 Clas: 1
-Levl: 2
+Levl: 4
 Id  : 4
 Brth: 1484454894
-Plyd: 3127
-Last: 1484701008
+Plyd: 20442
+Last: 1484959485
 Lmot: 1484701475
+Lnew: 1484775053
 Host: static-astound-64-85-235-35.ca.astound.n
 Hite: 198
 Wate: 157
-Alin: 215
+Alin: 199
 Act : gh 0 0 0
 Aff : 0 0 0 0
 Pref: efghnoAD 0 0 0
-Room: 7043
+Wimp: 10
+Room: 6070
 Lern: 8
-Hit : 27/27
-Mana: 102/102
-Move: 85/85
+Thir: 4
+Hit : 44/44
+Mana: 111/111
+Move: 49/88
 Str : 13/0
 Int : 14
 Wis : 17
@@ -28,8 +31,13 @@ Dex : 13
 Con : 11
 Cha : 8
 Ac  : 100
-Gold: 80
-Exp : 1941
+Gold: 315
+Exp : 9395
 Olc : 0
 Skil:
+1 95
+16 95
 0 0
+Affs:
+1 14 -20 17 0 0 0 0
+0 0 0 0 0 0 0 0

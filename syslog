@@ -842,3 +842,943 @@ Jan 18 10:17:30 @®R  :: nusage: 1   sockets connected, 1   sockets playing
 Jan 18 10:18:29      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
 Jan 18 10:18:42 0    :: Closing link to: Klakdor.
 Jan 18 10:18:42      :: No connections.  Going to sleep.
+Jan 18 13:04:15      :: New connection.  Waking up.
+Jan 18 13:04:23      :: Jonthax has connected.
+Jan 18 13:04:27      :: Jonthax had no variable file
+Jan 18 13:04:27 0    :: Jonthax un-renting and entering game.
+Jan 18 13:04:27 †¸x  :: Jonthax (level 2) has 19 objects (max 60).
+Jan 18 13:07:56 1∂} :: Jonthax advanced 1 level to level 3.
+Jan 18 13:08:02 ∂} :: nusage: 1   sockets connected, 1   sockets playing
+Jan 18 13:13:02 ∂} :: nusage: 1   sockets connected, 1   sockets playing
+Jan 18 13:18:02 ∂} :: nusage: 1   sockets connected, 1   sockets playing
+Jan 18 13:23:02 ∂} :: nusage: 1   sockets connected, 1   sockets playing
+Jan 18 13:28:02 ∂} :: nusage: 1   sockets connected, 1   sockets playing
+Jan 18 13:33:02 ∂} :: nusage: 1   sockets connected, 1   sockets playing
+Jan 18 13:34:13 ˇˇˇˇ :: Jonthax tried to get help on return
+Jan 18 13:38:02 ∂} :: nusage: 1   sockets connected, 1   sockets playing
+Jan 18 13:43:02 ∂} :: nusage: 1   sockets connected, 1   sockets playing
+Jan 18 13:48:02 ∂} :: nusage: 1   sockets connected, 1   sockets playing
+Jan 18 13:53:02 ∂} :: nusage: 1   sockets connected, 1   sockets playing
+Jan 18 13:58:02 ∂} :: nusage: 1   sockets connected, 1   sockets playing
+Jan 18 14:03:02 ∂} :: nusage: 1   sockets connected, 1   sockets playing
+Jan 18 14:03:20      :: Jonthax has quit the game.
+Jan 18 14:03:27  25	 :: Losing player: Jonthax.
+Jan 18 14:03:27      :: No connections.  Going to sleep.
+Jan 18 14:35:40      :: New connection.  Waking up.
+Jan 18 14:35:47      :: Bad PW: Jonthax [static-astound-64-85-235-35.ca.astound.n]
+Jan 18 14:35:48 0    :: Jonthax has connected.
+Jan 18 14:35:55      :: Jonthax had no variable file
+Jan 18 14:35:55 0    :: Jonthax un-renting and entering game.
+Jan 18 14:35:55     :: Jonthax (level 3) has 19 objects (max 60).
+Jan 18 14:40:15 ∂} :: nusage: 1   sockets connected, 1   sockets playing
+Jan 18 14:45:15 ∂} :: nusage: 1   sockets connected, 1   sockets playing
+Jan 18 14:50:15 ∂} :: nusage: 1   sockets connected, 1   sockets playing
+Jan 18 14:55:15 ∂} :: nusage: 1   sockets connected, 1   sockets playing
+Jan 18 15:00:15 ∂} :: nusage: 1   sockets connected, 1   sockets playing
+Jan 18 15:05:15 ∂} :: nusage: 1   sockets connected, 1   sockets playing
+Jan 18 15:10:15 ∂} :: nusage: 1   sockets connected, 1   sockets playing
+Jan 18 15:15:15 ∂} :: nusage: 1   sockets connected, 1   sockets playing
+Jan 18 15:20:15 ∂} :: nusage: 1   sockets connected, 1   sockets playing
+Jan 18 15:25:15 ∂} :: nusage: 1   sockets connected, 1   sockets playing
+Jan 18 15:30:15 ∂} :: nusage: 1   sockets connected, 1   sockets playing
+Jan 18 15:35:15 ∂} :: nusage: 1   sockets connected, 1   sockets playing
+Jan 18 15:40:15 ∂} :: nusage: 1   sockets connected, 1   sockets playing
+Jan 18 15:45:15 ∂} :: nusage: 1   sockets connected, 1   sockets playing
+Jan 18 15:50:15 ∂} :: nusage: 1   sockets connected, 1   sockets playing
+Jan 18 15:55:15 ∂} :: nusage: 1   sockets connected, 1   sockets playing
+Jan 18 16:00:15 ∂} :: nusage: 1   sockets connected, 1   sockets playing
+Jan 18 16:05:15 ∂} :: nusage: 1   sockets connected, 1   sockets playing
+Jan 18 16:10:15 ∂} :: nusage: 1   sockets connected, 1   sockets playing
+Jan 18 16:15:15 ∂} :: nusage: 1   sockets connected, 1   sockets playing
+Jan 18 16:20:15 ∂} :: nusage: 1   sockets connected, 1   sockets playing
+Jan 18 16:24:32      :: Jonthax tried to get help on waybread
+Jan 18 16:25:15 ∂} :: nusage: 1   sockets connected, 1   sockets playing
+Jan 18 16:30:15 ∂} :: nusage: 1   sockets connected, 1   sockets playing
+Jan 18 16:35:15 @®R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 18 16:40:15      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 18 16:41:22      :: Jonthax has quit the game.
+Jan 18 16:41:27  Pµ} :: Losing player: Jonthax.
+Jan 18 16:41:27      :: No connections.  Going to sleep.
+Jan 18 16:46:47      :: New connection.  Waking up.
+Jan 18 16:46:50      :: Klakdor [209-58-220-226.static-ip.telepacific.net] has reconnected.
+Jan 18 16:47:53     :: Cro has connected.
+Jan 18 16:47:55      :: Cro had no variable file
+Jan 18 16:47:55 0    :: Cro un-renting and entering game.
+Jan 18 16:47:55     :: Cro (level 5) has 21 objects (max 60).
+Jan 18 16:50:35 †ßR  :: nusage: 2   sockets connected, 2   sockets playing
+Jan 18 16:52:16      :: WARNING: EOF on socket read (connection broken by peer)
+Jan 18 16:52:16 0    :: Closing link to: Cro.
+Jan 18 16:52:19 0    :: Closing link to: Klakdor.
+Jan 18 16:52:19      :: No connections.  Going to sleep.
+Jan 18 17:09:32      :: New connection.  Waking up.
+SYSERR: gethostbyaddr: Success
+Jan 18 17:09:33     :: Losing descriptor without char.
+Jan 18 17:09:33 ∞ﬂµ :: No connections.  Going to sleep.
+Jan 18 17:39:11 ∞ﬂµ :: New connection.  Waking up.
+Jan 18 17:39:29      :: Jonthax has connected.
+Jan 18 17:39:35      :: Jonthax had no variable file
+Jan 18 17:39:35 0    :: Jonthax un-renting and entering game.
+Jan 18 17:39:35     :: Jonthax (level 3) has 25 objects (max 60).
+Jan 18 17:40:59 4    :: Jonthax has quit the game.
+Jan 18 17:41:02     :: Losing player: Jonthax.
+Jan 18 17:41:02      :: No connections.  Going to sleep.
+Jan 18 18:04:31      :: New connection.  Waking up.
+Jan 18 18:04:56     :: Losing descriptor without char.
+Jan 18 18:04:56      :: No connections.  Going to sleep.
+Jan 18 18:10:11      :: New connection.  Waking up.
+Jan 18 18:10:17      :: Bad PW: Jonthax [static-astound-64-85-235-35.ca.astound.n]
+Jan 18 18:10:18 0    :: Bad PW: Jonthax [static-astound-64-85-235-35.ca.astound.n]
+Jan 18 18:10:18 0    :: Bad PW: Jonthax [static-astound-64-85-235-35.ca.astound.n]
+Jan 18 18:10:18     :: Losing player: Jonthax.
+Jan 18 18:10:18      :: No connections.  Going to sleep.
+Jan 18 18:10:40      :: New connection.  Waking up.
+Jan 18 18:10:46 0    :: Bad PW: Jonthax [static-astound-64-85-235-35.ca.astound.n]
+Jan 18 18:10:47 0    :: Bad PW: Jonthax [static-astound-64-85-235-35.ca.astound.n]
+Jan 18 18:11:04     :: Losing player: Jonthax.
+Jan 18 18:11:04      :: No connections.  Going to sleep.
+Jan 18 18:11:12      :: New connection.  Waking up.
+Jan 18 18:11:20 0    :: Jonthax has connected.
+Jan 18 18:11:25      :: Jonthax had no variable file
+Jan 18 18:11:25 0    :: Jonthax un-renting and entering game.
+Jan 18 18:11:25     :: Jonthax (level 3) has 25 objects (max 60).
+Jan 18 18:11:42      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 18 18:12:26 4    :: Jonthax has quit the game.
+Jan 18 18:12:28     :: Losing player: Jonthax.
+Jan 18 18:12:28      :: No connections.  Going to sleep.
+Jan 18 20:06:52      :: New connection.  Waking up.
+Jan 18 20:07:07      :: Klakdor [59.sub-70-197-3.myvzw.com] has reconnected.
+Jan 18 20:11:06      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 18 20:16:06      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 18 20:21:06      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 18 20:26:06      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 18 20:31:06      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 18 20:36:06      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 18 20:41:06      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 18 20:46:06      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 18 20:51:06      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 18 20:56:06      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 18 21:01:06      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 18 21:02:21 0    :: Cro force-rented and extracted (idle).
+Jan 18 21:06:06      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 18 21:11:06      :: nusage: 2   sockets connected, 1   sockets playing
+Jan 18 21:11:06 	Mµ} :: Losing descriptor without char.
+Jan 18 21:16:06      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 18 21:16:48      :: Klakdor has re-logged in ... disconnecting old socket.
+Jan 18 21:16:48     :: Losing descriptor without char.
+Jan 18 21:21:06      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 18 21:26:06      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 18 21:31:06      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 18 21:33:43 4    :: Klakdor has quit the game.
+Jan 18 21:33:45 ˇ   :: Losing player: Klakdor.
+Jan 18 21:33:45      :: No connections.  Going to sleep.
+Jan 18 21:43:40      :: New connection.  Waking up.
+Jan 18 21:43:53      :: Jonthax has connected.
+Jan 18 21:43:59      :: Jonthax had no variable file
+Jan 18 21:43:59 0    :: Jonthax un-renting and entering game.
+Jan 18 21:43:59     :: Jonthax (level 3) has 25 objects (max 60).
+Jan 18 21:46:02 ∂} :: nusage: 1   sockets connected, 1   sockets playing
+Jan 18 21:51:02 ∂} :: nusage: 1   sockets connected, 1   sockets playing
+Jan 18 21:56:02      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 18 21:59:56      :: Jonthax advanced 1 level to level 4.
+Jan 18 22:01:02      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 18 22:03:14 ˇˇˇˇ :: Jonthax has quit the game.
+Jan 18 22:03:17    8 :: Losing player: Jonthax.
+Jan 18 22:03:17      :: No connections.  Going to sleep.
+Jan 19 02:34:16      :: New connection.  Waking up.
+SYSERR: gethostbyaddr: Success
+Jan 19 02:34:17     :: Losing descriptor without char.
+Jan 19 02:34:17 ∞ﬂµ :: No connections.  Going to sleep.
+Jan 19 05:21:42 ∞ﬂµ :: New connection.  Waking up.
+SYSERR: gethostbyaddr: Success
+Jan 19 05:21:52     :: WARNING: EOF on socket read (connection broken by peer)
+Jan 19 05:21:52     :: Losing descriptor without char.
+Jan 19 05:21:52 ∞ﬂµ :: No connections.  Going to sleep.
+Jan 19 06:59:06 ∞ﬂµ :: New connection.  Waking up.
+Jan 19 06:59:16      :: Klakdor has connected.
+Jan 19 06:59:19 0    :: Klakdor un-renting and entering game.
+Jan 19 06:59:19     :: Klakdor (level 34) has 10 objects (max 60).
+Jan 19 07:01:32      :: Klakdor has quit the game.
+Jan 19 07:01:33      :: Losing player: Klakdor.
+Jan 19 07:01:33 ∞ﬂµ :: No connections.  Going to sleep.
+Jan 19 10:06:53 ∞ﬂµ :: New connection.  Waking up.
+Jan 19 10:06:53     :: WARNING: EOF on socket read (connection broken by peer)
+Jan 19 10:06:53     :: Losing descriptor without char.
+Jan 19 10:06:53     :: No connections.  Going to sleep.
+Jan 19 15:45:47     :: New connection.  Waking up.
+SYSERR: gethostbyaddr: Success
+Jan 19 15:45:52      :: Klakdor has connected.
+Jan 19 15:45:53 0    :: Klakdor un-renting and entering game.
+Jan 19 15:45:53     :: Klakdor (level 34) has 10 objects (max 60).
+Jan 19 15:45:54      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 19 15:50:54      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 19 15:55:13      :: GenOLC: add_room: Added room 2142 at index #1333.
+Jan 19 15:55:13      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 15:55:15      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 19 15:55:29      :: GenOLC: add_room: Updated existing room #2142.
+Jan 19 15:55:29      :: OLC: Klakdor edits room 2142.
+Jan 19 15:55:29 cts  :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 19 15:55:29 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 15:55:54      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 19 15:55:55      :: GenOLC: add_room: Added room 2143 at index #1334.
+Jan 19 15:55:55      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 15:55:59      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 19 15:56:15      :: GenOLC: add_room: Updated existing room #2143.
+Jan 19 15:56:15      :: OLC: Klakdor edits room 2143.
+Jan 19 15:56:15      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 19 15:56:15 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 15:56:20      :: GenOLC: add_room: Added room 2144 at index #1335.
+Jan 19 15:56:20  @µ} :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 15:56:21      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 19 15:56:28      :: GenOLC: add_room: Updated existing room #2144.
+Jan 19 15:56:28      :: OLC: Klakdor edits room 2144.
+Jan 19 15:56:28      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 19 15:56:28 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 15:56:32      :: GenOLC: add_room: Added room 2145 at index #1336.
+Jan 19 15:56:32  @µ} :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 15:56:34      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 19 15:56:41      :: GenOLC: add_room: Updated existing room #2145.
+Jan 19 15:56:41      :: OLC: Klakdor edits room 2145.
+Jan 19 15:56:41      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 19 15:56:41 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 15:56:51      :: GenOLC: add_room: Added room 2146 at index #1337.
+Jan 19 15:56:51      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 15:56:52      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 19 15:56:56      :: GenOLC: add_room: Updated existing room #2146.
+Jan 19 15:56:56      :: OLC: Klakdor edits room 2146.
+Jan 19 15:56:56      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 19 15:56:56 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 15:57:01      :: GenOLC: add_room: Added room 2147 at index #1338.
+Jan 19 15:57:01  @µ} :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 15:57:03      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 19 15:57:11      :: GenOLC: add_room: Updated existing room #2147.
+Jan 19 15:57:11      :: OLC: Klakdor edits room 2147.
+Jan 19 15:57:11      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 19 15:57:11 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 15:57:14      :: GenOLC: add_room: Added room 2148 at index #1339.
+Jan 19 15:57:14      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 15:57:17      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 19 15:57:23      :: GenOLC: add_room: Updated existing room #2148.
+Jan 19 15:57:23     :: OLC: Klakdor edits room 2148.
+Jan 19 15:57:23      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 19 15:57:23 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 15:57:24      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 19 15:57:26      :: GenOLC: add_room: Updated existing room #2148.
+Jan 19 15:57:26      :: OLC: Klakdor edits room 2148.
+Jan 19 15:57:26      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 19 15:57:26 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 15:57:35      :: GenOLC: add_room: Added room 2149 at index #1340.
+Jan 19 15:57:35      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 15:57:37      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 19 15:57:44      :: GenOLC: add_room: Updated existing room #2149.
+Jan 19 15:57:44      :: OLC: Klakdor edits room 2149.
+Jan 19 15:57:44      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 19 15:57:44 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 15:58:06      :: GenOLC: add_room: Added room 2150 at index #1341.
+Jan 19 15:58:06      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 15:58:20      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 19 15:58:24      :: GenOLC: add_room: Updated existing room #2150.
+Jan 19 15:58:24      :: OLC: Klakdor edits room 2150.
+Jan 19 15:58:24      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 19 15:58:24 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 15:58:39      :: GenOLC: add_room: Added room 2151 at index #1342.
+Jan 19 15:58:39      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 15:58:40      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 19 15:58:52      :: GenOLC: add_room: Updated existing room #2151.
+Jan 19 15:58:52      :: OLC: Klakdor edits room 2151.
+Jan 19 15:58:52      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 19 15:58:52 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 15:58:57      :: GenOLC: add_room: Added room 2152 at index #1343.
+Jan 19 15:58:57      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 15:58:58      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 19 15:59:04      :: GenOLC: add_room: Updated existing room #2152.
+Jan 19 15:59:04      :: OLC: Klakdor edits room 2152.
+Jan 19 15:59:04      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 19 15:59:04 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 15:59:08      :: GenOLC: add_room: Added room 2153 at index #1344.
+Jan 19 15:59:08  @µ} :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 15:59:10      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 19 15:59:24      :: GenOLC: add_room: Updated existing room #2153.
+Jan 19 15:59:24      :: OLC: Klakdor edits room 2153.
+Jan 19 15:59:24      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 19 15:59:24 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 15:59:42      :: GenOLC: add_room: Added room 2154 at index #1345.
+Jan 19 15:59:42      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 15:59:43      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 19 15:59:48      :: GenOLC: add_room: Updated existing room #2154.
+Jan 19 15:59:48      :: OLC: Klakdor edits room 2154.
+Jan 19 15:59:48      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 19 15:59:48 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 15:59:53      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 19 16:00:02      :: GenOLC: add_room: Updated existing room #2154.
+Jan 19 16:00:02     :: OLC: Klakdor edits room 2154.
+Jan 19 16:00:02      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 19 16:00:02 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 16:00:16      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 19 16:00:29      :: GenOLC: add_room: Updated existing room #2153.
+Jan 19 16:00:29     :: OLC: Klakdor edits room 2153.
+Jan 19 16:00:29      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 19 16:00:29 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 16:00:43      :: GenOLC: add_room: Added room 2155 at index #1346.
+Jan 19 16:00:43      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 16:00:53      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 19 16:00:54      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 19 16:00:56      :: GenOLC: add_room: Updated existing room #2155.
+Jan 19 16:00:56      :: OLC: Klakdor edits room 2155.
+Jan 19 16:00:56      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 19 16:00:56 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 16:00:59      :: GenOLC: add_room: Added room 2156 at index #1347.
+Jan 19 16:00:59  @µ} :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 16:01:00      :: Trigger restarted on unknown entity. Vnum: 1970
+Jan 19 16:01:00      :: Type: Room trigger
+Jan 19 16:01:00      :: attached 2 places
+Jan 19 16:01:00      :: SCRIPT ERROR: Trigger restart attempt on unknown entity.
+Jan 19 16:01:00      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 19 16:01:10      :: GenOLC: add_room: Updated existing room #2156.
+Jan 19 16:01:10      :: OLC: Klakdor edits room 2156.
+Jan 19 16:01:10      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 19 16:01:10 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 16:01:39      :: GenOLC: add_room: Added room 2157 at index #1348.
+Jan 19 16:01:39      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 16:01:46      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 19 16:01:52      :: GenOLC: add_room: Updated existing room #2157.
+Jan 19 16:01:52      :: OLC: Klakdor edits room 2157.
+Jan 19 16:01:52      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 19 16:01:52 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 16:02:39      :: GenOLC: add_room: Added room 2158 at index #1349.
+Jan 19 16:02:39      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 16:02:44      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 19 16:02:57      :: GenOLC: add_room: Updated existing room #2158.
+Jan 19 16:02:57      :: OLC: Klakdor edits room 2158.
+Jan 19 16:02:57      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 19 16:02:57 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 16:03:03      :: GenOLC: add_room: Added room 2159 at index #1350.
+Jan 19 16:03:03  @µ} :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 16:03:08      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 19 16:03:11      :: GenOLC: add_room: Updated existing room #2158.
+Jan 19 16:03:11     :: OLC: Klakdor edits room 2158.
+Jan 19 16:03:11      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 19 16:03:11 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 16:03:25      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 19 16:03:36      :: GenOLC: add_room: Updated existing room #2158.
+Jan 19 16:03:36     :: OLC: Klakdor edits room 2158.
+Jan 19 16:03:36      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 19 16:03:36 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 16:03:45      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 19 16:03:48      :: GenOLC: add_room: Updated existing room #2159.
+Jan 19 16:03:48     :: OLC: Klakdor edits room 2159.
+Jan 19 16:03:48      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 19 16:03:48 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 16:03:59      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 19 16:04:09      :: GenOLC: add_room: Updated existing room #2159.
+Jan 19 16:04:09      :: OLC: Klakdor edits room 2159.
+Jan 19 16:04:09      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 19 16:04:09 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 16:04:16      :: GenOLC: add_room: Added room 2160 at index #1351.
+Jan 19 16:04:16      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 16:04:18      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 19 16:04:23      :: GenOLC: add_room: Updated existing room #2160.
+Jan 19 16:04:23      :: OLC: Klakdor edits room 2160.
+Jan 19 16:04:23      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 19 16:04:23 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 16:04:29      :: GenOLC: add_room: Added room 2161 at index #1352.
+Jan 19 16:04:29      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 16:04:31      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 19 16:04:35      :: GenOLC: add_room: Updated existing room #2161.
+Jan 19 16:04:35      :: OLC: Klakdor edits room 2161.
+Jan 19 16:04:35      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 19 16:04:35 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 16:04:51      :: GenOLC: add_room: Added room 2162 at index #1353.
+Jan 19 16:04:51      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 16:04:54      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 19 16:04:56      :: GenOLC: add_room: Updated existing room #2162.
+Jan 19 16:04:56      :: OLC: Klakdor edits room 2162.
+Jan 19 16:04:56      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 19 16:04:56 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 16:05:00      :: GenOLC: add_room: Added room 2163 at index #1354.
+Jan 19 16:05:00  @µ} :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 16:05:02      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 19 16:05:05      :: GenOLC: add_room: Updated existing room #2163.
+Jan 19 16:05:05      :: OLC: Klakdor edits room 2163.
+Jan 19 16:05:05      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 19 16:05:05 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 16:05:15      :: GenOLC: add_room: Added room 2164 at index #1355.
+Jan 19 16:05:15      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 16:05:17      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 19 16:05:19      :: GenOLC: add_room: Updated existing room #2164.
+Jan 19 16:05:19      :: OLC: Klakdor edits room 2164.
+Jan 19 16:05:19      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 19 16:05:19 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 16:05:23      :: GenOLC: add_room: Added room 2165 at index #1356.
+Jan 19 16:05:23  @µ} :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 16:05:24      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 19 16:05:27      :: GenOLC: add_room: Updated existing room #2165.
+Jan 19 16:05:27      :: OLC: Klakdor edits room 2165.
+Jan 19 16:05:27      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 19 16:05:27 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 16:05:41      :: GenOLC: add_room: Added room 2166 at index #1357.
+Jan 19 16:05:41      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 16:05:42      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 19 16:05:53      :: GenOLC: add_room: Updated existing room #2166.
+Jan 19 16:05:53      :: OLC: Klakdor edits room 2166.
+Jan 19 16:05:53      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 19 16:05:53 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 16:05:54      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 19 16:05:59      :: GenOLC: add_room: Added room 2167 at index #1358.
+Jan 19 16:05:59      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 16:06:04      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 19 16:06:08      :: GenOLC: add_room: Updated existing room #2167.
+Jan 19 16:06:08      :: OLC: Klakdor edits room 2167.
+Jan 19 16:06:08      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 19 16:06:08 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 16:06:11      :: GenOLC: add_room: Added room 2168 at index #1359.
+Jan 19 16:06:11  @µ} :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 16:06:14      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 19 16:06:20      :: GenOLC: add_room: Updated existing room #2168.
+Jan 19 16:06:20      :: OLC: Klakdor edits room 2168.
+Jan 19 16:06:20      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 19 16:06:20 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 16:06:32      :: GenOLC: add_room: Added room 2169 at index #1360.
+Jan 19 16:06:32      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 16:06:33      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 19 16:06:37      :: GenOLC: add_room: Updated existing room #2169.
+Jan 19 16:06:37      :: OLC: Klakdor edits room 2169.
+Jan 19 16:06:37      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 19 16:06:37 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 16:06:41      :: GenOLC: add_room: Added room 2170 at index #1361.
+Jan 19 16:06:41  @µ} :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 16:06:42      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 19 16:06:44      :: GenOLC: add_room: Updated existing room #2170.
+Jan 19 16:06:44      :: OLC: Klakdor edits room 2170.
+Jan 19 16:06:44      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 19 16:06:44 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 16:06:47      :: GenOLC: add_room: Added room 2171 at index #1362.
+Jan 19 16:06:47  @µ} :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 16:06:56      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 19 16:07:00      :: GenOLC: add_room: Updated existing room #2171.
+Jan 19 16:07:00      :: OLC: Klakdor edits room 2171.
+Jan 19 16:07:00      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 19 16:07:00 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 16:07:04      :: GenOLC: add_room: Added room 2172 at index #1363.
+Jan 19 16:07:04      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 16:07:06      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 19 16:07:11      :: GenOLC: add_room: Updated existing room #2172.
+Jan 19 16:07:11      :: OLC: Klakdor edits room 2172.
+Jan 19 16:07:11      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 19 16:07:11 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 16:07:17      :: GenOLC: add_room: Added room 2173 at index #1364.
+Jan 19 16:07:17      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 16:07:22      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 19 16:07:26      :: GenOLC: add_room: Updated existing room #2172.
+Jan 19 16:07:26     :: OLC: Klakdor edits room 2172.
+Jan 19 16:07:26      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 19 16:07:26 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 16:07:40      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 19 16:08:16      :: GenOLC: add_room: Updated existing room #2172.
+Jan 19 16:08:16     :: OLC: Klakdor edits room 2172.
+Jan 19 16:08:16      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 19 16:08:16 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 16:08:21      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 19 16:09:07      :: GenOLC: add_room: Updated existing room #2173.
+Jan 19 16:09:07      :: OLC: Klakdor edits room 2173.
+Jan 19 16:09:07      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 19 16:09:07 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 16:09:49      :: GenOLC: add_room: Added room 2174 at index #1365.
+Jan 19 16:09:49      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 16:09:51      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 19 16:09:58      :: GenOLC: add_room: Updated existing room #2174.
+Jan 19 16:09:58      :: OLC: Klakdor edits room 2174.
+Jan 19 16:09:58      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 19 16:09:58 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 16:10:54 @®R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 19 16:11:47      :: GenOLC: add_room: Added room 2175 at index #1366.
+Jan 19 16:11:47      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 16:11:48      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 19 16:11:54      :: GenOLC: add_room: Updated existing room #2175.
+Jan 19 16:11:54      :: OLC: Klakdor edits room 2175.
+Jan 19 16:11:54      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 19 16:11:54 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 16:12:16      :: GenOLC: add_room: Added room 2176 at index #1367.
+Jan 19 16:12:16      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 16:12:17      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 19 16:12:27      :: GenOLC: add_room: Updated existing room #2176.
+Jan 19 16:12:27      :: OLC: Klakdor edits room 2176.
+Jan 19 16:12:27      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 19 16:12:27 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 16:12:33      :: GenOLC: add_room: Added room 2177 at index #1368.
+Jan 19 16:12:33  @µ} :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 16:12:39      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 19 16:12:43      :: GenOLC: add_room: Updated existing room #2177.
+Jan 19 16:12:43      :: OLC: Klakdor edits room 2177.
+Jan 19 16:12:43      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 19 16:12:43 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 16:12:48      :: GenOLC: add_room: Added room 2178 at index #1369.
+Jan 19 16:12:48      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 16:12:51      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 19 16:13:00      :: GenOLC: add_room: Updated existing room #2178.
+Jan 19 16:13:00      :: OLC: Klakdor edits room 2178.
+Jan 19 16:13:00      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 19 16:13:00 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 16:13:26      :: GenOLC: add_room: Added room 2180 at index #1370.
+Jan 19 16:13:26      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 16:13:29      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 19 16:14:06      :: GenOLC: add_room: Updated existing room #2180.
+Jan 19 16:14:06      :: OLC: Klakdor edits room 2180.
+Jan 19 16:14:06      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 19 16:14:06 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 16:14:09      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 19 16:14:29      :: GenOLC: add_room: Updated existing room #2180.
+Jan 19 16:14:29     :: OLC: Klakdor edits room 2180.
+Jan 19 16:14:29      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 19 16:14:29 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 16:14:43      :: GenOLC: add_room: Added room 2179 at index #1370.
+Jan 19 16:14:43      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 16:14:46      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 19 16:15:04      :: GenOLC: add_room: Updated existing room #2179.
+Jan 19 16:15:04      :: OLC: Klakdor edits room 2179.
+Jan 19 16:15:04      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 19 16:15:04 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 16:15:36      :: GenOLC: add_room: Added room 2181 at index #1372.
+Jan 19 16:15:36      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 16:15:44      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 19 16:15:54      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 19 16:16:52      :: GenOLC: add_room: Updated existing room #2181.
+Jan 19 16:16:52      :: OLC: Klakdor edits room 2181.
+Jan 19 16:16:52      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 19 16:16:52 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 16:17:20      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 19 16:17:28      :: GenOLC: add_room: Updated existing room #2137.
+Jan 19 16:17:28     :: OLC: Klakdor edits room 2137.
+Jan 19 16:17:28      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 19 16:17:28 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+SYSERR: gethostbyaddr: Success
+Jan 19 16:18:05 1∂} :: Cro has connected.
+Jan 19 16:18:07      :: Cro had no variable file
+Jan 19 16:18:07 0    :: Cro un-renting and entering game.
+Jan 19 16:18:07 †¸x  :: Cro (level 5) has 21 objects (max 60).
+Jan 19 16:20:54 †ßR  :: nusage: 2   sockets connected, 2   sockets playing
+Jan 19 16:23:27     :: (GC) Klakdor has rerolled Cro.
+Jan 19 16:24:21     :: (GC) Klakdor has advanced Cro to level 20 (from 1)
+Jan 19 16:24:21 ∏@µ} :: Cro advanced 19 levels to level 20.
+Jan 19 16:24:29     :: (GC) Klakdor demoted Cro from level 20 to 1.
+Jan 19 16:25:54      :: nusage: 2   sockets connected, 2   sockets playing
+Jan 19 16:26:55 0    :: Closing link to: Cro.
+Jan 19 16:26:55 0    :: Closing link to: Klakdor.
+Jan 19 16:26:55      :: No connections.  Going to sleep.
+Jan 19 16:50:26      :: New connection.  Waking up.
+Jan 19 16:50:42      :: Klakdor [52.sub-70-197-20.myvzw.com] has reconnected.
+Jan 19 16:51:00      :: WARNING: EOF on socket read (connection broken by peer)
+Jan 19 16:51:00 0    :: Closing link to: Klakdor.
+Jan 19 16:51:00      :: No connections.  Going to sleep.
+Jan 19 17:55:19      :: New connection.  Waking up.
+Jan 19 17:55:27      :: Klakdor [99-75-92-88.lightspeed.sntcca.sbcglobal.] has reconnected.
+Jan 19 17:56:04      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 19 17:56:49      :: GenOLC: add_room: Updated existing room #2101.
+Jan 19 17:56:49      :: OLC: Klakdor edits room 2101.
+Jan 19 17:56:49 ˇˇˇˇ :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 19 17:56:49 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 19 17:58:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 19 18:03:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 19 18:08:43 @®R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 19 18:13:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 19 18:18:43 †ßR  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 19 18:23:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 19 18:28:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 19 18:33:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 19 18:38:43 @®R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 19 18:43:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 19 18:48:43 †ßR  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 19 18:52:28      :: Cro force-rented and extracted (idle).
+Jan 19 18:53:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 19 18:58:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 19 19:03:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 19 19:08:43 @®R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 19 19:13:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 19 19:18:43 †ßR  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 19 19:23:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 19 19:28:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 19 19:33:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 19 19:38:43 @®R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 19 19:43:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 19 19:48:43 †ßR  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 19 19:53:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 19 19:58:40      :: OLC: Klakdor starts editing zone 30 allowed zone 0
+Jan 19 19:58:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 19 20:00:15 ÄÇ  :: OLC: Klakdor stops editing zone 30 allowed zone 0
+Jan 19 20:00:35      :: OLC: Klakdor starts editing zone 30 [trigger](allowed zone 0)
+Jan 19 20:00:48      :: OLC: Klakdor stops editing zone 30 allowed zone 0
+Jan 19 20:02:56     :: OLC: Klakdor starts editing zone 30 [trigger](allowed zone 0)
+Jan 19 20:02:59     :: OLC: Klakdor stops editing zone 30 allowed zone 0
+Jan 19 20:03:04     :: OLC: Klakdor starts editing zone 31 [trigger](allowed zone 0)
+Jan 19 20:03:12     :: OLC: Klakdor stops editing zone 31 allowed zone 0
+Jan 19 20:03:17     :: OLC: Klakdor starts editing zone 31 [trigger](allowed zone 0)
+Jan 19 20:03:19     :: OLC: Klakdor stops editing zone 31 allowed zone 0
+Jan 19 20:03:31     :: Klakdor tried to get help on triger
+Jan 19 20:03:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 19 20:08:43 @®R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 19 20:13:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 19 20:18:43 †ßR  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 19 20:23:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 19 20:28:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 19 20:33:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 19 20:38:43 @®R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 19 20:43:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 19 20:48:43 †ßR  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 19 20:53:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 19 20:58:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 19 21:03:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 19 21:08:43 @®R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 19 21:13:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 19 21:18:43 †ßR  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 19 21:23:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 19 21:28:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 19 21:33:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 19 21:38:43 @®R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 19 21:43:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 19 21:48:43 †ßR  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 19 21:53:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 19 21:58:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 19 22:03:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 19 22:08:43 @®R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 19 22:13:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 19 22:18:43 ˛ßR  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 19 22:23:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 19 22:28:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 19 22:33:43 (®R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 19 22:38:43 @®R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 19 22:43:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 19 22:48:43 †ßR  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 19 22:53:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 19 22:58:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 19 23:03:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 19 23:08:43 @®R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 19 23:13:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 19 23:18:43 †ßR  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 19 23:23:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 19 23:28:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 19 23:33:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 19 23:38:43 @®R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 19 23:43:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 19 23:48:43 †ßR  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 19 23:53:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 19 23:58:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 00:03:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 00:08:43 @®R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 00:13:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 00:18:43 †ßR  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 00:23:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 00:28:43 ê®R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 00:33:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 00:38:43 @®R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 00:43:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 00:48:43 †ßR  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 00:53:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 00:58:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 01:03:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 01:08:43 @®R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 01:13:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 01:18:43 †ßR  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 01:23:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 01:28:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 01:33:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 01:38:43 @®R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 01:43:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 01:48:43 †ßR  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 01:53:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 01:58:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 02:03:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 02:08:43 @®R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 02:13:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 02:18:43 †ßR  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 02:23:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 02:28:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 02:33:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 02:38:43 @®R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 02:43:43 ê®R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 02:48:43 †ßR  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 02:53:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 02:58:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 03:03:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 03:08:43 @®R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 03:13:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 03:18:43 †ßR  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 03:23:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 03:28:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 03:33:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 03:38:43 @®R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 03:43:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 03:48:43 †ßR  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 03:53:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 03:58:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 04:03:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 04:08:43 @®R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 04:13:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 04:18:43 †ßR  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 04:23:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 04:28:43 ê®R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 04:33:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 04:38:43 @®R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 04:43:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 04:48:43 †ßR  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 04:53:43 ®R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 04:58:43 ÈßR  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 05:03:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 05:08:43 @®R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 05:13:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 05:18:43 †ßR  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 05:23:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 05:28:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 05:33:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 05:38:43 @®R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 05:43:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 05:48:43 †ßR  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 05:53:43 ÈßR  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 05:58:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 06:03:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 06:08:43 @®R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 06:13:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 06:18:43 †ßR  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 06:23:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 06:28:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 06:33:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 06:38:43 @®R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 06:43:43 (®R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 06:48:43 ˛ßR  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 06:53:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 06:58:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 07:03:43      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 07:03:52      :: WARNING: EOF on socket read (connection broken by peer)
+Jan 20 07:03:52 0    :: Closing link to: Klakdor.
+Jan 20 07:03:52      :: No connections.  Going to sleep.
+Jan 20 12:14:53      :: New connection.  Waking up.
+Jan 20 12:14:57      :: Klakdor [99-75-92-88.lightspeed.sntcca.sbcglobal.] has reconnected.
+Jan 20 12:19:45 @®R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 12:24:45      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 12:29:45 †ßR  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 12:34:45      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 12:39:45      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 12:44:45      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 12:49:45 @®R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 12:54:45      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 12:59:45 (®R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 13:04:45      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 13:09:45      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 13:14:45      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 13:19:45 @®R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 13:24:45      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 13:26:17     :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 20 13:29:45      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 13:33:48 [    :: GenOLC: add_room: Updated existing room #2101.
+Jan 20 13:33:48      :: OLC: Klakdor edits room 2101.
+Jan 20 13:33:48      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 20 13:33:48 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 20 13:34:35      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 20 13:34:45      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 13:35:33 [    :: GenOLC: add_room: Updated existing room #2101.
+Jan 20 13:35:33      :: OLC: Klakdor edits room 2101.
+Jan 20 13:35:33      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 20 13:35:33 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 20 13:35:41      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 20 13:35:51 [    :: GenOLC: add_room: Updated existing room #2101.
+Jan 20 13:35:51     :: OLC: Klakdor edits room 2101.
+Jan 20 13:35:51      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 20 13:35:51 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 20 13:36:10      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 20 13:39:45      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 13:43:52 [    :: GenOLC: add_room: Updated existing room #2102.
+Jan 20 13:43:52     :: OLC: Klakdor edits room 2102.
+Jan 20 13:43:52      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 20 13:43:52 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 20 13:44:32      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 20 13:44:45      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 13:49:45      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 13:54:43 [    :: GenOLC: add_room: Updated existing room #2103.
+Jan 20 13:54:43     :: OLC: Klakdor edits room 2103.
+Jan 20 13:54:43      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 20 13:54:43 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 20 13:54:45      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 13:55:40      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 20 13:56:05 [    :: GenOLC: add_room: Updated existing room #2101.
+Jan 20 13:56:05      :: OLC: Klakdor edits room 2101.
+Jan 20 13:56:05      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 20 13:56:05 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 20 13:56:41      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 20 13:59:45      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 14:00:17 [    :: GenOLC: add_room: Updated existing room #2104.
+Jan 20 14:00:17     :: OLC: Klakdor edits room 2104.
+Jan 20 14:00:17      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 20 14:00:17 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 20 14:00:18      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 20 14:01:50 [    :: GenOLC: add_room: Updated existing room #2104.
+Jan 20 14:01:50     :: OLC: Klakdor edits room 2104.
+Jan 20 14:01:50      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 20 14:01:50 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 20 14:04:45      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 14:07:06      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 20 14:09:45      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 14:12:33 [    :: GenOLC: add_room: Updated existing room #2105.
+Jan 20 14:12:33      :: OLC: Klakdor edits room 2105.
+Jan 20 14:12:33      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 20 14:12:33 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 20 14:13:07      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 20 14:14:45      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 14:16:13 [    :: GenOLC: add_room: Updated existing room #2106.
+Jan 20 14:16:13     :: OLC: Klakdor edits room 2106.
+Jan 20 14:16:13      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 20 14:16:13 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 20 14:16:36      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 20 14:19:45      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 14:24:45      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 14:26:57 [    :: GenOLC: add_room: Updated existing room #2107.
+Jan 20 14:26:57     :: OLC: Klakdor edits room 2107.
+Jan 20 14:26:57      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 20 14:26:57 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 20 14:27:19      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 20 14:29:45      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 14:31:37 [    :: GenOLC: add_room: Updated existing room #2108.
+Jan 20 14:31:37     :: OLC: Klakdor edits room 2108.
+Jan 20 14:31:37      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 20 14:31:37 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 20 14:33:04      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 20 14:34:45      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 14:38:42 [    :: GenOLC: add_room: Updated existing room #2109.
+Jan 20 14:38:42     :: OLC: Klakdor edits room 2109.
+Jan 20 14:38:42      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 20 14:38:42 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 20 14:38:48      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 20 14:39:45      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 14:41:51      :: GenOLC: add_room: Updated existing room #2110.
+Jan 20 14:41:51     :: OLC: Klakdor edits room 2110.
+Jan 20 14:41:51      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 20 14:41:51 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 20 14:42:36      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 20 14:44:45      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 14:49:45      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 14:52:41 [    :: GenOLC: add_room: Updated existing room #2111.
+Jan 20 14:52:41      :: OLC: Klakdor edits room 2111.
+Jan 20 14:52:41      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 20 14:52:41 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 20 14:53:13      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 20 14:54:45      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 14:57:50      :: GenOLC: add_room: Updated existing room #2111.
+Jan 20 14:57:50     :: OLC: Klakdor edits room 2111.
+Jan 20 14:57:50      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 20 14:57:50 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 20 14:59:45 †ßR  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 15:02:05      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 20 15:03:05 [    :: GenOLC: add_room: Updated existing room #2109.
+Jan 20 15:03:05     :: OLC: Klakdor edits room 2109.
+Jan 20 15:03:05      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 20 15:03:05 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 20 15:04:09      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 20 15:04:45      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 15:06:27 1∂} :: Bad PW: Jonthax [static-astound-64-85-235-35.ca.astound.n]
+Jan 20 15:06:27 0    :: Bad PW: Jonthax [static-astound-64-85-235-35.ca.astound.n]
+Jan 20 15:06:28 0    :: Bad PW: Jonthax [static-astound-64-85-235-35.ca.astound.n]
+Jan 20 15:06:28      :: Losing player: Jonthax.
+Jan 20 15:06:43 0    :: Jonthax has connected.
+Jan 20 15:06:48      :: Jonthax had no variable file
+Jan 20 15:06:48 0    :: Jonthax un-renting and entering game.
+Jan 20 15:06:48 †¸x  :: Jonthax (level 4) has 25 objects (max 60).
+Jan 20 15:09:15 [    :: GenOLC: add_room: Updated existing room #2112.
+Jan 20 15:09:15 ü∂} :: OLC: Klakdor edits room 2112.
+Jan 20 15:09:15 ts ( :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 20 15:09:15 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 20 15:09:45      :: nusage: 2   sockets connected, 2   sockets playing
+Jan 20 15:10:36 ˇˇˇˇ :: Jonthax tried to get help on three-of-swords
+Jan 20 15:14:45 ∂} :: nusage: 2   sockets connected, 2   sockets playing
+Jan 20 15:19:45 ∂} :: nusage: 2   sockets connected, 2   sockets playing
+Jan 20 15:22:48      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 20 15:24:45      :: nusage: 2   sockets connected, 2   sockets playing
+Jan 20 15:25:35      :: Jonthax killed by the horrible ghost at A House
+Jan 20 15:25:47 –¬' :: Add_to_lookup failed. Already there. (uid = 4)
+Jan 20 15:25:47 ◊    :: Jonthax entering game with no equipment.
+Jan 20 15:29:45 ∂} :: nusage: 2   sockets connected, 2   sockets playing
+Jan 20 15:30:22 [    :: GenOLC: add_room: Updated existing room #2113.
+Jan 20 15:30:22 ¿!P  :: OLC: Klakdor edits room 2113.
+Jan 20 15:30:22 [ Jo :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 20 15:30:22 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 20 15:30:40      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 20 15:34:45 ∂} :: nusage: 2   sockets connected, 2   sockets playing
+Jan 20 15:38:16 [    :: GenOLC: add_room: Updated existing room #2114.
+Jan 20 15:38:16      :: OLC: Klakdor edits room 2114.
+Jan 20 15:38:16      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 20 15:38:16 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 20 15:38:21      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 20 15:39:45      :: nusage: 2   sockets connected, 2   sockets playing
+Jan 20 15:43:28 [    :: GenOLC: add_room: Updated existing room #2115.
+Jan 20 15:43:28      :: OLC: Klakdor edits room 2115.
+Jan 20 15:43:28      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 20 15:43:28 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 20 15:43:56      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 20 15:44:45 ∂} :: nusage: 2   sockets connected, 2   sockets playing
+Jan 20 15:49:45 @®R  :: nusage: 2   sockets connected, 2   sockets playing
+Jan 20 15:50:13 [    :: GenOLC: add_room: Updated existing room #2116.
+Jan 20 15:50:13  ( :: OLC: Klakdor edits room 2116.
+Jan 20 15:50:13      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 20 15:50:13 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 20 15:51:08      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 20 15:54:45      :: nusage: 2   sockets connected, 2   sockets playing
+Jan 20 15:56:14 [    :: GenOLC: add_room: Updated existing room #2117.
+Jan 20 15:56:14  ( :: OLC: Klakdor edits room 2117.
+Jan 20 15:56:14      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 20 15:56:14 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 20 15:56:21      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 20 15:59:45 ∂} :: nusage: 2   sockets connected, 2   sockets playing
+Jan 20 16:00:54      :: Jonthax tried to get help on 'dwarven-kingdom'
+Jan 20 16:01:26 [    :: GenOLC: add_room: Updated existing room #2118.
+Jan 20 16:01:26 ˇˇˇˇ :: OLC: Klakdor edits room 2118.
+Jan 20 16:01:26      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 20 16:01:26 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 20 16:01:49      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 20 16:04:45      :: nusage: 2   sockets connected, 2   sockets playing
+Jan 20 16:05:26      :: GenOLC: add_room: Updated existing room #2119.
+Jan 20 16:05:26  è' :: OLC: Klakdor edits room 2119.
+Jan 20 16:05:26      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 20 16:05:26 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 20 16:05:29      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 20 16:09:45      :: nusage: 2   sockets connected, 2   sockets playing
+Jan 20 16:11:34      :: GenOLC: add_room: Updated existing room #2120.
+Jan 20 16:11:34      :: OLC: Klakdor edits room 2120.
+Jan 20 16:11:34      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 20 16:11:34 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 20 16:11:39      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 20 16:13:02 [    :: GenOLC: add_room: Updated existing room #2120.
+Jan 20 16:13:02     :: OLC: Klakdor edits room 2120.
+Jan 20 16:13:02      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 20 16:13:02 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 20 16:14:45 ∂} :: nusage: 2   sockets connected, 2   sockets playing
+Jan 20 16:19:05 ˇˇˇˇ :: Jonthax has quit the game.
+Jan 20 16:19:34      :: Add_to_lookup failed. Already there. (uid = 4)
+Jan 20 16:19:34 0    :: Jonthax un-renting and entering game.
+Jan 20 16:19:34 †¸x  :: Jonthax (level 4) has 26 objects (max 60).
+Jan 20 16:19:45 @®R  :: nusage: 2   sockets connected, 2   sockets playing
+Jan 20 16:24:45      :: nusage: 2   sockets connected, 2   sockets playing
+Jan 20 16:29:45 ∂} :: nusage: 2   sockets connected, 2   sockets playing
+Jan 20 16:34:45      :: nusage: 2   sockets connected, 2   sockets playing
+Jan 20 16:36:30      :: OLC: Klakdor saves 'text/greetings'.
+Jan 20 16:36:30      :: OLC: Klakdor stops editing text files.
+Jan 20 16:36:33 Fµ} :: Klakdor has quit the game.
+Jan 20 16:36:33 t yo :: Losing player: Klakdor.
+Jan 20 16:36:40      :: Klakdor has connected.
+Jan 20 16:36:46 0    :: Klakdor un-renting and entering game.
+Jan 20 16:36:46      :: Klakdor (level 34) has 10 objects (max 60).
+Jan 20 16:39:45      :: nusage: 2   sockets connected, 2   sockets playing
+Jan 20 16:44:45 ∂} :: nusage: 2   sockets connected, 2   sockets playing
+Jan 20 16:48:54 then :: Jonthax has quit the game.
+Jan 20 16:48:57 comm :: Losing player: Jonthax.
+Jan 20 16:49:44      :: Klakdor has quit the game.
+Jan 20 16:49:45      :: nusage: 1   sockets connected, 0   sockets playing
+Jan 20 16:49:45     :: Losing player: Klakdor.
+Jan 20 16:49:45      :: No connections.  Going to sleep.
+Jan 20 17:03:39      :: New connection.  Waking up.
+Jan 20 17:03:42      :: Klakdor has connected.
+Jan 20 17:03:48 0    :: Klakdor un-renting and entering game.
+Jan 20 17:03:48     :: Klakdor (level 34) has 10 objects (max 60).
+Jan 20 17:05:05      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 20 17:05:11      :: GenOLC: add_room: Updated existing room #2120.
+Jan 20 17:05:11 ¿!P  :: OLC: Klakdor edits room 2120.
+Jan 20 17:05:11 cts  :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 20 17:05:11 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 20 17:05:46 4    :: Klakdor has quit the game.
+Jan 20 17:05:46     :: Losing player: Klakdor.
+Jan 20 17:05:46      :: No connections.  Going to sleep.

@@ -1,23 +1,25 @@
 Name: Klakdor
 Pass: KllIhZIJkIrNc
 Titl: the Limplementor
+PfIn: appears suddenly, and you are overcome with immense grief.
+PfOt: winks out of existence, and a feeling of relief and joy sweep over you.
 Sex : 1
 Clas: 3
 Levl: 34
 Id  : 1
 Brth: 1484334534
-Plyd: 88334
-Last: 1484758030
+Plyd: 166817
+Last: 1484960621
 Lmot: 1484613053
 Lnew: 1484592995
 Host: 99-75-92-88.lightspeed.sntcca.sbcglobal.
 Hite: 192
 Wate: 157
 Alin: -189
-Act : 0 0 0 0
+Act : g 0 0 0
 Aff : 0 0 0 0
 Pref: efghimnovACE 0 0 0
-Room: 65535
+Room: 2120
 Hit : 500/500
 Mana: 100/100
 Move: 92/82

@@ -24,77 +24,123 @@ Notes: Some rooms will be right outside the north gate of Fasth. The road, altho
 S
 #2101
 Fasth - Outside the Gates~
-You are in an unfinished room.
+   The stone gates of Fasth stand prominently to the south, but despite the
+proximity to town, the place looks abandoned.  A large wooden sign bearing the
+city's crest has been thoroughly defaced, and a few lingering chips of paint
+hint at a more polished past.  To the north lies the old Ferrycourse Road,
+looking equally empty.  Standing just a few paces from the gates to the west, a
+brightly-colored tent billows quietly in the breeze.
 ~
 21 0 0 0 0 1
 D0
+The road heads beyond a clearing and into the woods.
 ~
 ~
 0 0 2102
+D3
+The tent flaps are pulled aside.
+~
+~
+0 0 2181
+E
+sign wooden~
+   Little can now be made of the crest, and similarly there is little legible on
+the sign, except for some crude remarks about the barony.
+~
+E
+tent billow billowing~
+   The tent bears wide vertical stripes of various hues.  The look is garish but
+succeeds in drawing attention.
+~
 S
 #2102
 Fasth - Ferrycourse Road~
-You are in an unfinished room.
+   The old road to Anferry is clearly unused, with shrubs encroaching up close
+and weedy flowers growing defiantly in ancient wagon ruts.  Stands of silver
+birch clump together to form a wall of sorts to the north, though the forest
+does not look uninviting.  To the south are the gates of Fasth.
 ~
 21 0 0 0 0 2
 D2
+The gates of Fasth lie immediately south.
 ~
 ~
 0 0 2101
 D6
+The road enters the woods.
 ~
 ~
 0 0 2103
 S
 #2103
 Fasth - Ferrycourse Road~
-You are in an unfinished room.
+   The trees here are thick, making the old road quite distinct, like a hallway
+of green.  Despite the denseness, the air is still fresh, and the undergrowth is
+dappled with cowslip and heather, forming at times a vibrant carpet.  The path
+runs in very nearly a perfectly straight line, indicating some long-expired
+craftsmanship.
 ~
 21 0 0 0 0 2
 D6
+The path continues out to the forest's edge.
 ~
 ~
 0 0 2104
 D8
+The path runs for some time before disappearing around a bend in the trees.
 ~
 ~
 0 0 2102
 S
 #2104
 Fasth - Ferrycourse Road~
-You are in an unfinished room.
+   The forest is met quite suddenly by what appears to be a vast marshy area to
+the north.  The road is criss-crossed with vines, and a fallen birch tree
+further inhibits travel to the northwest, where the Ferrycourse continues deeper
+into the marsh.  A much smaller path, nearly obscured by the heather, leads off
+to the northeast along the dry boundary between trees and swamp.
 ~
 21 0 0 0 0 2
 D6
+The road continues deeper into the marsh, unyielding and straight.
 ~
 ~
 0 0 2109
 D7
+Just past some bushes, a trail winds its way along the forest's edge.
 ~
 ~
 0 0 2105
 D8
+The road enters the forest and continues on out of sight.
 ~
 ~
 0 0 2103
 S
 #2105
 Ferrycourse Fen - Beaten Path~
-You are in an unfinished room.
+   The path continues steadily along the edge of the birch forest to the south,
+with the relatively treeless mire extending beyond sight to the north.  Small
+clumps of golden crest seem to appreciate the boundary, and skirt the trail as
+if left for guidance.
 ~
 21 0 0 0 0 2
 D7
+The trail continues until encountering a stream some ways off.
 ~
 ~
 0 0 2106
 D9
+The trail winds around some bushes and ends at a long straight road.
 ~
 ~
 0 0 2104
 S
 #2106
 Ferrycourse Fen - Beaten Path~
-You are in an unfinished room.
+   A small stream chatters out of the woods and cross the path, eventually
+becoming indistinct from the mire to the north.  The trail skirts the stream
+northwards before turning southwest along the forest's edge.
 ~
 21 0 0 0 0 2
 D0
@@ -108,137 +154,213 @@ D9
 S
 #2107
 Ferrycourse Fen - Beaten Path~
-You are in an unfinished room.
+   Gurgling in from the south, a small stream seamlessly melds into the marsh,
+becoming one with the endless murky pools and winding waterways that disappear
+in the light mist.  Some solid-looking tufts of grass form a reliable ad hoc
+trail down into the marsh.  A beaten path continues along the swamp's edge,
+skirting the forest as closely as possible.
 ~
 21 0 0 0 0 2
 D2
+The path continues alongside the stream.
 ~
 ~
 0 0 2106
+D6
+A makeshift trail dots about in the pools of the marsh.
+~
+~
+0 0 2149
 D7
+The trail disappears in some denser bushes.
 ~
 ~
 0 0 2108
 S
 #2108
 Ferrycourse Fen - Beaten Path~
-You are in an unfinished room.
+   Ending here somewhat curiously, the trail turns straight into a line of
+impenetrable bushes that appear to continue on deep into the forest.  The marsh
+provides no passage.  Perhaps this trail belongs to wildlife better suited to
+crawling through the bracken and beyond.
 ~
 21 0 0 0 0 3
 D9
+The trail continues along the forest's edge.
 ~
 ~
 0 0 2107
 S
 #2109
 Ferrycourse Fen - Derelict Road~
-You are in an unfinished room.
+   Heavily pockmarked with stagnant puddles, the road is in quite worse shape
+than closer to town.  Despite this, the road runs stubbornly straight as an
+arrow.  A stone marker, diminished in prominence by weather and wear, notes a
+solid path leading southwest, skirting the marsh.
 ~
 21 0 0 0 0 2
 D6
+The road seems narrower as it continues unabated to the northwest.
 ~
 ~
 0 0 2112
 D8
+The road improves as it leaves the marsh and meets the forest.
 ~
 ~
 0 0 2104
 D9
+The path disappears behind a clump of bushes.
 ~
 ~
 0 0 2110
+E
+stone marker~
+Closer inspection reveals the top of the marker is missing, leaving no clue as to what lies down the trail.
+~
 S
 #2110
 Ferrycourse Fen - Winding Trail~
-You are in an unfinished room.
+   The trail seems to head very slowly yet steadily downhill as it heads west.
+The grasses and bushes here are somewhat diminished, and the salty tang of the
+sea is on the air.
 ~
 21 0 0 0 0 2
 D3
+The trail continues downward, and beyond the bay can be descried.
 ~
 ~
 0 0 2111
 D7
+The trail heads into some bushes until encountering a road.
 ~
 ~
 0 0 2109
 S
 #2111
 Ferrycourse Fen - Coastal Camp~
-You are in an unfinished room.
+   The trail ends here on a muddy beach on the Firth of Fasth.  Waves from the
+bay lap calmly on the shore, and a sense of peace pervades.  Rocks from the
+beach have been collected and used to build a small ring and firepit, nestled
+for protection in the flowering chaparral.  To the north, beyond the fen, runs
+the River Prif, and far to the southwest across the bay, tall mountains can
+faintly be seen.
 ~
 21 16 0 0 0 2
 D4
+Up a squat bluff the trail leads.
 ~
 ~
 0 0 2110
+E
+rock rocks ring firepit fire pit~
+Charred remains and refuse, while not fresh, still appear fresh enough to indicate the last visitors were here recently.
+~
+E
+river prif~
+The mouth of the river is wide, and even from here, several small boats can be seen.
+~
+E
+mountains~
+Its hard to tell from here, but it seems some of the furthest peaks have snow. The outlines of foothills can barely be made out.
+~
+E
+bay firth~
+The bay itself seems relatively calm, though the water is choppier out aways.
+~
 S
 #2112
 Ferrycourse Fen - Derelict Road~
-You are in an unfinished room.
+   Sometime long ago, the road was properly shored up by rock and loose gravel,
+and graded portions still remain here and there.  However, the fen encompassing
+the road is slowly reclaiming its territory, as evidenced by the crumbling
+margins and soggy gashes all about.
 ~
 21 0 0 0 0 2
 D6
+The road continues straight, while a trail veers west.
 ~
 ~
 0 0 2113
 D8
+The derelict road continues southwest, where it meets a small path to the south.
 ~
 ~
 0 0 2109
 S
 #2113
 Ferrycourse Fen - Derelict Road~
-You are in an unfinished room.
+   Running along the west side of the road are a series of crooked fenceposts,
+long since mended and now thoroughly askew.  Between two such posts runs a
+narrow lane that gradually becomes submerged by brackish water.  The Ferrycourse
+continues straight and sad to the northwest and southeast.
 ~
 21 0 0 0 0 2
 D3
+The lane disappears continues unevenly amid the grime.
 ~
 ~
 0 0 2114
 D6
+The road continues on straight as ever.
 ~
 ~
 0 0 2127
 D8
+The road continues, and far off the forest can be seen.
 ~
 ~
 0 0 2112
 S
 #2114
 Ferrycourse Fen - Marshland~
-You are in an unfinished room.
+   Disappearing beneath a deepening layer of muck, the lane from the east
+disappears into standing water.  What might have once been farmland is now
+overcome by brown grasses, broad lily pads and the occasional tree stump.  A
+somewhat drier way can be made out southwards, while off to the west, a long
+hill can be seen.
 ~
 21 0 0 0 0 3
 D1
+A lane emerges and meets with the Ferrycourse.
 ~
 ~
 0 0 2113
 D2
+The fen is less intimidating this way.
 ~
 ~
 0 0 2115
 D3
+The water seems deeper this way, though just past is a long, narrow hill.
 ~
 ~
 0 0 2126
 S
 #2115
 Ferrycourse Fen - Marshland~
-You are in an unfinished room.
+   Stepping carefully, one can avoid the puddles here.  White flowers on stalks
+nearly as high as a tree reveal patches of wild rice growing in the ample pools
+and ponds that abound.
 ~
 21 0 0 0 0 3
 D0
+The water is deeper north, and beyond that is the road.
 ~
 ~
 0 0 2114
 D9
+The fen continues, with some winding waterways becoming clear.
 ~
 ~
 0 0 2116
 S
 #2116
 Ferrycourse Fen - Marshland~
-You are in an unfinished room.
+   Matted straw and reeds mark the collapsed thatch roof of a homestead,
+standing drear and unaccessible.  Tangled vines continue their work on the
+wreckage, pulling apart stones with the slow creep of time.  A well also stands
+nearby, now quite unnecessary for the parched patrons of the land.
 ~
 21 0 0 0 0 3
 D3
@@ -249,59 +371,85 @@ D7
 ~
 ~
 0 0 2115
+E
+straw reeds thatch roof homestead~
+One need only peer into one of the gaping holes to see the inside of the home has long been ransacked and reclaimed by the land.
+~
 S
 #2117
 Ferrycourse Fen - Marshland~
-You are in an unfinished room.
+   The land here is risen a bit above the surrounding swamp, and the grasses
+have given way briefly to dry, hard ground.  The welcome respite is used to
+wring out wet clothing, taking great care to remove the slime that slowly
+accumulates during a tromp through the fens.  A trail marked by green stones
+leads down from here, while the other available directions are all back into the
+mire.
 ~
 21 0 0 0 0 3
 D1
+The fen continues to the east.
 ~
 ~
 0 0 2116
 D5
+Bushes and rocks obscure the way.
 ~
 ~
 0 0 2118
 D7
+The fen continues to the northeast.
 ~
 ~
 0 0 2119
 S
 #2118
 Ferrycourse Fen - Collapsed Dock~
-You are in an unfinished room.
+   The trail leads out of thick brush to a rotting dock, missing half the planks
+and looking not at all safe for even a trial.  Just to the side of the dock, a
+half-submerged boat is now covered in moss and also not looking the part.  Tall
+reeds prevent seeing far beyond the dock into the waterway, but the saltwater
+means it leads eventually out to sea.
 ~
 21 0 0 0 0 2
 D4
+Past some bushes, the rock-lined trail descends into the swamp.
 ~
 ~
 0 0 2117
 S
 #2119
 Ferrycourse Fen - Marshland~
-You are in an unfinished room.
+   Emerging around a bend, a cluster of mournful pink orchids stands as
+remarkable beauty against the drab, dripping surroundings.  The swamp stretches
+out in all directions.
 ~
 21 0 0 0 0 3
 D3
+A tree stubbornly clings to life amid the mire.
 ~
 ~
 0 0 2120
 D9
+Dry, rocky ground is this way.
 ~
 ~
 0 0 2117
 S
 #2120
 Ferrycourse Fen - Marshland~
-You are in an unfinished room.
+   Standing defiantly among all the muddy dreck is a single tree, still alive
+and with a few precious buds.  The vines and pads here are less intense, and the
+green layer of decaying vegetation that has typically skinned the pools is
+notably missing.  For just a brief second, the swamp seems bearable.
 ~
 21 0 0 0 0 3
 D1
+The mire continues here.
 ~
 ~
 0 0 2119
 D6
+A large pool lies to the northwest.
 ~
 ~
 0 0 2121
@@ -395,6 +543,10 @@ Ferrycourse Fen - Derelict Road~
 You are in an unfinished room.
 ~
 21 0 0 0 0 2
+D0
+~
+~
+0 0 2142
 D6
 ~
 ~
@@ -479,6 +631,10 @@ Ferrycourse Fen - Marshy Trail~
 You are in an unfinished room.
 ~
 21 0 0 0 0 3
+D1
+~
+~
+0 0 2158
 D3
 ~
 ~
@@ -538,7 +694,7 @@ S
 Ferrycourse Fen - Rotting Tavern~
 You are in an unfinished room.
 ~
-21 0 0 0 0 0
+21 8 0 0 0 0
 D7
 ~
 ~
@@ -595,5 +751,605 @@ D8
 ~
 ~
 0 0 2138
+S
+#2142
+Ferrycourse Fen - Marshland~
+You are in an unfinished room.
+~
+21 0 0 0 0 3
+D1
+~
+~
+0 0 2143
+D2
+~
+~
+0 0 2127
+S
+#2143
+Ferrycourse Fen - Marshland~
+You are in an unfinished room.
+~
+21 0 0 0 0 3
+D2
+~
+~
+0 0 2144
+D3
+~
+~
+0 0 2142
+D7
+~
+~
+0 0 2155
+S
+#2144
+Ferrycourse Fen - In the Reeds~
+You are in an unfinished room.
+~
+21 0 0 0 0 3
+D0
+~
+~
+0 0 2143
+D8
+~
+~
+0 0 2145
+S
+#2145
+Ferrycourse Fen - In the Reeds~
+You are in an unfinished room.
+~
+21 0 0 0 0 3
+D1
+~
+~
+0 0 2146
+D6
+~
+~
+0 0 2144
+S
+#2146
+Ferrycourse Fen - In the Reeds~
+You are in an unfinished room.
+~
+21 0 0 0 0 3
+D3
+~
+~
+0 0 2145
+D7
+~
+~
+0 0 2147
+S
+#2147
+Ferrycourse Fen - In the Reeds~
+You are in an unfinished room.
+~
+21 0 0 0 0 6
+D0
+~
+~
+0 0 2148
+D1
+~
+~
+0 0 2149
+D9
+~
+~
+0 0 2146
+S
+#2148
+Ferrycourse Fen - Nest~
+You are in an unfinished room.
+~
+21 0 0 0 0 3
+D2
+~
+~
+0 0 2147
+S
+#2149
+Ferrycourse Fen - Marshland~
+You are in an unfinished room.
+~
+21 0 0 0 0 3
+D0
+~
+~
+0 0 2150
+D3
+~
+~
+0 0 2147
+D8
+~
+~
+0 0 2107
+S
+#2150
+Ferrycourse Fen - In the Reeds~
+You are in an unfinished room.
+~
+21 0 0 0 0 3
+D1
+~
+~
+0 0 2151
+D2
+~
+~
+0 0 2149
+S
+#2151
+Ferrycourse Fen - Wide Pool~
+You are in an unfinished room.
+~
+21 0 0 0 0 6
+D3
+~
+~
+0 0 2150
+D6
+~
+~
+0 0 2152
+S
+#2152
+Ferrycourse Fen - Wide Pool~
+You are in an unfinished room.
+~
+21 0 0 0 0 3
+D0
+~
+~
+0 0 2153
+D8
+~
+~
+0 0 2151
+S
+#2153
+Ferrycourse Fen - Marshland~
+You are in an unfinished room.
+~
+21 0 0 0 0 3
+D1
+~
+~
+0 0 2157
+D2
+~
+~
+0 0 2152
+D9
+~
+~
+0 0 2154
+S
+#2154
+Ferrycourse Fen - In the Reeds~
+You are in an unfinished room.
+~
+21 0 0 0 0 3
+D3
+~
+~
+0 0 2155
+D7
+~
+~
+0 0 2153
+S
+#2155
+Ferrycourse Fen - In the Reeds~
+You are in an unfinished room.
+~
+21 0 0 0 0 3
+D0
+~
+~
+0 0 2156
+D1
+~
+~
+0 0 2154
+D9
+~
+~
+0 0 2143
+S
+#2156
+Ferrycourse Fen - Deep Pool~
+You are in an unfinished room.
+~
+21 0 0 0 0 3
+D2
+~
+~
+0 0 2155
+S
+#2157
+Ferrycourse Fen - Marshland~
+You are in an unfinished room.
+~
+21 0 0 0 0 3
+D3
+~
+~
+0 0 2153
+D6
+~
+~
+0 0 2175
+S
+#2158
+Ferrycourse Fen - Peatmire~
+You are in an unfinished room.
+~
+21 0 0 0 0 3
+D3
+~
+~
+0 0 2133
+D8
+~
+~
+0 0 2159
+S
+#2159
+Ferrycourse Fen - Peatmire~
+You are in an unfinished room.
+~
+21 0 0 0 0 3
+D6
+~
+~
+0 0 2158
+D7
+~
+~
+0 0 2160
+S
+#2160
+Ferrycourse Fen - Peatmire~
+You are in an unfinished room.
+~
+21 0 0 0 0 3
+D6
+~
+~
+0 0 2165
+D7
+~
+~
+0 0 2163
+D8
+~
+~
+0 0 2161
+D9
+~
+~
+0 0 2159
+S
+#2161
+Ferrycourse Fen - Peatmire~
+You are in an unfinished room.
+~
+21 0 0 0 0 3
+D6
+~
+~
+0 0 2160
+D7
+~
+~
+0 0 2162
+S
+#2162
+Ferrycourse Fen - Peatmire~
+You are in an unfinished room.
+~
+21 0 0 0 0 3
+D1
+~
+~
+0 0 2175
+D6
+~
+~
+0 0 2163
+D9
+~
+~
+0 0 2161
+S
+#2163
+Ferrycourse Fen - Peatmire~
+You are in an unfinished room.
+~
+21 0 0 0 0 3
+D6
+~
+~
+0 0 2164
+D8
+~
+~
+0 0 2162
+D9
+~
+~
+0 0 2160
+S
+#2164
+Ferrycourse Fen - Peatmire~
+You are in an unfinished room.
+~
+21 0 0 0 0 3
+D0
+~
+~
+0 0 2166
+D8
+~
+~
+0 0 2163
+D9
+~
+~
+0 0 2165
+S
+#2165
+Ferrycourse Fen - Peatmire~
+You are in an unfinished room.
+~
+21 0 0 0 0 3
+D7
+~
+~
+0 0 2164
+D8
+~
+~
+0 0 2160
+S
+#2166
+Ferrycourse Fen - Cluster of Willows~
+You are in an unfinished room.
+~
+21 0 0 0 0 3
+D0
+~
+~
+0 0 2167
+D2
+~
+~
+0 0 2164
+S
+#2167
+Ferrycourse Fen - Peatmire~
+You are in an unfinished room.
+~
+21 0 0 0 0 3
+D2
+~
+~
+0 0 2166
+D3
+~
+~
+0 0 2168
+S
+#2168
+Ferrycourse Fen - Peatmire~
+You are in an unfinished room.
+~
+21 0 0 0 0 6
+D1
+~
+~
+0 0 2167
+D7
+~
+~
+0 0 2169
+S
+#2169
+1~
+You are in an unfinished room.
+~
+21 0 0 0 0 3
+D8
+~
+~
+0 0 2170
+D9
+~
+~
+0 0 2168
+S
+#2170
+1~
+You are in an unfinished room.
+~
+21 0 0 0 0 3
+D6
+~
+~
+0 0 2169
+D8
+~
+~
+0 0 2171
+S
+#2171
+Ferrycourse Fen - Pounded Turf~
+You are in an unfinished room.
+~
+21 0 0 0 0 2
+D6
+~
+~
+0 0 2170
+D7
+~
+~
+0 0 2172
+D8
+~
+~
+0 0 2174
+S
+#2172
+Ferrycourse Fen - Pounded Turf~
+You are in an unfinished room.
+~
+21 0 0 0 0 2
+D4
+~
+~
+0 0 2173
+D9
+~
+~
+0 0 2171
+S
+#2173
+Ferrycourse Fen - Quiet Mound~
+You are in an unfinished room.
+~
+21 16 0 0 0 2
+D5
+~
+~
+0 0 2172
+S
+#2174
+Ferrycourse Fen - Pounded Turf~
+You are in an unfinished room.
+~
+21 0 0 0 0 2
+D2
+~
+~
+0 0 2175
+D6
+~
+~
+0 0 2171
+D7
+~
+~
+0 0 2178
+S
+#2175
+Ferrycourse Fen - Pounded Turf~
+You are in an unfinished room.
+~
+21 0 0 0 0 2
+D0
+~
+~
+0 0 2174
+D1
+~
+~
+0 0 2176
+D3
+~
+~
+0 0 2162
+D8
+~
+~
+0 0 2157
+S
+#2176
+Ferrycourse Fen - Razor Grass~
+You are in an unfinished room.
+~
+21 0 0 0 0 3
+D3
+~
+~
+0 0 2175
+D7
+~
+~
+0 0 2177
+S
+#2177
+Ferrycourse Fen - Razor Grass~
+You are in an unfinished room.
+~
+21 0 0 0 0 3
+D3
+~
+~
+0 0 2178
+D7
+~
+~
+0 0 2180
+D8
+~
+~
+0 0 2179
+D9
+~
+~
+0 0 2176
+S
+#2178
+Ferrycourse Fen - Razor Grass~
+You are in an unfinished room.
+~
+21 0 0 0 0 3
+D1
+~
+~
+0 0 2177
+D9
+~
+~
+0 0 2174
+S
+#2179
+Ferrycourse Fen - Grand Willow~
+You are in an unfinished room.
+~
+21 0 0 0 0 3
+D3
+~
+~
+0 0 2177
+S
+#2180
+Ferrycourse Fen - Shrubby Alcove~
+You are in an unfinished room.
+~
+21 0 0 0 0 3
+D3
+~
+~
+0 0 2177
+S
+#2181
+Fasth - Peddler's Tent~
+You are in an unfinished room.
+~
+21 152 0 0 0 0
+D1
+~
+~
+0 0 2101
 S
 $~

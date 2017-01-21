@@ -2,39 +2,34 @@ Name: Cro
 Pass: CrR04Lah/L7P.
 Titl: the Apprentice of Magic
 Sex : 2
-Levl: 5
+Levl: 1
 Id  : 3
 Brth: 1484437917
-Plyd: 4951
-Last: 1484715933
+Plyd: 5421
+Last: 1484871954
 Lmot: 1484715096
 Lnew: 1484715097
-Host: 99-75-92-88.lightspeed.sntcca.sbcglobal.
+Host: 216.200.165.11
 Hite: 158
 Wate: 120
 Alin: -48
-Act : gh 0 0 0
+Act : h 0 0 0
 Aff : 0 0 0 0
 Pref: efghnoACE 0 0 0
-Room: 3001
-Lern: 3
-Hung: 9
-Thir: 9
-Hit : 40/40
+Room: 65535
+Lern: 43
+Hit : 15/15
 Mana: 100/100
 Move: 83/83
 Str : 11/0
-Int : 17
-Wis : 16
-Dex : 13
-Con : 9
+Int : 13
+Wis : 13
+Dex : 12
+Con : 11
 Cha : 8
 Ac  : 100
-Gold: 89
-Exp : 1789
+Gold: 131
+Exp : 1
 Olc : 0
 Skil:
 0 0
-Affs:
-1 14 -20 17 0 0 0 0
-0 0 0 0 0 0 0 0
