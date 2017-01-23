@@ -1782,3 +1782,599 @@ Jan 20 17:05:11 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
 Jan 20 17:05:46 4    :: Klakdor has quit the game.
 Jan 20 17:05:46     :: Losing player: Klakdor.
 Jan 20 17:05:46      :: No connections.  Going to sleep.
+Jan 20 17:07:33      :: New connection.  Waking up.
+Jan 20 17:07:36      :: Klakdor has connected.
+Jan 20 17:07:39 0    :: Klakdor un-renting and entering game.
+Jan 20 17:07:39  üx  :: Klakdor (level 34) has 10 objects (max 60).
+Jan 20 17:08:48      :: OLC: Klakdor saves 'text/imotd'.
+Jan 20 17:08:48      :: OLC: Klakdor stops editing text files.
+Jan 20 17:10:26 (¨R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 17:15:26  §R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 17:20:26      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 17:25:26      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 17:30:26      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 17:35:26 @¨R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 17:40:26      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 17:45:26  §R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 17:50:26      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 17:55:26      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 18:00:26      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 18:05:26 @¨R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 18:10:26      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 18:15:26  §R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 18:20:26      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 18:25:26      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 18:30:26 p¨R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 18:35:26 @¨R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 18:40:26 ¨R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 18:45:26  §R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 18:50:26      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 18:55:26      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 19:00:26      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 19:05:26 @¨R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 19:10:26      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 19:15:26  §R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 19:20:26      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 19:25:26      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 19:30:26      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 19:35:26 @¨R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 19:40:26      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 19:45:26  §R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 19:50:26      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 19:55:26      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 20:00:26      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 20:05:26 @¨R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 20:10:26      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 20:15:26  §R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 20:20:26      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 20:25:26      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 20:30:26      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 20:35:26 @¨R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 20:40:26      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 20:45:26  §R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 20:50:26      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 20:55:26      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 21:00:15      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 20 21:00:26      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 21:04:27 [    :: GenOLC: add_room: Updated existing room #2120.
+Jan 20 21:04:27      :: OLC: Klakdor edits room 2120.
+Jan 20 21:04:27 cts  :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 20 21:04:27 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 20 21:04:53      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 20 21:05:26      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 21:10:26      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 21:15:26      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 21:18:42 [    :: GenOLC: add_room: Updated existing room #2121.
+Jan 20 21:18:42     :: OLC: Klakdor edits room 2121.
+Jan 20 21:18:42      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 20 21:18:42 Jan  :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 20 21:18:47      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 20 21:20:26      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 21:21:20 [    :: GenOLC: add_room: Updated existing room #2121.
+Jan 20 21:21:20     :: OLC: Klakdor edits room 2121.
+Jan 20 21:21:20      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 20 21:21:20      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 20 21:21:33      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 20 21:23:18 [    :: GenOLC: add_room: Updated existing room #2121.
+Jan 20 21:23:18     :: OLC: Klakdor edits room 2121.
+Jan 20 21:23:18      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 20 21:23:18      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 20 21:23:22      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 20 21:25:26      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 21:30:26      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 21:35:15 [    :: GenOLC: add_room: Updated existing room #2122.
+Jan 20 21:35:15      :: OLC: Klakdor edits room 2122.
+Jan 20 21:35:15      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 20 21:35:15      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 20 21:35:26      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 21:35:31      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 20 21:35:54 [    :: GenOLC: add_room: Updated existing room #2122.
+Jan 20 21:35:54     :: OLC: Klakdor edits room 2122.
+Jan 20 21:35:54      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 20 21:35:54      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 20 21:36:03      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 20 21:36:18 [    :: GenOLC: add_room: Updated existing room #2122.
+Jan 20 21:36:18     :: OLC: Klakdor edits room 2122.
+Jan 20 21:36:18      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 20 21:36:18      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 20 21:40:26      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 21:45:26  §R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 21:50:26      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 21:55:26      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 20 22:00:26      :: nusage: 1   sockets connected, 1   sockets playing
+SYSERR: perform_socket_read: about to lose connection: Connection timed out
+Jan 20 22:02:54 0    :: Closing link to: Klakdor.
+Jan 20 22:02:54      :: No connections.  Going to sleep.
+Jan 21 02:00:18      :: New connection.  Waking up.
+SYSERR: gethostbyaddr: Success
+Jan 21 02:00:29     :: WARNING: EOF on socket read (connection broken by peer)
+Jan 21 02:00:29     :: Losing descriptor without char.
+Jan 21 02:00:29 °ßµ :: No connections.  Going to sleep.
+Jan 21 07:53:15 °ßµ :: New connection.  Waking up.
+Jan 21 07:53:18      :: Klakdor [99-75-92-88.lightspeed.sntcca.sbcglobal.] has reconnected.
+Jan 21 07:55:36 @¨R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 08:00:36 p¨R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 08:05:36  §R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 08:07:43     :: Klakdor has re-logged in ... disconnecting old socket.
+Jan 21 08:07:43     :: Losing descriptor without char.
+Jan 21 08:08:02      :: OLC: Klakdor starts editing zone 30 allowed zone 0
+Jan 21 08:08:35 [    :: GenOLC: add_room: Updated existing room #3005.
+Jan 21 08:08:35 EACE :: OLC: Klakdor edits room 3005.
+Jan 21 08:08:35      :: GenOLC: save_rooms: Saving rooms in zone #30 (3000-3099).
+Jan 21 08:08:35      :: OLC: Klakdor stops editing zone 30 allowed zone 0
+Jan 21 08:08:40      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 21 08:09:20 [    :: GenOLC: add_room: Updated existing room #2101.
+Jan 21 08:09:20     :: OLC: Klakdor edits room 2101.
+Jan 21 08:09:20      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 21 08:09:20      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 21 08:10:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 08:12:49      :: OLC: Klakdor saves 'text/motd'.
+Jan 21 08:12:49      :: OLC: Klakdor stops editing text files.
+Jan 21 08:15:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 08:18:18      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 21 08:18:47 [    :: GenOLC: add_room: Updated existing room #2122.
+Jan 21 08:18:47     :: OLC: Klakdor edits room 2122.
+Jan 21 08:18:47      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 21 08:18:47      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 21 08:20:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 08:21:24      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 21 08:25:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 08:30:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 08:35:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 08:40:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 08:45:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 08:50:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 08:55:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 09:00:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 09:01:06      :: GenOLC: add_room: Updated existing room #2123.
+Jan 21 09:01:06      :: OLC: Klakdor edits room 2123.
+Jan 21 09:01:06      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 21 09:01:06      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 21 09:05:36  §R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 09:10:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 09:15:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 09:20:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 09:25:36 @¨R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 09:30:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 09:35:36  §R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 09:40:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 09:45:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 09:50:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 09:55:36 @¨R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 10:00:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 10:05:36  §R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 10:10:36 p¨R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 10:15:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 10:20:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 10:25:36 @¨R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 10:30:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 10:35:36  §R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 10:40:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 10:45:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 10:50:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 10:55:36 @¨R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 11:00:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 11:05:36  §R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 11:10:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 11:15:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 11:20:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 11:25:36 @¨R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 11:30:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 11:35:36  §R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 11:40:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 11:45:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 11:50:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 11:55:36 ¨R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 12:00:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 12:05:36  §R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 12:10:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 12:15:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 12:20:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 12:25:36 @¨R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 12:30:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 12:35:36  §R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 12:40:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 12:45:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 12:50:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 12:55:36 @¨R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 13:00:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 13:05:36  §R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 13:10:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 13:15:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 13:20:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 13:25:36 @¨R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 13:30:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 13:35:36  §R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 13:40:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 13:45:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 13:50:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 13:55:36 @¨R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 14:00:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 14:05:36  §R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 14:10:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 14:15:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 14:20:36 þ§R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 14:25:36 @¨R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 14:30:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 14:35:36  §R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 14:40:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 14:45:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 14:50:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 14:55:36 @¨R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 15:00:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 15:05:36  §R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 15:10:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 15:15:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 15:20:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 15:25:36 @¨R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 15:30:36 þ§R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 15:35:36  §R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 15:40:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 15:45:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 15:50:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 15:55:36 @¨R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 16:00:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 16:05:36  §R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 16:10:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 16:15:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 16:20:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 16:25:36 @¨R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 16:30:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 16:35:36  §R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 16:40:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 16:45:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 16:50:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 16:55:36 @¨R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 17:00:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 17:05:36  §R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 17:10:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 17:15:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 17:20:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 17:25:36 @¨R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 17:30:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 17:35:36  §R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 17:40:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 17:45:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 17:50:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 17:55:36 @¨R  :: nusage: 1   sockets connected, 1   sockets playing
+SYSERR: perform_socket_read: about to lose connection: Connection timed out
+Jan 21 17:58:07 0    :: Closing link to: Klakdor.
+Jan 21 17:58:07 Àà( :: No connections.  Going to sleep.
+Jan 21 18:20:16 Àà( :: New connection.  Waking up.
+Jan 21 18:20:19      :: Bad PW: Klakdor [99-75-92-88.lightspeed.sntcca.sbcglobal.]
+Jan 21 18:20:20 0    :: Klakdor [99-75-92-88.lightspeed.sntcca.sbcglobal.] has reconnected.
+Jan 21 18:20:45     :: Cro has connected.
+Jan 21 18:20:49      :: Cro had no variable file
+Jan 21 18:20:49 0    :: Cro un-renting and entering game.
+Jan 21 18:20:49  üx  :: Cro (level 1) has 18 objects (max 60).
+Jan 21 18:22:46 ¶} :: nusage: 2   sockets connected, 2   sockets playing
+Jan 21 18:23:07      :: SCRIPT ERROR: Room 7114 :: wdamage: bad syntax
+Jan 21 18:23:12      :: SCRIPT ERROR: Room 7114 :: no target found for wsend
+Jan 21 18:25:38 ÿÿÿÿ :: Cro tried to get help on zones-1-4
+Jan 21 18:27:46 ¶} :: nusage: 2   sockets connected, 2   sockets playing
+Jan 21 18:28:40      :: Cro tried to get help on shops
+Jan 21 18:30:18 ÿÿÿÿ :: Cro tried to get help on 'magic-missile'
+Jan 21 18:32:46      :: nusage: 2   sockets connected, 2   sockets playing
+Jan 21 18:37:24      :: Cro advanced 1 level to level 2.
+Jan 21 18:37:46      :: nusage: 2   sockets connected, 2   sockets playing
+Jan 21 18:42:09      :: (GC) Klakdor reset zone 187 (Circus)
+Jan 21 18:42:46      :: nusage: 2   sockets connected, 2   sockets playing
+Jan 21 18:47:46 @¨R  :: nusage: 2   sockets connected, 2   sockets playing
+Jan 21 18:50:46      :: Cro advanced 1 level to level 3.
+Jan 21 18:52:46 ¶} :: nusage: 2   sockets connected, 2   sockets playing
+Jan 21 18:57:46  §R  :: nusage: 2   sockets connected, 2   sockets playing
+Jan 21 19:02:46      :: nusage: 2   sockets connected, 2   sockets playing
+Jan 21 19:03:22      :: Klakdor tried to get help on stl
+Jan 21 19:05:19 ÿÿÿÿ :: Cro tried to get help on detect-invs
+Jan 21 19:07:46      :: nusage: 2   sockets connected, 2   sockets playing
+Jan 21 19:12:46      :: nusage: 2   sockets connected, 2   sockets playing
+Jan 21 19:17:46 @¨R  :: nusage: 2   sockets connected, 2   sockets playing
+Jan 21 19:19:30      :: Cro tried to get help on affect
+Jan 21 19:22:46      :: nusage: 2   sockets connected, 2   sockets playing
+Jan 21 19:22:58      :: Cro advanced 1 level to level 4.
+Jan 21 19:27:46  §R  :: nusage: 2   sockets connected, 2   sockets playing
+Jan 21 19:31:46      :: OLC: Klakdor starts editing zone 74 allowed zone 0
+Jan 21 19:31:55 0 :: OLC: Klakdor stops editing zone 74 allowed zone 0
+Jan 21 19:32:46      :: nusage: 2   sockets connected, 2   sockets playing
+Jan 21 19:37:46      :: nusage: 2   sockets connected, 2   sockets playing
+Jan 21 19:42:46      :: nusage: 2   sockets connected, 2   sockets playing
+Jan 21 19:47:46      :: nusage: 2   sockets connected, 2   sockets playing
+Jan 21 19:52:46 ¶} :: nusage: 2   sockets connected, 2   sockets playing
+Jan 21 19:57:46 ¶} :: nusage: 2   sockets connected, 2   sockets playing
+Jan 21 20:00:35     :: OLC: Klakdor starts editing zone 74 allowed zone 0
+Jan 21 20:00:40 ÿÿÿÿ :: OLC: Klakdor stops editing zone 74 allowed zone 0
+Jan 21 20:02:46 ¶} :: nusage: 2   sockets connected, 2   sockets playing
+Jan 21 20:07:46      :: nusage: 2   sockets connected, 2   sockets playing
+Jan 21 20:12:46      :: nusage: 2   sockets connected, 2   sockets playing
+Jan 21 20:17:46 ¶} :: nusage: 2   sockets connected, 2   sockets playing
+Jan 21 20:22:46 ¶} :: nusage: 2   sockets connected, 2   sockets playing
+Jan 21 20:27:46 ¶} :: nusage: 2   sockets connected, 2   sockets playing
+Jan 21 20:32:46 ¶} :: nusage: 2   sockets connected, 2   sockets playing
+Jan 21 20:37:46 ¶} :: nusage: 2   sockets connected, 2   sockets playing
+Jan 21 20:42:46 ¶} :: nusage: 2   sockets connected, 2   sockets playing
+Jan 21 20:47:46 ¶} :: nusage: 2   sockets connected, 2   sockets playing
+Jan 21 20:52:46 ¶} :: nusage: 2   sockets connected, 2   sockets playing
+Jan 21 20:57:46 ¶} :: nusage: 2   sockets connected, 2   sockets playing
+Jan 21 21:02:46 ¶} :: nusage: 2   sockets connected, 2   sockets playing
+Jan 21 21:07:46 ¶} :: nusage: 2   sockets connected, 2   sockets playing
+Jan 21 21:12:46 ¶} :: nusage: 2   sockets connected, 2   sockets playing
+Jan 21 21:14:01      :: Crash_is_unrentable: removing object a stone vial
+Jan 21 21:14:01 0    :: Cro force-rented and extracted (idle).
+Jan 21 21:14:01 [ Cr :: Losing descriptor without char.
+Jan 21 21:17:46 @¨R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 21:22:46      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 21:27:46  §R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 21:32:46      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 21:37:46      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 21:42:46      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 21:47:46 @¨R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 21:52:46      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 21:57:46  §R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 22:02:46      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 22:07:46      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 22:12:46      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 22:17:46 @¨R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 22:22:46 þ§R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 22:27:46  §R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 22:32:46      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 22:37:46      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 22:42:46      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 22:47:46 @¨R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 22:52:46      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 22:57:46  §R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 23:02:46      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 23:07:46      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 23:12:46      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 23:17:46 @¨R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 23:22:46      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 23:27:46  §R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 23:32:46      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 23:37:46      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 23:42:46      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 23:47:46 @¨R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 23:52:46      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 21 23:57:46  §R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 00:02:46      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 00:07:46      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 00:12:46      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 00:17:46 @¨R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 00:22:46      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 00:27:46  §R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 00:32:46      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 00:37:46      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 00:42:46      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 00:47:46 @¨R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 00:52:46      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 00:57:46  §R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 01:02:46      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 01:07:46      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 01:12:46      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 01:17:46 @¨R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 01:22:46      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 01:27:46  §R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 01:32:46      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 01:37:46      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 01:42:46      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 01:47:46 @¨R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 01:52:46      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 01:57:46  §R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 02:02:46      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 02:07:46      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 02:12:46      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 02:17:46 @¨R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 02:22:46      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 02:27:46  §R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 02:32:46      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 02:37:46      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 02:42:46      :: nusage: 1   sockets connected, 1   sockets playing
+SYSERR: perform_socket_read: about to lose connection: Connection timed out
+Jan 22 02:43:42 0    :: Closing link to: Klakdor.
+Jan 22 02:43:42      :: No connections.  Going to sleep.
+Jan 22 08:54:01      :: New connection.  Waking up.
+Jan 22 08:54:04      :: Klakdor [99-75-92-88.lightspeed.sntcca.sbcglobal.] has reconnected.
+Jan 22 08:58:05 þ§R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 09:03:05      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 09:08:05  §R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 09:13:05      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 09:18:05 p¨R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 09:23:05      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 09:28:05 @¨R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 09:33:05      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 09:35:51     :: Cro has connected.
+Jan 22 09:35:55 0    :: Cro un-renting and entering game.
+Jan 22 09:35:55 Ù‚  :: Cro (level 4) has 26 objects (max 60).
+Jan 22 09:38:03 ÿÿÿÿ :: Cro has quit the game.
+Jan 22 09:38:04    8 :: Losing player: Cro.
+Jan 22 09:38:05  §R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 09:43:05      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 09:48:05      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 09:53:05      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 09:58:05 @¨R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 10:03:05      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 10:08:05  §R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 10:13:05      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 10:18:05      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 10:23:05      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 10:28:05 @¨R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 10:33:05      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 10:38:05  §R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 10:43:05      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 10:48:05      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 10:53:05      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 10:58:05 @¨R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 11:03:05      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 11:08:05  §R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 11:13:05      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 11:18:05      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 11:23:05      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 11:28:05 @¨R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 11:33:05 þ§R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 11:38:05  §R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 11:43:05      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 11:48:05      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 11:53:05      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 11:58:05 @¨R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 12:03:05      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 12:08:05  §R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 12:13:05      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 12:18:05      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 12:23:05      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 12:28:05 @¨R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 12:33:05      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 12:38:05  §R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 12:43:05      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 12:48:05 þ§R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 12:53:05 p¨R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 12:58:05 @¨R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 13:03:05 p¨R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 13:08:05  §R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 13:13:05      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 13:18:05      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 13:23:05      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 13:28:05 @¨R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 13:33:05      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 13:38:05  §R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 13:43:05 þ§R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 13:48:05      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 13:53:05      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 13:58:05 @¨R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 14:03:05      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 14:08:05  §R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 14:13:05      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 14:18:05      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 14:23:05      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 14:28:05 @¨R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 14:33:05      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 14:38:05  §R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 14:43:05      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 14:48:05      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 14:53:05      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 14:58:05 @¨R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 15:03:05      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 15:08:05  §R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 15:13:05      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 15:18:05      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 15:23:05      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 15:28:05 @¨R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 15:33:05      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 15:38:05  §R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 15:43:05      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 15:48:05      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 15:53:05      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 15:58:05 @¨R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 16:03:05      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 16:08:05  §R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 16:13:05      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 16:18:05      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 16:23:05      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 16:28:05 @¨R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 16:33:05      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 16:36:14      :: Klakdor has re-logged in ... disconnecting old socket.
+Jan 22 16:36:14  Pµ} :: Losing descriptor without char.
+Jan 22 16:38:05  §R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 16:43:05      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 16:48:05      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 16:53:05 þ§R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 16:58:05 @¨R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 17:03:05      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 17:08:05  §R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 17:13:05      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 17:18:05      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 17:23:05      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 17:28:05 @¨R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 17:33:05      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 17:38:05  §R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 17:43:05      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 17:48:05      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 17:53:05      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 17:58:05 @¨R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 18:03:05      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 18:08:05  §R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 18:13:05      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 18:18:05      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 18:23:05      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 18:28:05 @¨R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 18:33:05      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 18:38:05  §R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 18:43:05      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 18:48:05      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 18:53:05      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 18:58:05 @¨R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 19:03:05      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 19:08:05  §R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 19:13:05      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 19:18:05      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 19:23:05      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 19:28:05 @¨R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 19:33:05      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 19:36:50 ÿ   :: Losing descriptor without char.
+Jan 22 19:38:05  §R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 19:43:05      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 19:48:05 p¨R  :: nusage: 1   sockets connected, 1   sockets playing
+SYSERR: perform_socket_read: about to lose connection: Connection timed out
+Jan 22 19:52:37 0    :: Closing link to: Klakdor.
+Jan 22 19:52:37 Àà( :: No connections.  Going to sleep.
+Jan 22 19:56:45 Àà( :: New connection.  Waking up.
+Jan 22 19:56:54      :: Klakdor [99-75-92-88.lightspeed.sntcca.sbcglobal.] has reconnected.
+Jan 22 19:57:13      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 20:02:13 @¨R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 20:07:13      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 20:12:13  §R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 20:17:13      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 20:22:13      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 20:27:13      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 20:32:13 @¨R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 20:37:13      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 20:42:13  §R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 20:47:13      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 20:52:13      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 20:57:13      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 21:02:13 @¨R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 22 21:02:35 4    :: Klakdor has quit the game.
+Jan 22 21:02:36  Pµ} :: Losing player: Klakdor.
+Jan 22 21:02:36      :: No connections.  Going to sleep.
+Jan 23 06:43:38      :: New connection.  Waking up.
+Jan 23 06:43:41      :: Klakdor has connected.
+Jan 23 06:43:43 0    :: Klakdor un-renting and entering game.
+Jan 23 06:43:43 Ù‚  :: Klakdor (level 34) has 10 objects (max 60).
+Jan 23 06:48:14      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 23 06:53:14  §R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 23 06:58:14      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 23 07:03:14      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 23 07:08:14      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 23 07:13:14 @¨R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 23 07:18:14      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 23 07:23:14  §R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 23 07:28:14      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 23 07:33:14      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 23 07:38:14      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 23 07:43:14 @¨R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 23 07:48:14      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 23 07:53:14  §R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 23 07:58:14      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 23 08:03:14      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 23 08:08:14      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 23 08:08:48 4    :: Klakdor has quit the game.
+Jan 23 08:08:49 ÿ   :: Losing player: Klakdor.
+Jan 23 08:08:49      :: No connections.  Going to sleep.
+Jan 23 10:57:49      :: New connection.  Waking up.
+Jan 23 10:57:54      :: Klakdor has connected.
+Jan 23 10:57:55 0    :: Klakdor un-renting and entering game.
+Jan 23 10:57:55     :: Klakdor (level 34) has 10 objects (max 60).
+Jan 23 10:58:03 4    :: Klakdor has quit the game.
+Jan 23 10:58:03     :: Losing player: Klakdor.
+Jan 23 10:58:03      :: No connections.  Going to sleep.
+Jan 23 10:58:19      :: New connection.  Waking up.
+Jan 23 10:58:25 °ßµ :: WARNING: EOF on socket read (connection broken by peer)
+Jan 23 10:58:25     :: Losing player: <null>.
+Jan 23 10:58:25 °ßµ :: No connections.  Going to sleep.
+Jan 23 10:59:18 °ßµ :: New connection.  Waking up.
+Jan 23 10:59:28      :: Klakdor has connected.
+Jan 23 10:59:30 0    :: Klakdor un-renting and entering game.
+Jan 23 10:59:30     :: Klakdor (level 34) has 10 objects (max 60).
+Jan 23 11:00:50      :: OLC: Klakdor saves 'text/greetings'.
+Jan 23 11:00:50      :: OLC: Klakdor stops editing text files.
+Jan 23 11:01:14      :: OLC: Klakdor saves 'text/policies'.
+Jan 23 11:01:14      :: OLC: Klakdor stops editing text files.
+Jan 23 11:03:23 @¨R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 23 11:08:23      :: nusage: 1   sockets connected, 1   sockets playing

@@ -1,11 +1,9 @@
-(lib/text/imotd)
-
-Welcome to tbaMUD!
+Welcome to AnturMUD!
 
 This is the immortal MOTD -- the file that immortals will see when they
-log in to the game.  You should change it to something more interesting
-when you get a chance (as well as most of the other files in lib/text.)
+log in to the game.
 
-If you need help, find a bug, or wish to contribute please stop by 
-The Builder Academy at: tbamud.com 9091 or @Chttp://tbamud.com@n.
+See Klakdor for questions, and visit the sites below for official info:
 
+https://github.com/calvnnhobs/AnturMUD/
+http://antur.freeforums.net/

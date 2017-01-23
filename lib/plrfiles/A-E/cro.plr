@@ -1,26 +1,28 @@
 Name: Cro
 Pass: CrR04Lah/L7P.
-Titl: the Apprentice of Magic
+Titl: the Delveress in Spells
 Sex : 2
-Levl: 1
+Levl: 4
 Id  : 3
 Brth: 1484437917
-Plyd: 5421
-Last: 1484871954
-Lmot: 1484715096
+Plyd: 12818
+Last: 1485106547
+Lmot: 1485051872
 Lnew: 1484715097
-Host: 216.200.165.11
+Host: 99-75-92-88.lightspeed.sntcca.sbcglobal.
 Hite: 158
 Wate: 120
-Alin: -48
-Act : h 0 0 0
+Alin: -66
+Act : gh 0 0 0
 Aff : 0 0 0 0
 Pref: efghnoACE 0 0 0
-Room: 65535
-Lern: 43
-Hit : 15/15
-Mana: 100/100
-Move: 83/83
+Room: 3005
+Lern: 29
+Hung: 24
+Thir: 13
+Hit : 31/31
+Mana: 109/109
+Move: 95/87
 Str : 11/0
 Int : 13
 Wis : 13
@@ -28,8 +30,15 @@ Dex : 12
 Con : 11
 Cha : 8
 Ac  : 100
-Gold: 131
-Exp : 1
+Gold: 1197
+Exp : 17384
 Olc : 0
 Skil:
+8 95
+19 95
+20 95
+32 95
+50 95
 0 0
+Vars: 1
+teleporter_return_room 0 7401

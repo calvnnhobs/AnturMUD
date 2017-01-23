@@ -42,6 +42,11 @@ The tent flaps are pulled aside.
 ~
 ~
 0 0 2181
+D8
+A magical portal leads back to Midgaard.
+~
+~
+0 0 3005
 E
 sign wooden~
    Little can now be made of the crest, and similarly there is little legible on
@@ -449,42 +454,62 @@ The mire continues here.
 ~
 0 0 2119
 D6
-A large pool lies to the northwest.
+Amidst the standing water is a deteriorating farmhouse.
 ~
 ~
 0 0 2121
 S
 #2121
 Ferrycourse Fen - Marshland~
-You are in an unfinished room.
+   Several structures stand here amidst a broad, shallow pool of water.  A
+simple farmhouse stands east for the most part intact, albeit smothered in
+creepers, and nearby what appears to be some stables looks more like a skeleton
+of wood.  North of the farmhouse, an old dike stands relatively high above the
+fen that otherwise surrounds these remnants of civilization.
 ~
 21 0 0 0 0 3
 D1
+The farmhouse's doorframe is wide open.
 ~
-~
-0 0 2122
+Shattered door~
+1 0 2122
 D7
+A crumbling dike stands prominently.
 ~
 ~
 0 0 2123
 D8
+The marshland extends this way.
 ~
 ~
 0 0 2120
+E
+farmhouse house~
+The farmhouse is two stories tall, and from a round window up high, a ragged cloth can be seen waving about in the wind.
+~
 S
 #2122
 Ferrycourse Fen - Flooded Farmhouse~
-You are in an unfinished room.
+   A few feet of cold, dark sludge fill the farmhouse, and in the water lie
+broken chunks of furniture and crockery.  Beside a massive iron stove, a
+carefully stacked pile of cut wood is now soaked to the core, and a wretched
+down mattress in the corner looks made and ready.  Everything points towards a
+sudden exit by the previous tenants.
 ~
-21 0 0 0 0 6
+21 8 0 0 0 6
 D3
+The door looks shattered, though not stuck open.
 ~
+Door~
+1 0 2121
+E
+furniture crockery~
+The splinters of a chair and shards of clay pots are mounded curiously in a corner.
 ~
-0 0 2121
 S
 #2123
 Ferrycourse Fen - Broken Dike~
-You are in an unfinished room.
+Err
 ~
 21 0 0 0 0 2
 D1
