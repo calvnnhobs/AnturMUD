@@ -2378,3 +2378,26 @@ Jan 23 11:01:14      :: OLC: Klakdor saves 'text/policies'.
 Jan 23 11:01:14      :: OLC: Klakdor stops editing text files.
 Jan 23 11:03:23 @¨R  :: nusage: 1   sockets connected, 1   sockets playing
 Jan 23 11:08:23      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 23 11:11:38 €­û :: OLC: Klakdor starts editing actions.
+Jan 23 11:12:20      :: OLC: Klakdor stops editing zone 201 allowed zone 0
+Jan 23 11:13:23  §R  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 23 11:16:21 €Dµ} :: Klakdor tried to get help on waddle
+Jan 23 11:17:07     :: OLC: Klakdor starts editing actions.
+Jan 23 11:18:09      :: Command info rebuilt, 763 total commands.
+Jan 23 11:18:09 þ   :: OLC: Klakdor edits action waddle
+Jan 23 11:18:09 gQS  :: OLC: Klakdor stops editing zone 0 allowed zone 0
+Jan 23 11:18:23      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 23 11:18:42 [ OL :: Cro has connected.
+Jan 23 11:18:43 0    :: Cro un-renting and entering game.
+Jan 23 11:18:43     :: Cro (level 4) has 25 objects (max 60).
+Jan 23 11:19:00 °Ç' :: OLC: Klakdor starts editing actions.
+Jan 23 11:22:53      :: Command info rebuilt, 763 total commands.
+Jan 23 11:22:53 þ   :: OLC: Klakdor edits action waddle
+Jan 23 11:22:53 gQS  :: OLC: Klakdor stops editing zone 0 allowed zone 0
+Jan 23 11:23:15 ÿÿÿÿ :: Klakdor tried to get help on waddle
+Jan 23 11:23:17 ë   :: OLC: Klakdor starts editing help files.
+Jan 23 11:23:23      :: nusage: 2   sockets connected, 2   sockets playing
+Jan 23 11:23:51     :: OLC: Klakdor edits help for waddle.
+Jan 23 11:23:51 y    ::    2649 entries, 84768 bytes.
+Jan 23 11:23:51 Y
+   :: OLC: Klakdor stops editing help files.

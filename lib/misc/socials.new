@@ -6883,6 +6883,21 @@ $n forces your $t into the vice and tightens the steel jaws preventing all movem
 #
 #
 
+~waddle waddle 0 8 0 0
+You waddle about like a duck.
+$n waddles about like a duck.
+You waddle around $M like a duck.
+$n waddles around $N like a duck.
+$n waddles around you like a duck.
+You waddle about for you and you alone.
+You waddle about, quite smug about yourself.
+$n waddles around for $s own enjoyment.
+#
+#
+#
+You waddle around $p like a duck. You quack!
+$n waddles around $p like a duck. What a quack!
+
 ~waggle waggle 0 5 0 0
 You waggle your eyebrows impressively. Go, caterpillars, go!
 $n waggles $s eyebrows. Geez, look at those caterpillars go!
