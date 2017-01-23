@@ -1,30 +1,30 @@
-Jan 17 13:14:56      :: nusage: 1   sockets connected, 1   sockets playing
-Jan 17 13:19:56      :: nusage: 1   sockets connected, 1   sockets playing
-Jan 17 13:24:56      :: nusage: 1   sockets connected, 1   sockets playing
-Jan 17 13:29:56      :: nusage: 1   sockets connected, 1   sockets playing
-Jan 17 13:34:56      :: nusage: 1   sockets connected, 1   sockets playing
-Jan 17 13:39:56      :: nusage: 1   sockets connected, 1   sockets playing
-SYSERR: gethostbyaddr: Success
-Jan 17 13:42:56 Èù˜$ :: Losing descriptor without char.
-Jan 17 13:44:56      :: nusage: 1   sockets connected, 1   sockets playing
-Jan 17 13:49:56      :: nusage: 1   sockets connected, 1   sockets playing
-Jan 17 13:54:56      :: nusage: 1   sockets connected, 1   sockets playing
-Jan 17 13:59:56      :: nusage: 1   sockets connected, 1   sockets playing
-SYSERR: gethostbyaddr: Success
-Jan 17 14:02:49      :: WARNING: EOF on socket read (connection broken by peer)
-Jan 17 14:02:49     :: Losing descriptor without char.
-Jan 17 14:04:56      :: nusage: 1   sockets connected, 1   sockets playing
-Jan 17 14:09:56      :: nusage: 1   sockets connected, 1   sockets playing
-Jan 17 14:14:56      :: nusage: 1   sockets connected, 1   sockets playing
-SYSERR: gethostbyaddr: Success
-Jan 17 14:19:43      :: Klakdor has re-logged in ... disconnecting old socket.
-Jan 17 14:19:43     :: Losing descriptor without char.
-Jan 17 14:19:56      :: nusage: 1   sockets connected, 1   sockets playing
-Jan 17 14:20:08 ˇˇˇˇ :: Klakdor tried to get help on shutdown-
-Jan 17 14:20:26      :: (GC) Reboot by Klakdor.
-Jan 17 14:20:26      :: Closing all sockets.
-Jan 17 14:20:26 0    :: Closing link to: Klakdor.
-Jan 17 14:20:26 ¿g :: Saving current MUD time.
-Jan 17 14:20:26     :: Rebooting.
+Jan 23 13:48:36      :: Resetting #324: Army Encampment (rooms 32400-32499).
+Jan 23 13:48:36      :: Resetting #325: Revelry (rooms 32500-32599).
+Jan 23 13:48:36      :: Resetting #326: Army Perimeter (rooms 32600-32699).
+Jan 23 13:48:36      :: Resetting #343: God Complex  (rooms 34300-34399).
+Jan 23 13:48:36      :: Resetting #345: Asylum for the Insane (rooms 34500-34599).
+Jan 23 13:48:36      :: Resetting #346: God Hall Ext 346 for God Hall Cmplx (rooms 34600-34699).
+Jan 23 13:48:36      :: Resetting #555: Ultima (rooms 55500-55599).
+Jan 23 13:48:36      :: Resetting #556: Ultima II (rooms 55600-55699).
+Jan 23 13:48:36      :: Resetting #653: Apartment (rooms 65300-65399).
+Jan 23 13:48:36      :: Resetting #654: Subdivision (rooms 65400-65499).
+Jan 23 13:48:36      :: Boot db -- DONE.
+Jan 23 13:48:36     :: Signal trapping.
+Jan 23 13:48:36 ZZZZ :: Entering game loop.
+Jan 23 13:48:36      :: No connections.  Going to sleep.
+Jan 23 13:48:36      :: New connection.  Waking up.
+Jan 23 13:48:42      :: Klakdor has connected.
+Jan 23 13:48:44 0    :: Klakdor un-renting and entering game.
+Jan 23 13:48:44      :: Klakdor (level 34) has 10 objects (max 60).
+Jan 23 13:53:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 23 13:53:52      :: (GC) Shutdown by Klakdor.
+Jan 23 13:53:52 ZZZZ :: Closing all sockets.
+Jan 23 13:53:52 0    :: Closing link to: Klakdor.
+Jan 23 13:53:52      :: Saving current MUD time.
+Jan 23 13:53:52     :: Normal termination of game.
+Jan 23 13:53:52     :: Clearing game world.
+Jan 23 13:53:53 âH :: Clearing other memory.
+Jan 23 13:53:53 êç :: Done.
 Quick boot mode -- rent check supressed.
 Using file descriptor for logging.
+autoscript terminated Mon Jan 23 13:53:53 PST 2017

@@ -144,7 +144,8 @@ while ( : ) do
 
   # On Cygwin, you may need to precede this next line with './' for
   # './bin/circle' as the command.
-  nohup bin/circle $FLAGS $PORT >> syslog 2>&1
+  # nohup bin/circle $FLAGS $PORT >> syslog 2>&1
+  nohup bin/Release/AnturMUD $FLAGS $PORT >> syslog 2>&1
 
   if [ -r .killscript ]; then
     DATE=`date`;

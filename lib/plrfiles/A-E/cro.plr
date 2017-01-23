@@ -5,8 +5,8 @@ Sex : 2
 Levl: 4
 Id  : 3
 Brth: 1484437917
-Plyd: 12818
-Last: 1485199121
+Plyd: 14388
+Last: 1485205928
 Lmot: 1485051872
 Lnew: 1484715097
 Host: apierce160725
@@ -18,11 +18,9 @@ Aff : 0 0 0 0
 Pref: efghnoACE 0 0 0
 Room: 65535
 Lern: 29
-Hung: 24
-Thir: 13
 Hit : 31/31
 Mana: 109/109
-Move: 95/87
+Move: 97/87
 Str : 11/0
 Int : 13
 Wis : 13
