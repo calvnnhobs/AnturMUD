@@ -14,3 +14,8 @@ Jan 16 11:03:15      :: OLC: Klakdor edits obj 3034
 Jan 16 11:03:15     :: OLC: Klakdor stops editing zone 30 allowed zone 0
 Binary file syslog matches
 Binary file syslog matches
+Jan 23 14:48:49 0    :: OLC: Cro edits toggles for Cro
+Jan 23 14:48:49  tog :: OLC: Cro stops editing zone 0 allowed zone 0
+Jan 23 15:40:55      :: OLC: Klakdor starts editing help files.
+Jan 23 15:42:37      :: OLC: Klakdor edits help for condition.
+   :: OLC: Klakdor stops editing help files.

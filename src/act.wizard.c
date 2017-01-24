@@ -1243,7 +1243,7 @@ void return_to_char(struct char_data * ch)
 
   /* And our body's pointer to descriptor now points to our descriptor. */
   ch->desc->character->desc = ch->desc;
-  ch->desc = NULL;  
+  ch->desc = NULL;
 }
 
 ACMD(do_return)
@@ -2151,7 +2151,6 @@ ACMD(do_wiznet)
        buf2[MAX_INPUT_LENGTH + MAX_NAME_LENGTH + 32];
   struct descriptor_data *d;
   char emote = FALSE;
-  char any = FALSE;
   int level = LVL_IMMORT;
 
   skip_spaces(&argument);
@@ -2178,7 +2177,7 @@ ACMD(do_wiznet)
 
   case '@':
     send_to_char(ch, "God channel status:\r\n");
-    for (any = 0, d = descriptor_list; d; d = d->next) {
+    for (d = descriptor_list; d; d = d->next) {
       if (STATE(d) != CON_PLAYING || GET_LEVEL(d->character) < LVL_IMMORT)
         continue;
       if (!CAN_SEE(ch, d->character))
@@ -2713,7 +2712,7 @@ ACMD(do_show)
     len = strlcpy(buf, "LvL - Mu Cl Th Wa\r\n----------------\r\n", sizeof(buf));
 
     for (j = 1; j < LVL_IMMORT; j++) {
-      nlen = snprintf(buf + len, sizeof(buf) - len,  "%-3d - %-2d %-2d %-2d %-2d\r\n", j, 
+      nlen = snprintf(buf + len, sizeof(buf) - len,  "%-3d - %-2d %-2d %-2d %-2d\r\n", j,
 				thaco(CLASS_MAGIC_USER, j),
 				thaco(CLASS_CLERIC, j),
 				thaco(CLASS_THIEF, j),
@@ -2730,8 +2729,8 @@ ACMD(do_show)
   case 12:
     len = strlcpy(buf, "LvL - Mu     Cl     Th     Wa\r\n--------------------------\r\n", sizeof(buf));
 
-    for (i = 1; i < LVL_IMMORT; i++) { 
-      nlen = snprintf(buf + len, sizeof(buf) - len,  "%-3d - %-6d %-6d %-6d %-6d\r\n", i,  
+    for (i = 1; i < LVL_IMMORT; i++) {
+      nlen = snprintf(buf + len, sizeof(buf) - len,  "%-3d - %-6d %-6d %-6d %-6d\r\n", i,
 				level_exp(CLASS_MAGIC_USER, i) - level_exp(CLASS_MAGIC_USER, i - 1),
 				level_exp(CLASS_CLERIC, i) - level_exp(CLASS_CLERIC, i - 1),
 				level_exp(CLASS_THIEF, i) - level_exp(CLASS_THIEF, i - 1),
@@ -4146,11 +4145,11 @@ ACMD(do_copyover)
    /* For each playing descriptor, save its state */
    for (d = descriptor_list; d ; d = d_next) {
      struct char_data * och = d->character;
-   
-   /* If d is currently in someone else's body, return them. */  
+
+   /* If d is currently in someone else's body, return them. */
    if (och && d->original)
      return_to_char(och);
-        
+
    /* We delete from the list , so need to save this */
      d_next = d->next;
 
@@ -4268,7 +4267,7 @@ ACMD(do_file)
   int req_file_lines = 0;      /* Number of total lines in file to be read. */
   int lines_read = 0;     /* Counts total number of lines read from the file. */
   int req_lines = 0;      /* Number of lines requested to be displayed. */
-  int i, j;               /* Generic loop counters. */
+  int i;               /* Generic loop counters. */ // 1/23/17 AP removed j
   int l;                  /* Marks choice of file in fields array. */
   char field[MAX_INPUT_LENGTH];  /* Holds users choice of file to be read. */
   char value[MAX_INPUT_LENGTH];  /* Holds # lines to be read, if requested. */
@@ -4312,7 +4311,7 @@ ACMD(do_file)
    /* Display usage if no argument. */
    if (!*argument) {
      send_to_char(ch, "USAGE: file <filename> <num lines>\r\n\r\nFile options:\r\n");
-     for (j = 0, i = 0; fields[i].level; i++)
+     for (i = 0; fields[i].level; i++)
        if (fields[i].level <= GET_LEVEL(ch))
          send_to_char(ch, "%-15s%s\r\n", fields[i].cmd, fields[i].file);
      return;
@@ -4940,18 +4939,18 @@ bool AddRecentPlayer(char *chname, char *chhost, bool newplr, bool cpyplr)
   return TRUE;
 }
 
-void free_recent_players(void) 
+void free_recent_players(void)
 {
   struct recent_player *this;
   struct recent_player *temp;
-  
+
   this = recent_list;
-  
+
   while((temp = this) != NULL)
   {
 	this = this->next;
-	free(temp);  
-  }  	
+	free(temp);
+  }
 }
 
 ACMD(do_recent)
@@ -5044,13 +5043,13 @@ ACMD(do_oset)
 
   if (!*arg)
     send_to_char(ch, usage);
-  else if (!(obj = get_obj_in_list_vis(ch, arg, NULL, ch->carrying)) && 
+  else if (!(obj = get_obj_in_list_vis(ch, arg, NULL, ch->carrying)) &&
     !(obj = get_obj_in_list_vis(ch, arg, NULL, world[IN_ROOM(ch)].contents)))
     send_to_char(ch, "You don't seem to have %s %s.\r\n", AN(arg), arg);
   else {
      argument = one_argument(argument, arg2);
-     
-     if (!*arg2) 
+
+     if (!*arg2)
        send_to_char(ch, usage);
      else {
        if (is_abbrev(arg2, "alias") && (success = oset_alias(obj, argument)))
@@ -5060,9 +5059,9 @@ ACMD(do_oset)
        else if (is_abbrev(arg2, "shortdesc") && (success = oset_short_description(obj, argument)))
          send_to_char(ch, "Object short description set.\r\n");
        else if (is_abbrev(arg2, "apply") && (success = oset_apply(obj, argument)))
-         send_to_char(ch, "Object apply set.\r\n");           
+         send_to_char(ch, "Object apply set.\r\n");
        else {
-         if (!success) 
+         if (!success)
            send_to_char(ch, "%s was unsuccessful.\r\n", arg2);
          else
            send_to_char(ch, usage);

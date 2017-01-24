@@ -271,8 +271,9 @@
 #define PRF_AUTOMAP      31   /**< Show map at the side of room descs */
 #define PRF_AUTOKEY      32   /**< Automatically unlock locked doors when opening */
 #define PRF_AUTODOOR     33   /**< Use the next available door */
+#define PRF_DISPCONDFI   34   /**< Display enemy's condition */
 /** Total number of available PRF flags */
-#define NUM_PRF_FLAGS    34
+#define NUM_PRF_FLAGS    35
 
 /* Affect bits: used in char_data.char_specials.saved.affected_by */
 /* WARNING: In the world files, NEVER set the bits marked "R" ("Reserved") */
@@ -732,7 +733,7 @@ struct obj_data
   struct obj_data *next_content;  /**< For 'contains' lists   */
   struct obj_data *next;          /**< For the object list */
   struct char_data *sitting_here; /**< For furniture, who is sitting in it */
-  
+
   struct list_data *events;      /**< Used for object events */
 };
 
@@ -811,8 +812,8 @@ struct room_data
   struct script_data *script; /**< script info for the room */
   struct obj_data *contents;  /**< List of items in room */
   struct char_data *people;   /**< List of NPCs / PCs in room */
-  
-  struct list_data * events;  
+
+  struct list_data * events;
 };
 
 /* char-related structures */
@@ -1056,7 +1057,7 @@ struct char_data
   struct group_data *group;      /**< Character's Group */
 
   long pref; /**< unique session id */
-  
+
   struct list_data * events;
 };
 
@@ -1113,7 +1114,7 @@ struct descriptor_data
   struct descriptor_data *next;     /**< link to next descriptor		*/
   struct oasis_olc_data *olc;       /**< OLC info */
   protocol_t *pProtocol;    /**< Kavir plugin */
-  
+
   struct list_data * events;
 };
 
@@ -1322,7 +1323,7 @@ struct game_data
   int script_players;     /**< Is attaching scripts to players allowed? */
 
   char *OK;       /**< When player receives 'Okay.' text.    */
-  char *HUH;      /**< 'Huh!?!'                              */ 
+  char *HUH;      /**< 'Huh!?!'                              */
   char *NOPERSON; /**< 'No one by that name here.'           */
   char *NOEFFECT; /**< 'Nothing seems to happen.'            */
 };

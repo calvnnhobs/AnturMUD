@@ -1049,10 +1049,10 @@ int search_help(const char *argument, int level)
 
       while (level < help_table[mid].min_level && mid < (bot + top) / 2)
         mid++;
-  
+
       if (strn_cmp(argument, help_table[mid].keywords, minlen) || level < help_table[mid].min_level)
         break;
-        
+
       return (mid);
     }
     else if (chk > 0)
@@ -1279,7 +1279,7 @@ ACMD(do_who)
             GET_LEVEL(tch), CLASS_ABBR(tch),
             GET_NAME(tch), (*GET_TITLE(tch) ? " " : ""), GET_TITLE(tch),
             CCNRM(ch, C_SPR));
-        
+
         if (GET_INVIS_LEV(tch))
           send_to_char(ch, " (i%d)", GET_INVIS_LEV(tch));
         else if (AFF_FLAGGED(tch, AFF_INVISIBLE))
@@ -2003,7 +2003,9 @@ ACMD(do_toggle)
 
     "        Autokey: %-3s    "
     "       Autodoor: %-3s    "
-    "          Color: %s     \r\n ",
+    "          Color: %s     \r\n"
+
+    "NME Con Display: %-3s   \r\n ",
 
     ONOFF(PRF_FLAGGED(ch, PRF_DISPHP)),
     ONOFF(PRF_FLAGGED(ch, PRF_BRIEF)),
@@ -2039,7 +2041,9 @@ ACMD(do_toggle)
 
     ONOFF(PRF_FLAGGED(ch, PRF_AUTOKEY)),
     ONOFF(PRF_FLAGGED(ch, PRF_AUTODOOR)),
-    types[COLOR_LEV(ch)]);
+    types[COLOR_LEV(ch)],
+
+    ONOFF(PRF_FLAGGED(ch, PRF_DISPCONDFI)));
     return;
   }
 
@@ -2104,7 +2108,7 @@ ACMD(do_toggle)
       for (i=0; *arg2 && *(sector_types[i]) != '\n'; i++)
         if (is_abbrev(arg2, sector_types[i]))
           break;
-      if (*(sector_types[i]) == '\n') 
+      if (*(sector_types[i]) == '\n')
         i=0;
       GET_BUILDWALK_SECTOR(ch) = i;
       send_to_char(ch, "Default sector type is %s\r\n", sector_types[i]);
@@ -2377,9 +2381,9 @@ ACMD(do_whois)
   {
      CREATE(victim, struct char_data, 1);
      clear_char(victim);
-     
+
      new_mobile_data(victim);
-     
+
      CREATE(victim->player_specials, struct player_special_data, 1);
 
      if (load_char(buf, victim) > -1)

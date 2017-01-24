@@ -5,17 +5,17 @@ Sex : 2
 Levl: 4
 Id  : 3
 Brth: 1484437917
-Plyd: 14388
-Last: 1485205928
+Plyd: 15359
+Last: 1485216417
 Lmot: 1485051872
 Lnew: 1484715097
 Host: apierce160725
 Hite: 158
 Wate: 120
-Alin: -66
+Alin: -50
 Act : h 0 0 0
 Aff : 0 0 0 0
-Pref: efghnoACE 0 0 0
+Pref: efghnoABCDE c 0 0
 Room: 65535
 Lern: 29
 Hit : 31/31
@@ -28,8 +28,8 @@ Dex : 12
 Con : 11
 Cha : 8
 Ac  : 100
-Gold: 1197
-Exp : 17384
+Gold: 1207
+Exp : 17470
 Olc : 0
 Skil:
 8 95

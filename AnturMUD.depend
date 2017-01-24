@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1484591351 source:/home/calvnnhobs/Documents/anturmud/src/act.comm.c
+1485207891 source:/home/calvnnhobs/Documents/anturmud/src/act.comm.c
 	"conf.h"
 	"sysdep.h"
 	"structs.h"
@@ -59,7 +59,7 @@
 
 1484591351 /home/calvnnhobs/Documents/anturmud/src/bsd-snprintf.h
 
-1484591351 /home/calvnnhobs/Documents/anturmud/src/structs.h
+1485215863 /home/calvnnhobs/Documents/anturmud/src/structs.h
 	"protocol.h"
 	"lists.h"
 	"zmalloc.h"
@@ -92,7 +92,7 @@
 
 1484591351 /home/calvnnhobs/Documents/anturmud/src/modify.h
 
-1484591351 source:/home/calvnnhobs/Documents/anturmud/src/act.informative.c
+1485215562 source:/home/calvnnhobs/Documents/anturmud/src/act.informative.c
 	"conf.h"
 	"sysdep.h"
 	"structs.h"
@@ -185,7 +185,7 @@
 	"fight.h"
 	"mud_event.h"
 
-1484591351 source:/home/calvnnhobs/Documents/anturmud/src/act.other.c
+1485214566 source:/home/calvnnhobs/Documents/anturmud/src/act.other.c
 	"conf.h"
 	"sysdep.h"
 	"structs.h"
@@ -225,7 +225,7 @@
 	"spells.h"
 	"act.h"
 
-1484591351 source:/home/calvnnhobs/Documents/anturmud/src/act.wizard.c
+1485210770 source:/home/calvnnhobs/Documents/anturmud/src/act.wizard.c
 	"conf.h"
 	"sysdep.h"
 	"structs.h"
@@ -361,7 +361,7 @@
 	"constants.h"
 	"act.h"
 
-1484591351 source:/home/calvnnhobs/Documents/anturmud/src/comm.c
+1485215086 source:/home/calvnnhobs/Documents/anturmud/src/comm.c
 	"conf.h"
 	"sysdep.h"
 	<mcheck.h>
@@ -427,7 +427,7 @@
 	"utils.h"
 	"interpreter.h"
 
-1484591351 source:/home/calvnnhobs/Documents/anturmud/src/db.c
+1485215317 source:/home/calvnnhobs/Documents/anturmud/src/db.c
 	"conf.h"
 	"sysdep.h"
 	"structs.h"

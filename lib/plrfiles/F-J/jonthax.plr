@@ -1,29 +1,29 @@
 Name: Jonthax
 Pass: JowlIkTWnjcjw
-Titl: the Novice
+Titl: the Missionary
 Sex : 1
 Clas: 1
-Levl: 4
+Levl: 5
 Id  : 4
 Brth: 1484454894
-Plyd: 20442
-Last: 1484959485
+Plyd: 22563
+Last: 1485215608
 Lmot: 1484701475
 Lnew: 1484775053
 Host: static-astound-64-85-235-35.ca.astound.n
 Hite: 198
 Wate: 157
-Alin: 199
-Act : gh 0 0 0
+Alin: 171
+Act : h 0 0 0
 Aff : 0 0 0 0
 Pref: efghnoAD 0 0 0
 Wimp: 10
-Room: 6070
-Lern: 8
-Thir: 4
-Hit : 44/44
-Mana: 111/111
-Move: 49/88
+Room: 65535
+Lern: 12
+Hung: 15
+Hit : 31/51
+Mana: 118/118
+Move: 21/89
 Str : 13/0
 Int : 14
 Wis : 17
@@ -31,13 +31,15 @@ Dex : 13
 Con : 11
 Cha : 8
 Ac  : 100
-Gold: 315
-Exp : 9395
+Gold: 727
+Exp : 21974
 Olc : 0
 Skil:
 1 95
 16 95
 0 0
 Affs:
-1 14 -20 17 0 0 0 0
+1 11 -20 17 0 0 0 0
 0 0 0 0 0 0 0 0
+Vars: 1
+teleporter_return_room 0 6072

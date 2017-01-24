@@ -9,7 +9,7 @@ Levl: 34
 Id  : 1
 Brth: 1484334534
 Plyd: 263728
-Last: 1485208476
+Last: 1485216403
 Lmot: 1485015304
 Lnew: 1484592995
 Host: apierce160725
@@ -35,17 +35,17 @@ Exp : 7000000
 Olc : 0
 Page: 30
 Alis: 4
- dsw
- dig southwest $1
-1
- dne
- dig northeast $1
+ dnw
+ dig northwest $1
 1
  dse
  dig southeast $1
 1
- dnw
- dig northwest $1
+ dne
+ dig northeast $1
+1
+ dsw
+ dig southwest $1
 1
 Vars: 1
 tba_greeting 0 1

@@ -1,30 +1,30 @@
-Jan 23 13:48:36      :: Resetting #324: Army Encampment (rooms 32400-32499).
-Jan 23 13:48:36      :: Resetting #325: Revelry (rooms 32500-32599).
-Jan 23 13:48:36      :: Resetting #326: Army Perimeter (rooms 32600-32699).
-Jan 23 13:48:36      :: Resetting #343: God Complex  (rooms 34300-34399).
-Jan 23 13:48:36      :: Resetting #345: Asylum for the Insane (rooms 34500-34599).
-Jan 23 13:48:36      :: Resetting #346: God Hall Ext 346 for God Hall Cmplx (rooms 34600-34699).
-Jan 23 13:48:36      :: Resetting #555: Ultima (rooms 55500-55599).
-Jan 23 13:48:36      :: Resetting #556: Ultima II (rooms 55600-55699).
-Jan 23 13:48:36      :: Resetting #653: Apartment (rooms 65300-65399).
-Jan 23 13:48:36      :: Resetting #654: Subdivision (rooms 65400-65499).
-Jan 23 13:48:36      :: Boot db -- DONE.
-Jan 23 13:48:36     :: Signal trapping.
-Jan 23 13:48:36 ZZZZ :: Entering game loop.
-Jan 23 13:48:36      :: No connections.  Going to sleep.
-Jan 23 13:48:36      :: New connection.  Waking up.
-Jan 23 13:48:42      :: Klakdor has connected.
-Jan 23 13:48:44 0    :: Klakdor un-renting and entering game.
-Jan 23 13:48:44      :: Klakdor (level 34) has 10 objects (max 60).
-Jan 23 13:53:36      :: nusage: 1   sockets connected, 1   sockets playing
-Jan 23 13:53:52      :: (GC) Shutdown by Klakdor.
-Jan 23 13:53:52 ZZZZ :: Closing all sockets.
-Jan 23 13:53:52 0    :: Closing link to: Klakdor.
-Jan 23 13:53:52      :: Saving current MUD time.
-Jan 23 13:53:52     :: Normal termination of game.
-Jan 23 13:53:52     :: Clearing game world.
-Jan 23 13:53:53 âH :: Clearing other memory.
-Jan 23 13:53:53 êç :: Done.
+Jan 23 15:54:48      :: Resetting #556: Ultima II (rooms 55600-55699).
+Jan 23 15:54:48      :: Resetting #653: Apartment (rooms 65300-65399).
+Jan 23 15:54:48      :: Resetting #654: Subdivision (rooms 65400-65499).
+Jan 23 15:54:48      :: Boot db -- DONE.
+Jan 23 15:54:48     :: Signal trapping.
+Jan 23 15:54:48 ZZZZ :: Entering game loop.
+Jan 23 15:54:48      :: No connections.  Going to sleep.
+Jan 23 15:54:48      :: New connection.  Waking up.
+Jan 23 15:54:54      :: Klakdor has connected.
+Jan 23 15:54:55      :: Klakdor retrieving crash-saved items and entering game.
+Jan 23 15:54:55      :: Klakdor (level 34) has 10 objects (max 60).
+Jan 23 15:55:24      :: Losing player: Klakdor.
+Jan 23 15:55:47 SSIS :: Cro has connected.
+Jan 23 15:55:48 0    :: Cro un-renting and entering game.
+Jan 23 15:55:48     :: Cro (level 4) has 27 objects (max 60).
+Jan 23 15:56:25 4    :: Cro has quit the game.
+Jan 23 15:56:25     :: Losing player: Cro.
+Jan 23 15:59:48      :: Cro has connected.
+Jan 23 15:59:48      :: nusage: 2   sockets connected, 1   sockets playing
+Jan 23 15:59:49      :: Cro retrieving crash-saved items and entering game.
+Jan 23 15:59:49     :: Cro (level 4) has 28 objects (max 60).
+Jan 23 16:04:48      :: nusage: 2   sockets connected, 2   sockets playing
+Jan 23 16:06:31      :: (GC) Reboot by Klakdor.
+Jan 23 16:06:31 ZZZZ :: Closing all sockets.
+Jan 23 16:06:31 0    :: Closing link to: Cro.
+Jan 23 16:06:31 0    :: Closing link to: Klakdor.
+Jan 23 16:06:31      :: Saving current MUD time.
+Jan 23 16:06:31     :: Rebooting.
 Quick boot mode -- rent check supressed.
 Using file descriptor for logging.
-autoscript terminated Mon Jan 23 13:53:53 PST 2017
