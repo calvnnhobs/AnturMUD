@@ -258,3 +258,88 @@ Jan 23 16:06:46      :: Klakdor (level 34) has 10 objects (max 60).
 Jan 23 16:06:57      :: Cro has connected.
 Jan 23 16:06:58      :: Cro retrieving crash-saved items and entering game.
 Jan 23 16:06:58     :: Cro (level 4) has 28 objects (max 60).
+Jan 23 16:11:38 `d%^ :: nusage: 2   sockets connected, 2   sockets playing
+Jan 23 16:13:50      :: OLC: Klakdor saves 'text/motd'.
+Jan 23 16:13:50      :: OLC: Klakdor stops editing text files.
+Jan 23 16:14:43 ‚j%^ :: OLC: Klakdor saves 'text/news'.
+Jan 23 16:14:43     :: OLC: Klakdor stops editing text files.
+Jan 23 16:16:38 `d%^ :: nusage: 2   sockets connected, 2   sockets playing
+Jan 23 16:20:01 0    :: Closing link to: Cro.
+Jan 23 16:20:01 0    :: Closing link to: Klakdor.
+Jan 23 16:20:01 À© :: No connections.  Going to sleep.
+Jan 23 18:17:04 À© :: New connection.  Waking up.
+Jan 23 18:17:12      :: Klakdor [99-75-92-88.lightspeed.sntcca.sbcglobal.] has reconnected.
+Jan 23 18:18:41      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 23 18:23:41      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 23 18:28:41      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 23 18:33:41      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 23 18:38:41      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 23 18:43:41      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 23 18:48:41      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 23 18:53:41      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 23 18:58:41      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 23 19:03:41      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 23 19:08:41      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 23 19:12:19      :: Klakdor has re-logged in ... disconnecting old socket.
+Jan 23 19:12:19     :: Losing descriptor without char.
+Jan 23 19:13:41      :: Cro force-rented and extracted (idle).
+Jan 23 19:13:41      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 23 19:18:41      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 23 19:23:41      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 23 19:28:41      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 23 19:33:41      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 23 19:38:41      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 23 19:43:41      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 23 19:48:41      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 23 19:53:01     :: WARNING: EOF on socket read (connection broken by peer)
+Jan 23 19:53:01 [ Cr :: Losing descriptor without char.
+Jan 23 19:53:01     :: WARNING: EOF on socket read (connection broken by peer)
+Jan 23 19:53:01     :: Losing descriptor without char.
+Jan 23 19:53:41      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 23 19:58:41      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 23 20:03:41      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 23 20:08:41      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 23 20:13:41      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 23 20:17:08     :: WARNING: EOF on socket read (connection broken by peer)
+Jan 23 20:17:08     :: Losing descriptor without char.
+Jan 23 20:17:16     :: Losing descriptor without char.
+Jan 23 20:18:41      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 23 20:23:41      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 23 20:28:41      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 23 20:33:41      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 23 20:35:24      :: Cro has connected.
+Jan 23 20:35:26      :: Cro retrieving crash-saved items and entering game.
+Jan 23 20:35:26      :: Cro (level 4) has 28 objects (max 60).
+Jan 23 20:37:22 °z :: OLC: Klakdor starts editing actions.
+Jan 23 20:37:25      :: OLC: Klakdor stops editing zone 201 allowed zone 0
+Jan 23 20:38:41 `d%^ :: nusage: 2   sockets connected, 2   sockets playing
+Jan 23 20:41:50 	n.
+ :: Klakdor has quit the game.
+Jan 23 20:41:52     :: Losing player: Klakdor.
+Jan 23 20:41:59      :: Klakdor has connected.
+Jan 23 20:42:00 0    :: Klakdor un-renting and entering game.
+Jan 23 20:42:00     :: Klakdor (level 34) has 10 objects (max 60).
+Jan 23 20:43:41 `d%^ :: nusage: 2   sockets connected, 2   sockets playing
+Jan 23 20:44:22 4    :: Klakdor has quit the game.
+Jan 23 20:44:24     :: Losing player: Klakdor.
+Jan 23 20:44:31      :: Klakdor has connected.
+Jan 23 20:44:32 0    :: Klakdor un-renting and entering game.
+Jan 23 20:44:32     :: Klakdor (level 34) has 10 objects (max 60).
+Jan 23 20:46:04 4    :: Klakdor has quit the game.
+Jan 23 20:46:04     :: Losing player: Klakdor.
+Jan 23 20:46:55      :: Klakdor has connected.
+Jan 23 20:46:56 0    :: Klakdor un-renting and entering game.
+Jan 23 20:46:56     :: Klakdor (level 34) has 10 objects (max 60).
+Jan 23 20:48:41 `d%^ :: nusage: 2   sockets connected, 2   sockets playing
+Jan 23 20:50:01 4    :: Klakdor has quit the game.
+Jan 23 20:50:02     :: Losing player: Klakdor.
+Jan 23 20:50:22      :: Klakdor has connected.
+Jan 23 20:50:25 0    :: Klakdor un-renting and entering game.
+Jan 23 20:50:25     :: Klakdor (level 34) has 10 objects (max 60).
+Jan 23 20:50:34      :: WARNING: EOF on socket read (connection broken by peer)
+Jan 23 20:50:34 0    :: Closing link to: Cro.
+Jan 23 20:53:41      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 23 20:58:41      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 23 21:03:41      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 23 21:08:41      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 23 21:13:41      :: nusage: 1   sockets connected, 1   sockets playing

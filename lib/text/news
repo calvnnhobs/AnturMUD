@@ -5,7 +5,7 @@
 NEW COMMANDS AND NEW MUD BEHAVIOR:
 ---------------------------------
 **  Check out the latest news and information on the tbaMUD codebase at
-    @Chttp://tbamud.com@n.
+    	Chttp://tbamud.com	n.
 
 **  A new "areas" command will list open areas and their suggested levels. 
 
@@ -56,7 +56,7 @@ NEW COMMANDS AND NEW MUD BEHAVIOR:
     channel. Socials can now target bodyparts too! Please behave. Check them 
     out and feel free to suggest new ones. 
 
-**  You can now use color! @RHELP COLORCODES@n.
+**  You can now use color! 	RHELP COLORCODES	n.
 
 **  Added new invisible mobs and objects so everything may not be as it appears
     (not even visible with detect invis and sense life).
