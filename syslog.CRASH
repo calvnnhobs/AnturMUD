@@ -1,30 +1,30 @@
-Jan 23 15:54:48      :: Resetting #556: Ultima II (rooms 55600-55699).
-Jan 23 15:54:48      :: Resetting #653: Apartment (rooms 65300-65399).
-Jan 23 15:54:48      :: Resetting #654: Subdivision (rooms 65400-65499).
-Jan 23 15:54:48      :: Boot db -- DONE.
-Jan 23 15:54:48     :: Signal trapping.
-Jan 23 15:54:48 ZZZZ :: Entering game loop.
-Jan 23 15:54:48      :: No connections.  Going to sleep.
-Jan 23 15:54:48      :: New connection.  Waking up.
-Jan 23 15:54:54      :: Klakdor has connected.
-Jan 23 15:54:55      :: Klakdor retrieving crash-saved items and entering game.
-Jan 23 15:54:55      :: Klakdor (level 34) has 10 objects (max 60).
-Jan 23 15:55:24      :: Losing player: Klakdor.
-Jan 23 15:55:47 SSIS :: Cro has connected.
-Jan 23 15:55:48 0    :: Cro un-renting and entering game.
-Jan 23 15:55:48     :: Cro (level 4) has 27 objects (max 60).
-Jan 23 15:56:25 4    :: Cro has quit the game.
-Jan 23 15:56:25     :: Losing player: Cro.
-Jan 23 15:59:48      :: Cro has connected.
-Jan 23 15:59:48      :: nusage: 2   sockets connected, 1   sockets playing
-Jan 23 15:59:49      :: Cro retrieving crash-saved items and entering game.
-Jan 23 15:59:49     :: Cro (level 4) has 28 objects (max 60).
-Jan 23 16:04:48      :: nusage: 2   sockets connected, 2   sockets playing
-Jan 23 16:06:31      :: (GC) Reboot by Klakdor.
-Jan 23 16:06:31 ZZZZ :: Closing all sockets.
-Jan 23 16:06:31 0    :: Closing link to: Cro.
-Jan 23 16:06:31 0    :: Closing link to: Klakdor.
-Jan 23 16:06:31      :: Saving current MUD time.
-Jan 23 16:06:31     :: Rebooting.
+Jan 24 18:12:01      :: Resetting #319: Yllythad Sea (rooms 31900-31999).
+Jan 24 18:12:01      :: Resetting #320: Yllythad Sea II (rooms 32000-32099).
+Jan 24 18:12:01      :: Resetting #321: Yllythad Sea III (rooms 32100-32199).
+Jan 24 18:12:01      :: Resetting #322: McGintey Bay (rooms 32200-32299).
+Jan 24 18:12:01      :: Resetting #323: Caverns of the Pale Man (rooms 32300-32399).
+Jan 24 18:12:01      :: Resetting #324: Army Encampment (rooms 32400-32499).
+Jan 24 18:12:01      :: Resetting #325: Revelry (rooms 32500-32599).
+Jan 24 18:12:01      :: Resetting #326: Army Perimeter (rooms 32600-32699).
+Jan 24 18:12:01      :: Resetting #343: God Complex  (rooms 34300-34399).
+Jan 24 18:12:01      :: Resetting #345: Asylum for the Insane (rooms 34500-34599).
+Jan 24 18:12:01      :: Resetting #346: God Hall Ext 346 for God Hall Cmplx (rooms 34600-34699).
+Jan 24 18:12:01      :: Resetting #555: Ultima (rooms 55500-55599).
+Jan 24 18:12:01      :: Resetting #556: Ultima II (rooms 55600-55699).
+Jan 24 18:12:01      :: Resetting #653: Apartment (rooms 65300-65399).
+Jan 24 18:12:01      :: Resetting #654: Subdivision (rooms 65400-65499).
+Jan 24 18:12:01      :: Boot db -- DONE.
+Jan 24 18:12:01     :: Signal trapping.
+Jan 24 18:12:01      :: Entering game loop.
+Jan 24 18:12:01 ZZZZ :: No connections.  Going to sleep.
+Jan 24 18:12:01 ZZZZ :: New connection.  Waking up.
+Jan 24 18:12:04      :: Klakdor has connected.
+Jan 24 18:12:05      :: Klakdor retrieving crash-saved items and entering game.
+Jan 24 18:12:05      :: Klakdor (level 34) has 10 objects (max 60).
+Jan 24 18:14:25      :: (GC) Reboot by Klakdor.
+Jan 24 18:14:25      :: Closing all sockets.
+Jan 24 18:14:25 0    :: Closing link to: Klakdor.
+Jan 24 18:14:25      :: Saving current MUD time.
+Jan 24 18:14:25     :: Rebooting.
 Quick boot mode -- rent check supressed.
 Using file descriptor for logging.

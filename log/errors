@@ -33,3 +33,4 @@ SYSERR: gethostbyaddr: Success
 SYSERR: perform_socket_read: about to lose connection: Connection timed out
 SYSERR: perform_socket_read: about to lose connection: Connection timed out
 SYSERR: perform_socket_read: about to lose connection: Connection timed out
+SYSERR: gethostbyaddr: Success

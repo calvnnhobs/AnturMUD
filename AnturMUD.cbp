@@ -7,8 +7,9 @@
 		<Option compiler="gcc" />
 		<Build>
 			<Target title="Debug">
-				<Option output="bin/Debug/AnturMUD" prefix_auto="1" extension_auto="1" />
-				<Option object_output="obj/Debug/" />
+				<Option output="AnturDebug/bin/Debug/AnturMUD" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="AnturDebug" />
+				<Option object_output="AnturDebug/obj/Debug/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
 				<Option parameters="4001" />

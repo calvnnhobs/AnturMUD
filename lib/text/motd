@@ -5,3 +5,6 @@ NEW FEATURES:
 * Prompt will optionally display enemy's condition (do 'prompt all' or 'prompt hmvc')
 * Type 'help condition' to see how condition and HP percentage are correlated
 * 'say' verb now displays in cyan when you use normal or complete color modes
+
+1/24/2017
+* 'score' enhanced to display stats, regen rates and other helpful info. Up for feedback

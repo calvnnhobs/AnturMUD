@@ -1,29 +1,30 @@
 Name: Jonthax
 Pass: JowlIkTWnjcjw
-Titl: the Missionary
+Titl: the Deacon
 Sex : 1
 Clas: 1
-Levl: 5
+Levl: 7
 Id  : 4
 Brth: 1484454894
-Plyd: 22563
-Last: 1485215608
-Lmot: 1484701475
-Lnew: 1484775053
+Plyd: 30439
+Last: 1485307253
+Lmot: 1485290747
+Lnew: 1485290209
 Host: static-astound-64-85-235-35.ca.astound.n
 Hite: 198
 Wate: 157
-Alin: 171
-Act : h 0 0 0
+Alin: 412
+Act : gh 0 0 0
 Aff : 0 0 0 0
-Pref: efghnoAD 0 0 0
-Wimp: 10
-Room: 65535
+Pref: efghnoADF c 0 0
+Wimp: 15
+Room: 3616
 Lern: 12
-Hung: 15
-Hit : 31/51
-Mana: 118/118
-Move: 21/89
+Hung: 3
+Thir: 18
+Hit : 56/66
+Mana: 111/135
+Move: 92/92
 Str : 13/0
 Int : 14
 Wis : 17
@@ -31,15 +32,21 @@ Dex : 13
 Con : 11
 Cha : 8
 Ac  : 100
-Gold: 727
-Exp : 21974
+Gold: 842
+Exp : 56149
 Olc : 0
 Skil:
 1 95
+3 90
+14 60
 16 95
+18 90
 0 0
 Affs:
-1 11 -20 17 0 0 0 0
+3 5 -1 24 0 0 0 0
+3 5 2 18 0 0 0 0
+18 23 0 0 8 0 0 0
+1 6 -20 17 0 0 0 0
 0 0 0 0 0 0 0 0
 Vars: 1
-teleporter_return_room 0 6072
+teleporter_return_room 0 2165
