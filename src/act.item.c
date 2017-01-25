@@ -116,7 +116,7 @@ ACMD(do_put)
   else if (!*thecont) {
     send_to_char(ch, "What do you want to put %s in?\r\n", obj_dotmode == FIND_INDIV ? "it" : "them");
   } else {
-    generic_find(thecont, FIND_OBJ_INV | FIND_OBJ_ROOM, ch, &tmp_char, &cont);
+    generic_find(thecont, FIND_OBJ_INV | FIND_OBJ_ROOM | FIND_OBJ_EQUIP, ch, &tmp_char, &cont);
     if (!cont)
       send_to_char(ch, "You don't see %s %s here.\r\n", AN(thecont), thecont);
     else if (GET_OBJ_TYPE(cont) != ITEM_CONTAINER)
@@ -175,12 +175,12 @@ if (!IS_NPC(ch) && !PRF_FLAGGED(ch, PRF_NOHASSLE)) {
     return (0);
   }
 }
-  
+
   if (OBJ_SAT_IN_BY(obj)){
     act("It appears someone is sitting on $p..", FALSE, ch, obj, 0, TO_CHAR);
     return (0);
   }
-  
+
   return (1);
 }
 
@@ -347,7 +347,7 @@ ACMD(do_get)
     }
     cont_dotmode = find_all_dots(arg2);
     if (cont_dotmode == FIND_INDIV) {
-      mode = generic_find(arg2, FIND_OBJ_INV | FIND_OBJ_ROOM, ch, &tmp_char, &cont);
+      mode = generic_find(arg2, FIND_OBJ_INV | FIND_OBJ_ROOM | FIND_OBJ_EQUIP, ch, &tmp_char, &cont);
       if (!cont)
 	send_to_char(ch, "You don't have %s %s.\r\n", AN(arg2), arg2);
       else if (GET_OBJ_TYPE(cont) != ITEM_CONTAINER)
@@ -671,7 +671,7 @@ static void perform_give_gold(struct char_data *ch, struct char_data *vict,
 
   if (IS_NPC(ch) || (GET_LEVEL(ch) < LVL_GOD))
     decrease_gold(ch, amount);
-    
+
   increase_gold(vict, amount);
   bribe_mtrigger(vict, ch, amount);
 }
@@ -1524,7 +1524,7 @@ ACMD(do_sac)
     send_to_char(ch, "Sacrifice what?\n\r");
     return;
   }
-    
+
   if (!(j = get_obj_in_list_vis(ch, arg, NULL, world[IN_ROOM(ch)].contents)) && (!(j = get_obj_in_list_vis(ch, arg, NULL, ch->carrying)))) {
     send_to_char(ch, "It doesn't seem to be here.\n\r");
     return;

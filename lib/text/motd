@@ -8,3 +8,4 @@ NEW FEATURES:
 
 1/24/2017
 * 'score' enhanced to display stats, regen rates and other helpful info. Up for feedback
+* worn containers can now be accessed directly ('put' and 'get' will work)
