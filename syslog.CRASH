@@ -1,30 +1,30 @@
-Jan 24 18:12:01      :: Resetting #319: Yllythad Sea (rooms 31900-31999).
-Jan 24 18:12:01      :: Resetting #320: Yllythad Sea II (rooms 32000-32099).
-Jan 24 18:12:01      :: Resetting #321: Yllythad Sea III (rooms 32100-32199).
-Jan 24 18:12:01      :: Resetting #322: McGintey Bay (rooms 32200-32299).
-Jan 24 18:12:01      :: Resetting #323: Caverns of the Pale Man (rooms 32300-32399).
-Jan 24 18:12:01      :: Resetting #324: Army Encampment (rooms 32400-32499).
-Jan 24 18:12:01      :: Resetting #325: Revelry (rooms 32500-32599).
-Jan 24 18:12:01      :: Resetting #326: Army Perimeter (rooms 32600-32699).
-Jan 24 18:12:01      :: Resetting #343: God Complex  (rooms 34300-34399).
-Jan 24 18:12:01      :: Resetting #345: Asylum for the Insane (rooms 34500-34599).
-Jan 24 18:12:01      :: Resetting #346: God Hall Ext 346 for God Hall Cmplx (rooms 34600-34699).
-Jan 24 18:12:01      :: Resetting #555: Ultima (rooms 55500-55599).
-Jan 24 18:12:01      :: Resetting #556: Ultima II (rooms 55600-55699).
-Jan 24 18:12:01      :: Resetting #653: Apartment (rooms 65300-65399).
-Jan 24 18:12:01      :: Resetting #654: Subdivision (rooms 65400-65499).
-Jan 24 18:12:01      :: Boot db -- DONE.
-Jan 24 18:12:01     :: Signal trapping.
-Jan 24 18:12:01      :: Entering game loop.
-Jan 24 18:12:01 ZZZZ :: No connections.  Going to sleep.
-Jan 24 18:12:01 ZZZZ :: New connection.  Waking up.
-Jan 24 18:12:04      :: Klakdor has connected.
-Jan 24 18:12:05      :: Klakdor retrieving crash-saved items and entering game.
-Jan 24 18:12:05      :: Klakdor (level 34) has 10 objects (max 60).
-Jan 24 18:14:25      :: (GC) Reboot by Klakdor.
-Jan 24 18:14:25      :: Closing all sockets.
-Jan 24 18:14:25 0    :: Closing link to: Klakdor.
-Jan 24 18:14:25      :: Saving current MUD time.
-Jan 24 18:14:25     :: Rebooting.
+Jan 24 20:39:31 T  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 24 20:44:31      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 24 20:49:31      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 24 20:54:31      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 24 20:59:31 ê T  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 24 21:04:31 ¿ T  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 24 21:09:31 T  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 24 21:14:31      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 24 21:15:31 ˇ   :: Losing descriptor without char.
+Jan 24 21:19:31      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 24 21:24:31      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 24 21:29:31 ê T  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 24 21:34:31      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 24 21:39:31 T  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 24 21:44:31      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 24 21:49:31      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 24 21:54:31      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 24 21:59:31 ê T  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 24 22:04:31      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 24 22:09:31 T  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 24 22:14:31      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 24 22:19:31      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 24 22:24:31      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 24 22:27:14      :: (GC) Reboot by Klakdor.
+Jan 24 22:27:14      :: Closing all sockets.
+Jan 24 22:27:14 0    :: Closing link to: Klakdor.
+Jan 24 22:27:14      :: Saving current MUD time.
+Jan 24 22:27:14     :: Rebooting.
 Quick boot mode -- rent check supressed.
 Using file descriptor for logging.
