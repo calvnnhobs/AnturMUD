@@ -2,6 +2,7 @@
 DikuMUD~
 Northern Midgaard~
 3000 3099 15 2 d 0 0 0 1 33
+M 0 3076 1 3067 	(Vretiel)
 R 0 3000 3006 -1 	(the teleporter)
 O 0 3006 99 3000 	(the teleporter)
 M 0 3011 1 3000 	(the travelling saleswoman)

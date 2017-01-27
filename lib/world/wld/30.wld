@@ -127,7 +127,7 @@ S
 #3005
 The Temple Square~
    You are standing on the temple square.  Huge marble steps lead up to the
-temple gate.  The entrance to the Clerics' Guild is to the west, and the old
+temple gate.  The entrance to the Clerics Guild is to the west, and the old
 Grunting Boar Inn, is to the east.  Just south of here you see the market
 square, the center of Midgaard.
 ~
@@ -404,6 +404,10 @@ You see the main street.
 ~
 ~
 0 -1 3013
+D8
+~
+~
+0 0 3067
 E
 statue~
    What you see is the Midgaard Worm, stretching around the Palace of Midgaard.
@@ -1431,5 +1435,51 @@ There is a large rusty gate just to the west.
 ~
 ~
 0 -1 3600
+S
+#3067
+Barleywine League - Headquarters~
+   Few furnishings decorate this austere room, with several wooden chairs
+stationed below the single draped window, a broad desk in the back of the room,
+and a framed picture of the Barleywine Crest on the south wall.  Everything is
+exceptionally clean and orderly.  A low-slung doorway behind the desk leads
+east.
+~
+30 156 0 0 0 0
+D1
+A dim room lies beyond the doorway.
+~
+~
+0 0 3068
+D6
+The door leads back to Market Square.
+~
+~
+0 0 3014
+E
+barleywine crest~
+A shield emblazoned with a silver chalice dominates the crest. Stags leap up to the shield on either side.
+~
+E
+broad desk~
+Nothing is on top of the desk except a quill and inkwell. Several drawers appear locked.
+~
+E
+wood wooden chair chairs~
+The chairs look old but solid and even a bit symmetrical.
+~
+S
+#3068
+Barleywine League - Storeroom~
+   Matching the theme of the front office, the storeroom is very neat.  Items on
+shelves and in racks are organized by type and displayed for easy
+identification.  Several locked chests are pushed against one wall, and a small
+round table stands near the doorway.
+~
+30 156 0 0 0 0
+D3
+The main office is this way.
+~
+~
+0 0 3067
 S
 $~

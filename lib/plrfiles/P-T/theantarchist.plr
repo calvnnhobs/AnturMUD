@@ -8,21 +8,22 @@ Sex : 1
 Levl: 5
 Id  : 6
 Brth: 1484710457
-Plyd: 9340
-Last: 1485317971
+Plyd: 16738
+Last: 1485495751
 Lmot: 1484710786
-Lnew: 1484710789
+Lnew: 1485492828
 Host: 70-36-215-128.dsl.dynamic.sonic.net
 Hite: 199
 Wate: 126
-Alin: -14
+Alin: 214
 Act : gh 0 0 0
 Aff : 0 0 0 0
 Pref: efghnoADE 0 0 0
 Wimp: 8
-Room: 3007
+Room: 3005
 Lern: 12
-Thir: 3
+Hung: 23
+Thir: 11
 Hit : 38/38
 Mana: 117/117
 Move: 90/90
@@ -33,11 +34,11 @@ Dex : 15
 Con : 10
 Cha : 8
 Ac  : 100
-Gold: 1749
-Exp : 30885
+Gold: 1773
+Exp : 37796
 Olc : 0
 Skil:
 32 95
 0 0
 Vars: 1
-teleporter_return_room 0 3654
+teleporter_return_room 0 18637

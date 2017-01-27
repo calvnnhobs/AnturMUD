@@ -67,7 +67,7 @@
 #define KILLSCRIPT_FILE	"::.killscript"	/* autorun: shut mud down	*/
 #define PAUSE_FILE	"::pause"	/* autorun: don't restart mud	*/
 #else
-#define EXE_FILE "bin/circle" /* maybe use argv[0] but it's not reliable */
+#define EXE_FILE "bin/Release/AnturMUD" /* maybe use argv[0] but it's not reliable */
 #define FASTBOOT_FILE   "../.fastboot"  /* autorun: boot without sleep  */
 #define KILLSCRIPT_FILE "../.killscript"/* autorun: shut mud down       */
 #define PAUSE_FILE      "../pause"      /* autorun: don't restart mud   */

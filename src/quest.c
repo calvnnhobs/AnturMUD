@@ -303,13 +303,13 @@ void generic_complete_quest(struct char_data *ch)
       happy_qp = MAX(happy_qp, 0);
       GET_QUESTPOINTS(ch) += happy_qp;
       send_to_char(ch,
-          "%s\r\nYou have been awarded %d quest points for your service.\r\n",
-          QST_DONE(rnum), happy_qp);
+          "%s%s\r\nYou have been awarded %d quest points for your service.%s\r\n",
+          CCMAG(ch, C_NRM), QST_DONE(rnum), happy_qp, CCNRM(ch, C_NRM));
 	} else {
       GET_QUESTPOINTS(ch) += QST_POINTS(rnum);
       send_to_char(ch,
-          "%s\r\nYou have been awarded %d quest points for your service.\r\n",
-          QST_DONE(rnum), QST_POINTS(rnum));
+          "%s%s\r\nYou have been awarded %d quest points for your service.%s\r\n",
+          CCMAG(ch, C_NRM), QST_DONE(rnum), QST_POINTS(rnum), CCNRM(ch, C_NRM));
     }
     if (QST_GOLD(rnum)) {
       if ((IS_HAPPYHOUR) && (IS_HAPPYGOLD)) {

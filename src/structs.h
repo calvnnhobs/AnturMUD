@@ -583,7 +583,7 @@
  */
 #define PULSE_AUTOSAVE  (60 RL_SEC)
 /** Controls when checks are made for idle name and password CON_ states */
-#define PULSE_IDLEPWD   (15 RL_SEC)
+#define PULSE_IDLEPWD   (60 RL_SEC)
 /** Currently unused. */
 #define PULSE_SANITY    (30 RL_SEC)
 /** How often to log # connected sockets and # active players.

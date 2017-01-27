@@ -715,41 +715,52 @@ ACMD(do_look)
   else if (IS_DARK(IN_ROOM(ch)) && !CAN_SEE_IN_DARK(ch)) {
     send_to_char(ch, "It is pitch black...\r\n");
     list_char_to_char(world[IN_ROOM(ch)].people, ch);	/* glowing red eyes */
-  } else {
+  }
+  else
+  {
     char arg[MAX_INPUT_LENGTH], arg2[MAX_INPUT_LENGTH];
 
     half_chop(argument, arg, arg2);
 
-    if (subcmd == SCMD_READ) {
+    if (subcmd == SCMD_READ)
+    {
       if (!*arg)
-	send_to_char(ch, "Read what?\r\n");
+	    send_to_char(ch, "Read what?\r\n");
       else
-	look_at_target(ch, arg);
+	    look_at_target(ch, arg);
       return;
     }
     if (!*arg)			/* "look" alone, without an argument at all */
       look_at_room(ch, 1);
     else if (is_abbrev(arg, "in"))
       look_in_obj(ch, arg2);
-    /* did the char type 'look <direction>?' */
-    else if ((look_type = search_block(arg, dirs, FALSE)) >= 0)
-      look_in_direction(ch, look_type);
-    else if (is_abbrev(arg, "at"))
-      look_at_target(ch, arg2);
-    else if (is_abbrev(arg, "around")) {
-      struct extra_descr_data *i;
+    else
+    {
+      /* did the char type 'look <direction>?' */
+      look_type = search_block(arg, dirs, FALSE);
+      if (look_type < 0) // next check if ne, se, sw, nw was specified 1/27/2017 AP
+        look_type = search_block(arg, autoexits, FALSE);
+      if (look_type >= 0)
+        look_in_direction(ch, look_type);
+      else if (is_abbrev(arg, "at"))
+        look_at_target(ch, arg2);
+      else if (is_abbrev(arg, "around"))
+      {
+        struct extra_descr_data *i;
 
-      for (i = world[IN_ROOM(ch)].ex_description; i; i = i->next) {
-        if (*i->keyword != '.') {
-          send_to_char(ch, "%s%s:\r\n%s",
-          (found ? "\r\n" : ""), i->keyword, i->description);
-          found = 1;
+        for (i = world[IN_ROOM(ch)].ex_description; i; i = i->next) {
+          if (*i->keyword != '.') {
+            send_to_char(ch, "%s%s:\r\n%s",
+            (found ? "\r\n" : ""), i->keyword, i->description);
+            found = 1;
+          }
         }
+        if (!found)
+           send_to_char(ch, "You couldn't find anything noticeable.\r\n");
       }
-      if (!found)
-         send_to_char(ch, "You couldn't find anything noticeable.\r\n");
-    } else
-      look_at_target(ch, arg);
+      else
+        look_at_target(ch, arg);
+    }
   }
 }
 
@@ -1764,7 +1775,7 @@ static void perform_mortal_where(struct char_data *ch, char *arg)
 
   if (!*arg) {
     j = world[(IN_ROOM(ch))].zone;
-    send_to_char(ch, "Players in %s\tn.\r\n--------------------\r\n", zone_table[j].name);
+    send_to_char(ch, "Players in %s\tn (%d-%d).\r\n--------------------\r\n", zone_table[j].name, zone_table[j].min_level, zone_table[j].max_level);
     for (d = descriptor_list; d; d = d->next) {
       if (STATE(d) != CON_PLAYING || d->character == ch)
 	continue;

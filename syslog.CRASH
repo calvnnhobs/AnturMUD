@@ -1,30 +1,30 @@
-Jan 24 20:39:31 T  :: nusage: 1   sockets connected, 1   sockets playing
-Jan 24 20:44:31      :: nusage: 1   sockets connected, 1   sockets playing
-Jan 24 20:49:31      :: nusage: 1   sockets connected, 1   sockets playing
-Jan 24 20:54:31      :: nusage: 1   sockets connected, 1   sockets playing
-Jan 24 20:59:31 ê T  :: nusage: 1   sockets connected, 1   sockets playing
-Jan 24 21:04:31 ¿ T  :: nusage: 1   sockets connected, 1   sockets playing
-Jan 24 21:09:31 T  :: nusage: 1   sockets connected, 1   sockets playing
-Jan 24 21:14:31      :: nusage: 1   sockets connected, 1   sockets playing
-Jan 24 21:15:31 ˇ   :: Losing descriptor without char.
-Jan 24 21:19:31      :: nusage: 1   sockets connected, 1   sockets playing
-Jan 24 21:24:31      :: nusage: 1   sockets connected, 1   sockets playing
-Jan 24 21:29:31 ê T  :: nusage: 1   sockets connected, 1   sockets playing
-Jan 24 21:34:31      :: nusage: 1   sockets connected, 1   sockets playing
-Jan 24 21:39:31 T  :: nusage: 1   sockets connected, 1   sockets playing
-Jan 24 21:44:31      :: nusage: 1   sockets connected, 1   sockets playing
-Jan 24 21:49:31      :: nusage: 1   sockets connected, 1   sockets playing
-Jan 24 21:54:31      :: nusage: 1   sockets connected, 1   sockets playing
-Jan 24 21:59:31 ê T  :: nusage: 1   sockets connected, 1   sockets playing
-Jan 24 22:04:31      :: nusage: 1   sockets connected, 1   sockets playing
-Jan 24 22:09:31 T  :: nusage: 1   sockets connected, 1   sockets playing
-Jan 24 22:14:31      :: nusage: 1   sockets connected, 1   sockets playing
-Jan 24 22:19:31      :: nusage: 1   sockets connected, 1   sockets playing
-Jan 24 22:24:31      :: nusage: 1   sockets connected, 1   sockets playing
-Jan 24 22:27:14      :: (GC) Reboot by Klakdor.
-Jan 24 22:27:14      :: Closing all sockets.
-Jan 24 22:27:14 0    :: Closing link to: Klakdor.
-Jan 24 22:27:14      :: Saving current MUD time.
-Jan 24 22:27:14     :: Rebooting.
+Jan 27 11:55:32      :: OLC: Klakdor starts editing zone 30 allowed zone 0
+Jan 27 11:55:45 ) [ :: OLC: Klakdor stops editing zone 30 allowed zone 0
+Jan 27 11:55:48 Ä≠˚ :: OLC: Klakdor starts editing zone 30 allowed zone 0
+Jan 27 11:55:59     :: OLC: Klakdor stops editing zone 30 allowed zone 0
+Jan 27 11:56:03      :: OLC: Klakdor starts editing zone 30 allowed zone 0
+Jan 27 11:59:03      :: nusage: 2   sockets connected, 2   sockets playing
+Jan 27 12:00:46      :: OLC: Klakdor edits quest 3002
+Jan 27 12:00:46    :: GenOLC: save_quests: Saving quests in zone #30 (3000-3099).
+Jan 27 12:00:46      :: OLC: Klakdor stops editing zone 30 allowed zone 0
+Jan 27 12:03:50      :: OLC: Klakdor starts editing zone 30 allowed zone 0
+Jan 27 12:04:03      :: nusage: 2   sockets connected, 2   sockets playing
+Jan 27 12:04:19 ˇˇˇˇ :: OLC: Klakdor edits quest 3001
+Jan 27 12:04:19    :: GenOLC: save_quests: Saving quests in zone #30 (3000-3099).
+Jan 27 12:04:19      :: OLC: Klakdor stops editing zone 30 allowed zone 0
+Jan 27 12:04:22 Ä≠˚ :: OLC: Klakdor starts editing zone 30 allowed zone 0
+Jan 27 12:04:36     :: OLC: Klakdor edits quest 3002
+Jan 27 12:04:36    :: GenOLC: save_quests: Saving quests in zone #30 (3000-3099).
+Jan 27 12:04:36      :: OLC: Klakdor stops editing zone 30 allowed zone 0
+Jan 27 12:09:03      :: nusage: 2   sockets connected, 2   sockets playing
+Jan 27 12:11:09      :: OLC: Klakdor saves 'text/motd'.
+Jan 27 12:11:09      :: OLC: Klakdor stops editing text files.
+Jan 27 12:11:35 ®©/Û :: Cro has quit the game.
+Jan 27 12:11:36  25	 :: Losing player: Cro.
+Jan 27 12:11:50      :: (GC) Reboot by Klakdor.
+Jan 27 12:11:50      :: Closing all sockets.
+Jan 27 12:11:50 0    :: Closing link to: Klakdor.
+Jan 27 12:11:50      :: Saving current MUD time.
+Jan 27 12:11:50     :: Rebooting.
 Quick boot mode -- rent check supressed.
 Using file descriptor for logging.

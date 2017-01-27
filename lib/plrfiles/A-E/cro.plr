@@ -5,18 +5,18 @@ Sex : 2
 Levl: 4
 Id  : 3
 Brth: 1484437917
-Plyd: 15390
-Last: 1485232554
-Lmot: 1485232541
+Plyd: 24945
+Last: 1485560493
+Lmot: 1485547874
 Lnew: 1485232544
 Host: apierce160725
 Hite: 158
 Wate: 120
-Alin: -50
+Alin: 33
 Act : gh 0 0 0
 Aff : 0 0 0 0
 Pref: efghnoABCDE c 0 0
-Room: 65535
+Room: 3001
 Lern: 29
 Hit : 31/31
 Mana: 109/109
@@ -26,11 +26,17 @@ Int : 13
 Wis : 13
 Dex : 12
 Con : 11
-Cha : 8
+Cha : 10
 Ac  : 100
-Gold: 1207
-Exp : 17470
+Gold: 353
+Exp : 19991
 Olc : 0
+Qstp: 1
+Qest:
+100
+3001
+3002
+65535
 Skil:
 8 95
 19 95
@@ -38,5 +44,6 @@ Skil:
 32 95
 50 95
 0 0
-Vars: 1
-teleporter_return_room 0 7401
+Vars: 2
+teleporter_return_room 0 3577
+solved_example_quest_zone_0 0 1

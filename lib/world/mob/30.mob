@@ -527,6 +527,32 @@ An oozing green gelatinous blob is here, sucking in bits of debris.
 BareHandAttack: 6
 E
 T 3011
+#3076
+vretiel questmaster~
+Vretiel~
+Vretiel paces about, awaiting assistance on the latest quest.
+~
+   Looking rather imposing, Vretiel is fairly tall, and her cape adds some
+breadth to her stature.  Bedecked from head-to-toe in studded leather and with a
+sheathed sword at her side, she looks quite ready to embark on some adventure.
+~
+452698 0 0 0 2064 0 0 0 0 E
+20 14 -2 4d4+200 3d3+3
+200 40000
+8 8 2
+BareHandAttack: 3
+Str: 13
+Dex: 13
+Int: 13
+Wis: 13
+Con: 13
+Cha: 13
+SavingPara: 5
+SavingRod: 5
+SavingPetri: 5
+SavingBreath: 5
+SavingSpell: 5
+E
 #3089
 petshops shop boy~
 the Pet Shop Boy~

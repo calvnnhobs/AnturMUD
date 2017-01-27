@@ -41,7 +41,7 @@ PORT=4000
 FLAGS='-q'
 
 # Number of syslog.# files to keep in the log directory.
-BACKLOGS=6
+BACKLOGS=10
 
 # Each record in the following variable contains information for one log file.
 # The fields are filename:maxlines:pattern where filename is the name of the
@@ -166,7 +166,7 @@ while ( : ) do
   done
 
   if [ -s lib/core ]; then 
-    gdb bin/circle lib/core -command gdb.tmp >lib/backtrace.$(date +%d.%m.%Y.%T)
+    gdb bin/Release/AnturMUD lib/core -command gdb.tmp >lib/backtrace.$(date +%d.%m.%Y.%T)
   fi
 
   proc_syslog

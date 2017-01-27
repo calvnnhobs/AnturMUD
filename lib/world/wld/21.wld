@@ -362,10 +362,10 @@ The fen continues, with some winding waterways becoming clear.
 S
 #2116
 Ferrycourse Fen - Marshland~
-   Matted straw and reeds mark the collapsed thatch roof of a homestead,
-standing drear and unaccessible.  Tangled vines continue their work on the
-wreckage, pulling apart stones with the slow creep of time.  A well also stands
-nearby, now quite unnecessary for the parched patrons of the land.
+   Woven straw and reeds mark the collapsed thatch roof of a homestead, standing
+drear and unaccessible.  Tangled vines continue their work on the wreckage,
+pulling apart stones with the slow creep of time.  A well also stands nearby,
+now quite unnecessary for the parched patrons of the land.
 ~
 21 0 0 0 0 3
 D3
@@ -469,9 +469,9 @@ fen that otherwise surrounds these remnants of civilization.
 ~
 21 0 0 0 0 3
 D1
-The farmhouse's doorframe is wide open.
+The door is very nearly shattered to bits, really just a clump of wood at this point.
 ~
-Shattered door~
+door~
 1 0 2122
 D7
 A crumbling dike stands prominently.
@@ -500,7 +500,7 @@ sudden exit by the previous tenants.
 D3
 The door looks shattered, though not stuck open.
 ~
-Door~
+door~
 1 0 2121
 E
 furniture crockery~
@@ -509,270 +509,364 @@ The splinters of a chair and shards of clay pots are mounded curiously in a corn
 S
 #2123
 Ferrycourse Fen - Broken Dike~
-Err
+   The dike here has failed completely, abruptly crumbling into a steadily
+moving flow of water from the west.  Chunks of earth and rock are in a
+slow-motion tumble into the murky pool.  What remains of the dike extends to the
+east.
 ~
 21 0 0 0 0 2
 D1
+The dike continues eastward.
 ~
 ~
 0 0 2124
 D9
+Down the dike, a decrepit farmhouse stands.
 ~
 ~
 0 0 2121
 S
 #2124
 Ferrycourse Fen - Broken Dike~
-You are in an unfinished room.
+   What remains of the levee is most solid along this stretch, aside from a few
+narrow points and one especially large rent that requires jumping over.  The
+view is broad but dreary, as the rotting wasteland fully encompasses the raised
+bar of land.  Here and there, evidence points towards this area having been
+inhabited - perhaps the word Ferrycourse wasn't always a byword for wasteland.
 ~
 21 0 0 0 0 2
 D1
+The dike continues before ending abruptly.
 ~
 ~
 0 0 2125
 D3
+The dike continues straight.
 ~
 ~
 0 0 2123
 S
 #2125
 Ferrycourse Fen - Broken Dike~
-You are in an unfinished room.
+   The beginnings of a short dike lead west from here, offering a welcome change
+from mucking about in the swamp.  Curiously, a straggly rose bush clings to the
+side of the grade and, though lacking any flowers, is still fully possessed of
+its thorns.
 ~
 21 0 0 0 0 2
 D3
+The dike continues on unimpeded.
 ~
 ~
 0 0 2124
 D5
+The swampwater swirls slowly.
 ~
 ~
 0 0 2126
 S
 #2126
 Ferrycourse Fen - Marshland~
-You are in an unfinished room.
+   Some hidden current in the bog has created an eddy in the center of one of
+the pools, and the swirling pattern of duckweed and algae forms an even spiral
+that perhaps should not be stared at for long.
 ~
 21 0 0 0 0 3
 D1
+The swamp continues, and in the distance is a road.
 ~
 ~
 0 0 2114
 D6
+A path leads up to a dike that continues on west.
 ~
 ~
 0 0 2125
 S
 #2127
 Ferrycourse Fen - Derelict Road~
-You are in an unfinished room.
+   Trampled grass and footprints lead off the road to the north, narrowing
+between massive clusters of reeds before disappearing in the mist.  The prints
+aren't readily discernibly humanoid, though the size and shape are about right.
+Meanwhile, the path into the reeds looks far more worn than the road itself.
 ~
 21 0 0 0 0 2
 D0
+A trail disappears in the bog.
 ~
 ~
 0 0 2142
 D6
+The road continues on.
 ~
 ~
 0 0 2128
 D8
+The road continues unabated.
 ~
 ~
 0 0 2113
 S
 #2128
 Ferrycourse Fen - Derelict Road~
-You are in an unfinished room.
+   A lengthy depression in the road has succumbed to the fen, and anyone on foot
+will now have to trudge some ways in a stomach-turning soup of uncertain depth.
+Yet the road continues on in the same unswerving manner at either end.
 ~
 21 0 0 0 0 3
 D6
+The road seems to end some ways ahead.
 ~
 ~
 0 0 2129
 D8
+The road continues with twist nor turn.
 ~
 ~
 0 0 2127
 S
 #2129
 Ferrycourse Fen - Derelict Road~
-You are in an unfinished room.
+   The bog wholly swallows the road here, leaving no proper passage to the
+northwest along its original course.  The continuance of the road can be made
+out in the distance, though the broad, deep-looking pond looks too wide here to
+cross directly.  Consequently, a makeshift trail leads off along a somewhat dry
+course to the northeast.
 ~
 21 0 0 0 0 3
 D7
+The trail wends along the water.
 ~
 ~
 0 0 2130
 D8
+The road is straight and unending.
 ~
 ~
 0 0 2128
 S
 #2130
 Ferrycourse Fen - Marshy Trail~
-You are in an unfinished room.
+   Hopping about from tuft to tuft, the trail does its best to avoid any
+dead-ends.  Occasionally the trail is lost, covered by recalcitrant moss or the
+misleading branch, but with some effort progress is possible.
 ~
 21 0 0 0 0 3
 D1
+The trail is rough and disappears into the water at points.
 ~
 ~
 0 0 2131
 D9
+The trail meets the road.
 ~
 ~
 0 0 2129
 S
 #2131
 Ferrycourse Fen - Marshy Trail~
-You are in an unfinished room.
+   Either by design or by mistake, the trail ends on banks beside a deep arm of
+the pond, meaning a swim across is in order to proceed.  On either bank are
+branches very deliberately planted in the mud, so as to formally mark the
+crossing.  The branches bring some confidence in the way, though barely.
 ~
 21 0 0 0 0 6
 D0
+The trail twists and turns among the grasses.
 ~
 ~
 0 0 2132
 D3
+Here and there, the trail can be made out.
 ~
 ~
 0 0 2130
 S
 #2132
 Ferrycourse Fen - Marshy Trail~
-You are in an unfinished room.
+   Bending around a crook in the pond, the trail continues through the fen.  In
+the right spot, both sides of the main road can be seen to the west, divided by
+the waste in between.
 ~
 21 0 0 0 0 3
 D2
+A giant puddle of water stands in the midst of the trail.
 ~
 ~
 0 0 2131
 D6
+A big expanse of mud makes the trail hard to track.
 ~
 ~
 0 0 2133
 S
 #2133
 Ferrycourse Fen - Marshy Trail~
-You are in an unfinished room.
+   The trail disappears in a wide expanse of plain mud, making a clear route
+impossible to follow.  The options include trails to the west and southeast that
+follow along the pond's edge, and another faint track to the east that passes
+through some low shrubs.
 ~
 21 0 0 0 0 3
 D1
+
+A way through the reeds and muck is visible for a short distance.
 ~
 ~
 0 0 2158
 D3
+A tree leans across the trail.
 ~
 ~
 0 0 2134
 D8
+The trail skirts the pond.
 ~
 ~
 0 0 2132
 S
 #2134
 Ferrycourse Fen - Marshy Trail~
-You are in an unfinished room.
+   The trail splits into two and merges again on the other side of a large tree
+trunk that leans dismally across one path towards the pond.  
 ~
 21 0 0 0 0 3
 D1
+The trail gets lost in the mud.
 ~
 ~
 0 0 2133
 D9
+The trail meets up with the road.
 ~
 ~
 0 0 2135
 S
 #2135
 undefined~
-You are in an unfinished room.
+   Spreading out across the fen, a dark, broad pond cuts the Ferrycourse from
+proceeding any further southwards.  The remains of a wooden bridge slump into
+the murk, and stones from the foundation of the bridge are sliding into the
+slough.  The road continues dutifully northwest.
 ~
 21 0 0 0 0 3
 D6
+Beside the road is a rotting building.
 ~
 ~
 0 0 2136
 D7
+A trail winds along the waterside.
 ~
 ~
 0 0 2134
 S
 #2136
 Ferrycourse Fen - Derelict Road~
-You are in an unfinished room.
+   Just a short distance off the road, a squat structure stands starkly against
+the surrounding waste.  Just to the side and above a gaping doorway is an iron
+post, from which possibly a sign hung in the brighter past.  Beside the
+building, the splinters and iron hoops of several shattered casks have been
+piled and burned, as much as can be in a bog anyway.
 ~
 21 0 0 0 0 3
 D6
+The road looks as rough as ever.
 ~
 ~
 0 0 2138
 D8
+The road ends at the water's edge.
 ~
 ~
 0 0 2135
 D9
+The inside of the building is too dark to see.
 ~
 ~
 0 0 2137
 S
 #2137
 Ferrycourse Fen - Rotting Tavern~
-You are in an unfinished room.
+   Unsurprisingly, the inside of the old tavern has been thoroughly thrashed by
+time.  Sagging in the center, the roof looks just one more storm away from
+finally collapsing into the room's center.  Broken crockware, table legs and
+similar debris mingle with several inches of mud creeping in from the doorway
+and windows.  In one of the corners is some dirty, matted straw on which sit
+some rags and fish bones.
 ~
 21 8 0 0 0 0
 D7
+The road runs alongside the building.
 ~
 ~
 0 0 2136
 S
 #2138
 Ferrycourse Fen - Derelict Road~
-You are in an unfinished room.
+   A small rise in the road briefly gives a few of the surroundings: the road
+continues southeast for some ways, but to the northwest appears to end at
+another pond.  From the rise, a trail leads downwards and bends again
+northwards, before becoming lost in the reeds.
 ~
 21 0 0 0 0 3
 D5
+A tiny path winds away from the road.
 ~
 ~
 0 0 2139
 D6
+The road continues on as a spit in the water.
 ~
 ~
 0 0 2141
 D8
+The road is straight and battered.
 ~
 ~
 0 0 2136
 S
 #2139
 Ferrycourse Fen - Marshy Trail~
-You are in an unfinished room.
+   Down the hill and off around the grass winds this forlorn path.  If it indeed
+leads anywhere, it is nonetheless thoroughly unused, as attested by the thick
+grass and shrubs that nearly bar the way.
 ~
 21 0 0 0 0 3
 D4
+The trail twists up to the road.
 ~
 ~
 0 0 2138
 D6
+The trail sidles up against a lake.
 ~
 ~
 0 0 2140
 S
 #2140
 Ferrycourse Fen - Dead End~
-You are in an unfinished room.
+   The trail ends unceremoniously at the edge of a wide mere.  Knotted islands
+of yellow spatterdock float by serenely, their swollen petals as big as saucers.
 ~
 21 0 0 0 0 3
 D8
+The trail hops about the swamp.
 ~
 ~
 0 0 2139
 S
 #2141
 Ferrycourse Fen - Derelict Road~
-You are in an unfinished room.
+   The road extends some distance into a broad mere, before finally submerging
+beneath the water.  A little further out, even the original foundation of the
+Ferrycourse has distintegrated, and the obvious undercurrents means swimming is
+also out of the question.  Looking across the expanse, the other end of the road
+cannot be made out.
 ~
 21 0 0 0 0 3
 D8
+The road runs straight.
 ~
 ~
 0 0 2138

@@ -34,3 +34,10 @@ SYSERR: perform_socket_read: about to lose connection: Connection timed out
 SYSERR: perform_socket_read: about to lose connection: Connection timed out
 SYSERR: perform_socket_read: about to lose connection: Connection timed out
 SYSERR: gethostbyaddr: Success
+Jan 25 11:06:26      :: SYSERR: Received SIGHUP, SIGINT, or SIGTERM.  Shutting down...
+Jan 25 20:08:30      :: SYSERR: Received SIGHUP, SIGINT, or SIGTERM.  Shutting down...
+SYSERR: gethostbyaddr: Success
+SYSERR: gethostbyaddr: Success
+SYSERR: gethostbyaddr: Success
+SYSERR: gethostbyaddr: Success
+SYSERR: gethostbyaddr: Success

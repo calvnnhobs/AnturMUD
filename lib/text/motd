@@ -1,11 +1,17 @@
-NEW FEATURES:
-
-1/23/2017
-* Prompt will now display MaxHit, MaxMana and MaxMove (if toggled)
-* Prompt will optionally display enemy's condition (do 'prompt all' or 'prompt hmvc')
-* Type 'help condition' to see how condition and HP percentage are correlated
-* 'say' verb now displays in cyan when you use normal or complete color modes
-
-1/24/2017
-* 'score' enhanced to display stats, regen rates and other helpful info. Up for feedback
-* worn containers can now be accessed directly ('put' and 'get' will work)
+1/27/2017
+* Quests are now available from Vretiel at the Barleywine League's main office, just
+  southeast of Market Square. The 'quest' verb is used for all quest-related actions,
+  such as list (done in the presence of Vretiel), join, progress, leave, and history.
+  More quests will be added as I have time. Eventually, the League storeroom will
+  have a shopkeeper to consume your accumulating questpoints. Feedback is welcome.
+* As of noon today, the current available quests are few and benign, but I'm aiming
+  to add more as the weekend progresses!
+* Quest completed messages should now appear in Magenta.
+* When a mob flees, you can now see which direction (you always could actually,
+  EXCEPT when a mob could sneak. But they're not sneaking if they're fleeing!
+* The timeout during login has been extended to 60 seconds (though in testing it was
+  more like two minutes).
+* Shorthand diagonal directions should now work for look and dig. If you find a
+  short direction like 'nw' or 'sw' isn't working, let me know.
+* Typing 'where' in displays your current area, and will now also show the level
+  range for that area.
