@@ -38,7 +38,7 @@ max_npc_corpse_time = 5
 max_pc_corpse_time = 10
 
 * Number of tics before a PC is sent to the void.
-idle_void = 8
+idle_void = 10
 
 * Number of tics before a PC is autorented.
 idle_rent_time = 48
@@ -109,10 +109,10 @@ auto_save = 1
 autosave_time = 5
 
 * Lifetime of crashfiles and force-rent (idlesave) files in days.
-crash_file_timeout = 10
+crash_file_timeout = 20
 
 * Lifetime of normal rent files in days.
-rent_file_timeout = 30
+rent_file_timeout = 60
 
 
 
@@ -179,7 +179,7 @@ Welcome to tbaMUD!
 @(2@)) Enter description.
 @(3@)) Read the background story.
 @(4@)) Change password.
-@(5@)) Delete this character.
+@(5@)) Delete Jonthax's character.
 
    Make your choice: ~
 
