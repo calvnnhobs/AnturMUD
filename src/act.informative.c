@@ -867,6 +867,7 @@ ACMD(do_score)
   /* end of alignment score code */
 
   /* start armor class score code */
+  send_to_char(ch, "AC: %.1f - ", (float)compute_armor_class(ch)/10);
   if (compute_armor_class(ch) <= -86 && compute_armor_class(ch) >= -100 )
 	      send_to_char(ch, "You are indestructible\r\n");
   if (compute_armor_class(ch) <= -71 && compute_armor_class(ch) >= -85)

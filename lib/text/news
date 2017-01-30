@@ -22,3 +22,4 @@
 1/29/2017
 * New wear slot: BACK. Only one item exists for this slot, a leather backpack from the
   General Store in Midgaard. Also notable as Pat's first code contribution!
+* 'score' now provides actual AC score (range is -10 to 10)
