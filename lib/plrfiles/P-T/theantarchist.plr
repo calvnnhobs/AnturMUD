@@ -9,7 +9,7 @@ Levl: 9
 Id  : 6
 Brth: 1484710457
 Plyd: 55953
-Last: 1485754032
+Last: 1485755902
 Lmot: 1485749362
 Lnew: 1485749367
 Host: 70-36-215-128.dsl.dynamic.sonic.net
@@ -22,10 +22,10 @@ Pref: efghnoACDEF c 0 0
 Wimp: 14
 Room: 3001
 Lern: 9
-Hung: 24
-Thir: 16
+Hung: 21
+Thir: 13
 Hit : 62/62
-Mana: 148/155
+Mana: 152/155
 Move: 95/95
 Str : 12/0
 Int : 17
@@ -52,7 +52,8 @@ Skil:
 50 95
 0 0
 Affs:
-1 17 -20 17 0 0 0 0
+50 20 0 0 2048 0 0 0
+1 14 -20 17 0 0 0 0
 0 0 0 0 0 0 0 0
 Vars: 1
 teleporter_return_room 0 4413

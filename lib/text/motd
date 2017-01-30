@@ -1,22 +1,3 @@
-1/27/2017
-* Quests are now available from Vretiel at the Barleywine League's main office, just
-  southeast of Market Square. The 'quest' verb is used for all quest-related actions,
-  such as list (done in the presence of Vretiel), join, progress, leave, and history.
-  More quests will be added as I have time. Eventually, the League storeroom will
-  have a shopkeeper to consume your accumulating questpoints. Feedback is welcome.
-  One additional note: repeatable quests will not show in your history.
-* As of noon today, the current available quests are few and benign, but I'm aiming
-  to add more as the weekend progresses!
-* Quest completed messages should now appear in Magenta.
-* When a mob flees, you can now see which direction (you always could actually,
-  EXCEPT when a mob could sneak. But they're not sneaking if they're fleeing!
-* The timeout during login has been extended to 60 seconds (though in testing it was
-  more like two minutes).
-* Shorthand diagonal directions should now work for look and dig. If you find a
-  short direction like 'nw' or 'sw' isn't working, let me know.
-* Typing 'where' in displays your current area, and will now also show the level
-  range for that area.
-* Added social SQUINT
-
-1/28/2017
-* Gisper will now exchange items for quest points in the Barleywine League's storeroom.
+1/29/2017
+* New wear slot: BACK. Only one item exists for this slot, a leather backpack from the
+  General Store in Midgaard. Also notable as Pat's first code contribution!

@@ -174,3 +174,15 @@ Jan 25 11:24:03      :: nusage: 1   sockets connected, 1   sockets playing
 Jan 25 11:29:03      :: nusage: 1   sockets connected, 1   sockets playing
 Binary file syslog matches
 Binary file syslog matches
+Jan 27 12:16:55 f T  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 27 12:53:11      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 27 13:03:53 `-h :: nusage: 1   sockets connected, 1   sockets playing
+Jan 27 13:08:53 `-h :: nusage: 1   sockets connected, 1   sockets playing
+Jan 27 13:13:53 `-h :: nusage: 1   sockets connected, 1   sockets playing
+Jan 27 13:18:53 `-h :: nusage: 1   sockets connected, 1   sockets playing
+Jan 27 13:23:53 `-h :: nusage: 1   sockets connected, 1   sockets playing
+Jan 27 13:42:05 `-h :: nusage: 2   sockets connected, 2   sockets playing
+Jan 27 13:47:06      :: nusage: 2   sockets connected, 2   sockets playing
+Jan 27 13:52:06      :: nusage: 2   sockets connected, 2   sockets playing
+Jan 27 13:57:05      :: nusage: 1   sockets connected, 1   sockets playing
+Binary file syslog matches

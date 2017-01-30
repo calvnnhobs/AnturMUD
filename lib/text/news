@@ -17,3 +17,8 @@
 * Typing 'where' in displays your current area, and will now also show the level
   range for that area.
 * Added social SQUINT
+1/28/2017
+* Gisper will now exchange items for quest points in the Barleywine League's storeroom.
+1/29/2017
+* New wear slot: BACK. Only one item exists for this slot, a leather backpack from the
+  General Store in Midgaard. Also notable as Pat's first code contribution!

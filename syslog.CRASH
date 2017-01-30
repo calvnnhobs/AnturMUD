@@ -1,30 +1,30 @@
-Jan 27 11:55:32      :: OLC: Klakdor starts editing zone 30 allowed zone 0
-Jan 27 11:55:45 ) [ :: OLC: Klakdor stops editing zone 30 allowed zone 0
-Jan 27 11:55:48 €­û :: OLC: Klakdor starts editing zone 30 allowed zone 0
-Jan 27 11:55:59     :: OLC: Klakdor stops editing zone 30 allowed zone 0
-Jan 27 11:56:03      :: OLC: Klakdor starts editing zone 30 allowed zone 0
-Jan 27 11:59:03      :: nusage: 2   sockets connected, 2   sockets playing
-Jan 27 12:00:46      :: OLC: Klakdor edits quest 3002
-Jan 27 12:00:46    :: GenOLC: save_quests: Saving quests in zone #30 (3000-3099).
-Jan 27 12:00:46      :: OLC: Klakdor stops editing zone 30 allowed zone 0
-Jan 27 12:03:50      :: OLC: Klakdor starts editing zone 30 allowed zone 0
-Jan 27 12:04:03      :: nusage: 2   sockets connected, 2   sockets playing
-Jan 27 12:04:19 ÿÿÿÿ :: OLC: Klakdor edits quest 3001
-Jan 27 12:04:19    :: GenOLC: save_quests: Saving quests in zone #30 (3000-3099).
-Jan 27 12:04:19      :: OLC: Klakdor stops editing zone 30 allowed zone 0
-Jan 27 12:04:22 €­û :: OLC: Klakdor starts editing zone 30 allowed zone 0
-Jan 27 12:04:36     :: OLC: Klakdor edits quest 3002
-Jan 27 12:04:36    :: GenOLC: save_quests: Saving quests in zone #30 (3000-3099).
-Jan 27 12:04:36      :: OLC: Klakdor stops editing zone 30 allowed zone 0
-Jan 27 12:09:03      :: nusage: 2   sockets connected, 2   sockets playing
-Jan 27 12:11:09      :: OLC: Klakdor saves 'text/motd'.
-Jan 27 12:11:09      :: OLC: Klakdor stops editing text files.
-Jan 27 12:11:35 ¨©/ó :: Cro has quit the game.
-Jan 27 12:11:36  25	 :: Losing player: Cro.
-Jan 27 12:11:50      :: (GC) Reboot by Klakdor.
-Jan 27 12:11:50      :: Closing all sockets.
-Jan 27 12:11:50 0    :: Closing link to: Klakdor.
-Jan 27 12:11:50      :: Saving current MUD time.
-Jan 27 12:11:50     :: Rebooting.
-Quick boot mode -- rent check supressed.
+Jan 29 22:45:01      :: Resetting #320: Yllythad Sea II (rooms 32000-32099).
+Jan 29 22:45:01      :: Resetting #321: Yllythad Sea III (rooms 32100-32199).
+Jan 29 22:45:01      :: Resetting #322: McGintey Bay (rooms 32200-32299).
+Jan 29 22:45:01      :: Resetting #323: Caverns of the Pale Man (rooms 32300-32399).
+Jan 29 22:45:01      :: Resetting #324: Army Encampment (rooms 32400-32499).
+Jan 29 22:45:01      :: Resetting #325: Revelry (rooms 32500-32599).
+Jan 29 22:45:01      :: Resetting #326: Army Perimeter (rooms 32600-32699).
+Jan 29 22:45:01      :: Resetting #343: God Complex  (rooms 34300-34399).
+Jan 29 22:45:01      :: Resetting #345: Asylum for the Insane (rooms 34500-34599).
+Jan 29 22:45:01      :: Resetting #346: God Hall Ext 346 for God Hall Cmplx (rooms 34600-34699).
+Jan 29 22:45:01      :: Resetting #555: Ultima (rooms 55500-55599).
+Jan 29 22:45:01      :: Resetting #556: Ultima II (rooms 55600-55699).
+Jan 29 22:45:01      :: Resetting #653: Apartment (rooms 65300-65399).
+Jan 29 22:45:01      :: Resetting #654: Subdivision (rooms 65400-65499).
+Jan 29 22:45:01      :: Boot db -- DONE.
+Jan 29 22:45:01     :: Signal trapping.
+Jan 29 22:45:01      :: Copyover recovery initiated
+Jan 29 22:45:01 0    :: Klakdor un-renting and entering game.
+Jan 29 22:45:01      :: Klakdor (level 34) has 13 objects (max 60).
+Jan 29 22:45:01 ZZZZ :: Entering game loop.
+Jan 29 22:45:10 ¥’P  :: OLC: Klakdor starts editing zone 30 allowed zone 0
+Jan 29 22:45:17      :: OLC: Klakdor stops editing zone 30 allowed zone 0
+Jan 29 22:45:33      :: OLC: Klakdor starts editing zone 30 allowed zone 0
+Jan 29 22:45:47      :: OLC: Klakdor stops editing zone 30 allowed zone 0
+Jan 29 22:45:50      :: (GC) Reboot by Klakdor.
+Jan 29 22:45:50 ZZZZ :: Closing all sockets.
+Jan 29 22:45:50 0    :: Closing link to: Klakdor.
+Jan 29 22:45:50      :: Saving current MUD time.
+Jan 29 22:45:50     :: Rebooting.
 Using file descriptor for logging.

@@ -255,3 +255,5 @@ Jan 25 15:59:22     :: OLC: Klakdor edits room 2141.
 Jan 25 15:59:22      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
 Jan 25 15:59:22      :: OLC: Klakdor stops editing zone 21 allowed zone 0
 Binary file syslog matches
+Jan 27 12:12:25 Bhg :: OLC: Klakdor starts editing zone 30 allowed zone 0
+Binary file syslog matches

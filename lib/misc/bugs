@@ -8,3 +8,15 @@ Level     8
 Room      2135
 Flags     1 0 0 0
 End
+Text       curse items~
+Body      Can't drop or junk item because it's cursed, but can sell it for a profit.
+Possibly ok, since I don't see a way to uncurse without being a high level Cleric.
+Aard had a char in the temple you could say 'heal uncurse' to pay to uncurse, unblind, etc.
+~
+Name      TheAntarchist~
+IdNum     6
+Dated     1485755936
+Level     9
+Room      3001
+Flags     0 0 0 0
+End
