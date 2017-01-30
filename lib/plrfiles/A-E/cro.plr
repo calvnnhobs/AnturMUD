@@ -1,49 +1,59 @@
 Name: Cro
 Pass: CrR04Lah/L7P.
-Titl: the Delveress in Spells
+Titl: the Seeress
 Sex : 2
-Levl: 4
+Levl: 7
 Id  : 3
 Brth: 1484437917
-Plyd: 24945
-Last: 1485560493
-Lmot: 1485547874
-Lnew: 1485232544
+Plyd: 33364
+Last: 1485727971
+Lmot: 1485647370
+Lnew: 1485647368
 Host: apierce160725
 Hite: 158
 Wate: 120
-Alin: 33
+Alin: 5
 Act : gh 0 0 0
 Aff : 0 0 0 0
-Pref: efghnoABCDE c 0 0
-Room: 3001
-Lern: 29
-Hit : 31/31
-Mana: 109/109
-Move: 97/87
-Str : 11/0
-Int : 13
-Wis : 13
-Dex : 12
-Con : 11
-Cha : 10
+Pref: efghnoABCDEF c 0 0
+Room: 3019
+Lern: 57
+Hung: 22
+Thir: 22
+Hit : 28/47
+Mana: 132/136
+Move: 90/80
+Str : 14/0
+Int : 16
+Wis : 16
+Dex : 14
+Con : 13
+Cha : 13
 Ac  : 100
-Gold: 353
-Exp : 19991
+Gold: 2044
+Exp : 60000
 Olc : 0
-Qstp: 1
+Qstp: 3
 Qest:
 100
 3001
 3002
+3005
+3006
 65535
 Skil:
+1 25
 8 95
 19 95
 20 95
 32 95
+37 40
 50 95
 0 0
+Affs:
+39 6 1 1 0 0 0 0
+1 22 -20 17 0 0 0 0
+0 0 0 0 0 0 0 0
 Vars: 2
-teleporter_return_room 0 3577
 solved_example_quest_zone_0 0 1
+teleporter_return_room 0 4615

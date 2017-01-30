@@ -8,18 +8,18 @@ Clas: 3
 Levl: 34
 Id  : 1
 Brth: 1466036640
-Plyd: 289304
-Last: 1485560623
-Lmot: 1485558594
-Lnew: 1485216887
-Host: apierce160725
+Plyd: 324273
+Last: 1485729010
+Lmot: 1485625023
+Lnew: 1485623823
+Host: 99-75-92-88.lightspeed.sntcca.sbcglobal.
 Hite: 192
 Wate: 157
 Alin: -189
-Act : g 0 0 0
+Act : 0 0 0 0
 Aff : 0 0 0 0
 Pref: efghimnovzACDE c 0 0
-Room: 3005
+Room: 65535
 Hit : 500/500
 Mana: 500/500
 Move: 500/490
@@ -30,7 +30,7 @@ Dex : 25
 Con : 25
 Cha : 25
 Ac  : 100
-Gold: 12453
+Gold: 12456
 Bank: 3000
 Exp : 7000001
 Olc : 0
@@ -39,7 +39,10 @@ Qstp: 1
 Qest:
 3002
 65535
-Alis: 4
+Alis: 5
+ qstat
+ quest status $1
+1
  dsw
  dig southwest $1
 1

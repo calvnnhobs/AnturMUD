@@ -48,14 +48,14 @@ A magical portal leads back to Midgaard.
 ~
 0 0 3005
 E
-sign wooden~
-   Little can now be made of the crest, and similarly there is little legible on
-the sign, except for some crude remarks about the barony.
-~
-E
 tent billow billowing~
    The tent bears wide vertical stripes of various hues.  The look is garish but
 succeeds in drawing attention.
+~
+E
+sign wooden~
+   Little can now be made of the crest, and similarly there is little legible on
+the sign, except for some crude remarks about the barony.
 ~
 S
 #2102
@@ -258,20 +258,20 @@ Up a squat bluff the trail leads.
 ~
 0 0 2110
 E
-rock rocks ring firepit fire pit~
-Charred remains and refuse, while not fresh, still appear fresh enough to indicate the last visitors were here recently.
-~
-E
-river prif~
-The mouth of the river is wide, and even from here, several small boats can be seen.
+bay firth~
+The bay itself seems relatively calm, though the water is choppier out aways.
 ~
 E
 mountains~
 Its hard to tell from here, but it seems some of the furthest peaks have snow. The outlines of foothills can barely be made out.
 ~
 E
-bay firth~
-The bay itself seems relatively calm, though the water is choppier out aways.
+river prif~
+The mouth of the river is wide, and even from here, several small boats can be seen.
+~
+E
+rock rocks ring firepit fire pit~
+Charred remains and refuse, while not fresh, still appear fresh enough to indicate the last visitors were here recently.
 ~
 S
 #2112
@@ -743,7 +743,7 @@ The trail meets up with the road.
 0 0 2135
 S
 #2135
-undefined~
+Ferrycourse Fen - Derelict Road~
    Spreading out across the fen, a dark, broad pond cuts the Ferrycourse from
 proceeding any further southwards.  The remains of a wooden bridge slump into
 the murk, and stones from the foundation of the bridge are sliding into the

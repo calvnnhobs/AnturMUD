@@ -1,32 +1,32 @@
 Name: TheAntarchist
 Pass: ThdGxwGtxVklg
-Titl: the Medium of Magic
+Titl: the Illusionist
 Desc:
 At first glance he's clearly evil. Then he seems not evil, just chaotic. Upon further study you realize, dude just likes the snow.
 ~
 Sex : 1
-Levl: 5
+Levl: 9
 Id  : 6
 Brth: 1484710457
-Plyd: 16738
-Last: 1485495751
-Lmot: 1484710786
-Lnew: 1485492828
+Plyd: 55953
+Last: 1485754032
+Lmot: 1485749362
+Lnew: 1485749367
 Host: 70-36-215-128.dsl.dynamic.sonic.net
 Hite: 199
 Wate: 126
-Alin: 214
+Alin: 464
 Act : gh 0 0 0
 Aff : 0 0 0 0
-Pref: efghnoADE 0 0 0
-Wimp: 8
-Room: 3005
-Lern: 12
-Hung: 23
-Thir: 11
-Hit : 38/38
-Mana: 117/117
-Move: 90/90
+Pref: efghnoACDEF c 0 0
+Wimp: 14
+Room: 3001
+Lern: 9
+Hung: 24
+Thir: 16
+Hit : 62/62
+Mana: 148/155
+Move: 95/95
 Str : 12/0
 Int : 17
 Wis : 16
@@ -34,11 +34,25 @@ Dex : 15
 Con : 10
 Cha : 8
 Ac  : 100
-Gold: 1773
-Exp : 37796
+Gold: 5155
+Bank: 10000
+Exp : 142221
 Olc : 0
+Qstp: 5
+Qest:
+3001
+3002
+65535
 Skil:
+1 95
+19 95
+31 95
 32 95
+39 95
+50 95
 0 0
+Affs:
+1 17 -20 17 0 0 0 0
+0 0 0 0 0 0 0 0
 Vars: 1
-teleporter_return_room 0 18637
+teleporter_return_room 0 4413

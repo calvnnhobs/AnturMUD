@@ -112,4 +112,18 @@ emote gestures for you to sit down.
 wait 2 s
 emote smiles happily.
 ~
+#585
+Danish Pastry - Arthur 585~
+0 j 100
+~
+if %object.vnum% == 3011
+  wait 1 s
+  beam
+  wait 1 s
+  %purge% %object%
+  emote munches a danish pastry contentedly.
+  wait 1 s
+  say Much obliged!
+end
+~
 $~

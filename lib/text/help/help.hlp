@@ -1938,6 +1938,18 @@ command.  Useful if you have a small display.
 
 See also: BRIEF
 #0
+CONDITION
+
+Percent of hitpoints: Condition
+100: excellent condition
+ 90: few scratches
+ 75: small wounds and bruises
+ 50: quite a few wounds
+ 30: nasty wounds and scratches
+ 15: pretty hurt
+  0: awful condition
+ -1: bleeding awfully
+#0
 CONSIDER
 
 Usage: consider [target]
@@ -13569,16 +13581,8 @@ zlock - Locks one or all zones. Type zlock for usage.
 zunlock - Locks one or all zones. Type zunlock for usage. 
 
 #31
-CONDITION
+SQUINT
 
-Percent of hitpoints: Condition
-100: excellent condition
- 90: few scratches
- 75: small wounds and bruises
- 50: quite a few wounds
- 30: nasty wounds and scratches
- 15: pretty hurt
-  0: awful condition
- -1: bleeding awfully
+Squint at people and things.
 #0
 $~

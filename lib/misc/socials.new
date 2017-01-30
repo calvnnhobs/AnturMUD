@@ -6043,6 +6043,21 @@ $n fondly squeezes your $t.
 You squeeze $p.
 $n squeezes $p.
 
+~squint squint 1 5 0 0
+You squint.
+$n squints.
+You squint at $N.
+$n squints at $N.
+$n squints at you.
+You cannot squint and someone or something that isn't here!
+You squint at yourself.
+$n squints at $mself.
+#
+#
+#
+You squint at $p.
+$n squints at $p.
+
 ~stare stare 0 5 0 0
 You stare at the sky.
 $n stares at the sky.

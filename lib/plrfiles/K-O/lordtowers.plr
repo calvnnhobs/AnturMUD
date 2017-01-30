@@ -1,0 +1,40 @@
+Name: LordTowers
+Pass: LoxxjDwcQoPps
+Titl: the Novice
+Sex : 1
+Clas: 1
+Levl: 4
+Id  : 9
+Brth: 1485718727
+Plyd: 4479
+Last: 1485723206
+Host: c-73-158-209-100.hsd1.ca.comcast.net
+Hite: 188
+Wate: 133
+Alin: 250
+Act : h 0 0 0
+Aff : 0 0 0 0
+Pref: efghnoABCDEF bc 0 0
+Room: 65535
+Hit : 36/36
+Mana: 111/111
+Move: 88/88
+Str : 12/0
+Int : 12
+Wis : 13
+Dex : 11
+Con : 10
+Cha : 8
+Ac  : 100
+Gold: 456
+Bank: 300
+Exp : 11892
+Olc : 0
+Skil:
+1 50
+12 50
+13 50
+16 50
+0 0
+Vars: 1
+teleporter_return_room 0 3005

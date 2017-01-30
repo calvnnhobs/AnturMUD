@@ -6,24 +6,24 @@ Clas: 1
 Levl: 8
 Id  : 4
 Brth: 1484454894
-Plyd: 43003
-Last: 1485557826
-Lmot: 1485554319
-Lnew: 1485290209
+Plyd: 46588
+Last: 1485754308
+Lmot: 1485670944
+Lnew: 1485671393
 Host: static-astound-64-85-235-35.ca.astound.n
 Hite: 198
 Wate: 157
-Alin: 397
-Act : gh 0 0 0
+Alin: 340
+Act : h 0 0 0
 Aff : 0 0 0 0
-Pref: efghnoADF bc 0 0
+Pref: efghjnoADF bc 0 0
 Wimp: 20
-Room: 15066
+Room: 65535
 Lern: 7
-Hung: 1
-Thir: 7
+Hung: 21
+Thir: 19
 Hit : 73/73
-Mana: 106/144
+Mana: 119/144
 Move: 93/93
 Str : 13/0
 Int : 14
@@ -32,15 +32,17 @@ Dex : 13
 Con : 11
 Cha : 8
 Ac  : 100
-Gold: 1109
+Gold: 2202
 Bank: 2500
-Exp : 127583
+Exp : 146427
 Olc : 0
 Qstp: 1
+Qcnt: 1
 Qest:
 3001
 3002
 65535
+Qcur: 3003
 Skil:
 1 95
 3 90
@@ -52,11 +54,10 @@ Skil:
 50 90
 0 0
 Affs:
-18 20 0 0 8 0 0 0
-3 6 -1 24 0 0 0 0
-3 6 2 18 0 0 0 0
-34 10 0 0 8192 0 0 0
-1 17 -20 17 0 0 0 0
+18 9 0 0 8 0 0 0
+1 13 -20 17 0 0 0 0
+3 3 2 18 0 0 0 0
+3 3 -1 24 0 0 0 0
 0 0 0 0 0 0 0 0
 Vars: 1
-teleporter_return_room 0 3624
+teleporter_return_room 0 3611

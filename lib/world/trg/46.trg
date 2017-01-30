@@ -2,10 +2,10 @@
 Exit Anthill - 4600, 4627~
 2 c 100
 out~
-wait 2
+wait 2 s
 %send% %actor% You make your way out off the anthill
 %echoaround% %actor% %actor.name% leaves out.
-%teleport% %actor% 3229
+%teleport% %actor% 3065
 %force% %actor% look
 %echoaround% %actor% %actor.name% just crawled out of the anthill.
 ~

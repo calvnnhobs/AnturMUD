@@ -1,7 +1,10 @@
 #30
 DikuMUD~
 Northern Midgaard~
-3000 3099 15 2 d 0 0 0 1 33
+3000 3099 15 2 d 0 0 0 1 34
+M 0 3020 1 3019 	(the mages' guildmaster)
+M 0 3077 1 3068 	(Gisper)
+G 1 3068 100 -1 	(a scroll of identify)
 M 0 3076 1 3067 	(Vretiel)
 R 0 3000 3006 -1 	(the teleporter)
 O 0 3006 99 3000 	(the teleporter)
@@ -122,7 +125,6 @@ G 1 3060 20 -1 	(a raft)
 G 1 3061 10 -1 	(a canoe)
 M 0 3007 1 3050 	(the sailor)
 M 0 3010 1 3062 	(the postmaster)
-M 0 3020 1 3019 	(the mages' guildmaster)
 M 0 3021 1 3002 	(the priests' guildmaster)
 M 0 3022 1 3029 	(the thieves' guildmaster)
 M 0 3023 1 3023 	(the fighters' guildmaster)

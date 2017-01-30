@@ -27,4 +27,80 @@ You have abandoned the quest.
 1 0 0 34 -1 -1 1
 0 0 65535
 S
+#3003
+Dispel the Shaman~
+Dispel the orc shaman~
+Midgaard is under siege from the Orc Camp, and we have a hunch that eliminating
+the orc shaman there will hamper their efforts.
+~
+Quest Completed! Midgaard is a little safer.
+~
+You have abandoned the quest.
+~
+3 3076 a 4407 -1 -1 -1
+2 0 0 34 60 -1 1
+0 0 65535
+S
+#3004
+Demonic Bear Problem~
+That demonic bear problem~
+Druids from the forest of Domiae have reported demonically-possessed bears, and
+the baron's royal hunting team desperately wants it cleared out as soon as
+possible.  Please kill two of the bears, and keep any treasure you find along
+the way.
+~
+Quest Completed! See, that wasn't so bad, was it?
+~
+You have abandoned the quest.
+~
+3 3076 0 9626 -1 -1 -1
+5 0 0 34 60 -1 2
+0 200 65535
+S
+#3005
+Thumb Ring~
+Bring to me a ring~
+Far away is a gypsy festival that townsfolk here have been calling the Revelry.
+It sounds like hogwash to me ...  But, you see, there's a ring I've seen that's
+caught my fancy.  Its made of pewter and is specially formed to fit on a thumb.
+One of the gypsy shopkeepers is selling it.  Buy it and bring it to me, and I'll
+reward you ten times over!
+~
+Quest Completed! Thank you for the ring!
+~
+You have abandoned the quest.
+~
+5 3076 0 32567 -1 -1 -1
+0 0 0 34 60 3076 1
+3000 500 65535
+S
+#3006
+Visit Arthur~
+Send my regards to Arthur~
+Out at the newbie farm is my dear friend, a hunter named Arthur.  He was once a
+guard here in Midgaard, but now watches over the farm as protection.  Please
+fetch him a danish from the bakery here in town.  And be sure to say, "hi" for
+me!
+~
+Quest Completed! Capital fellow, isn't he?
+~
+You have abandoned the quest.
+~
+5 3076 0 3011 -1 -1 -1
+2 0 0 34 60 584 1
+0 500 65535
+S
+#3007
+Monastery Rats~
+Monastery with a rat problem~
+We've reports from Monastery Omega about a bit of a rat problem - huge rats, actually, as big as bears. Clear out the rats posthaste!
+~
+Quest Completed! You dirty rat...
+~
+You have abandoned the quest.
+~
+3 3076 a 11510 -1 -1 -1
+3 0 0 10 30 -1 3
+0 0 65535
+S
 $~

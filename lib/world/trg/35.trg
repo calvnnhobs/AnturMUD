@@ -18,4 +18,12 @@ else
   nop %actor.gold(%value%)%
 end
 ~
+#3506
+slapped bard~
+0 e 0
+slaps you.~
+weep
+wait 1 s
+say Send my regards to Vretiel...
+~
 $~
