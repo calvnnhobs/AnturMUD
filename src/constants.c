@@ -347,7 +347,8 @@ const char *wear_where[] = {
   "<worn around wrist>  ",
   "<worn around wrist>  ",
   "<wielded>            ",
-  "<held>               "
+  "<held>               ",
+  "<worn on back>       "
 };
 
 /* Describes where an item can be worn.
@@ -372,6 +373,7 @@ const char *equipment_types[] = {
   "Worn around left wrist",
   "Wielded",
   "Held",
+  "Worn on back",
   "\n"
 };
 
@@ -425,6 +427,7 @@ const char *wear_bits[] = {
   "WRIST",
   "WIELD",
   "HOLD",
+  "BACK",
   "\n"
 };
 
