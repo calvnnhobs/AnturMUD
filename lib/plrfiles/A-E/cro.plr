@@ -1,28 +1,27 @@
 Name: Cro
 Pass: CrR04Lah/L7P.
-Titl: the Seeress
+Titl: the Sage
 Sex : 2
-Levl: 7
+Levl: 8
 Id  : 3
 Brth: 1484437917
-Plyd: 33364
-Last: 1485727971
-Lmot: 1485647370
-Lnew: 1485647368
+Plyd: 38900
+Last: 1486015673
+Lmot: 1485799788
+Lnew: 1485796684
 Host: apierce160725
 Hite: 158
 Wate: 120
-Alin: 5
+Alin: 69
 Act : gh 0 0 0
 Aff : 0 0 0 0
-Pref: efghnoABCDEF c 0 0
-Room: 3019
-Lern: 57
-Hung: 22
-Thir: 22
-Hit : 28/47
-Mana: 132/136
-Move: 90/80
+Pref: efghnoABCDE c 0 0
+Room: 3014
+Lern: 42
+Thir: 3
+Hit : 52/52
+Mana: 146/146
+Move: 81/81
 Str : 14/0
 Int : 16
 Wis : 16
@@ -30,30 +29,37 @@ Dex : 14
 Con : 13
 Cha : 13
 Ac  : 100
-Gold: 2044
-Exp : 60000
+Gold: 2269
+Exp : 59971
 Olc : 0
-Qstp: 3
+Qstp: 13
 Qest:
 100
 3001
 3002
 3005
 3006
+3008
 65535
 Skil:
-1 25
+1 95
+5 95
 8 95
 19 95
 20 95
+29 95
+31 95
 32 95
-37 40
+37 95
+38 95
+39 95
 50 95
 0 0
-Affs:
-39 6 1 1 0 0 0 0
-1 22 -20 17 0 0 0 0
-0 0 0 0 0 0 0 0
-Vars: 2
+Vars: 7
 solved_example_quest_zone_0 0 1
-teleporter_return_room 0 4615
+teleporter_return_room 0 3011
+zn118_b 0 1
+zn118_c 0 1
+zn118_birddone 0 1
+zn118_crayondone 0 1
+zn118_crayonquest 0 1

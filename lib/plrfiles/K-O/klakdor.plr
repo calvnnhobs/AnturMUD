@@ -8,18 +8,18 @@ Clas: 3
 Levl: 34
 Id  : 1
 Brth: 1466036640
-Plyd: 353829
-Last: 1485760166
-Lmot: 1485760216
+Plyd: 372006
+Last: 1486015973
+Lmot: 1485800281
 Lnew: 1485760214
 Host: apierce160725
 Hite: 192
 Wate: 157
-Alin: -189
-Act : g 0 0 0
+Alin: -178
+Act : 0 0 0 0
 Aff : 0 0 0 0
-Pref: efghimnovACDE c 0 0
-Room: 3014
+Pref: efghimnovzACDE c 0 0
+Room: 65535
 Hit : 500/500
 Mana: 500/500
 Move: 500/490
@@ -30,30 +30,33 @@ Dex : 25
 Con : 25
 Cha : 25
 Ac  : 100
-Gold: 12464
+Gold: 3088
 Bank: 3000
-Exp : 7000001
+Exp : 7000002
 Olc : 0
 Page: 30
-Qstp: 1
+Qstp: 10
 Qest:
 3002
 65535
-Alis: 5
- qstat
- quest status $1
-1
- dsw
- dig southwest $1
-1
- dne
- dig northeast $1
+Alis: 6
+ recall
+ goto 3099
+0
+ dnw
+ dig northwest $1
 1
  dse
  dig southeast $1
 1
- dnw
- dig northwest $1
+ dne
+ dig northeast $1
+1
+ dsw
+ dig southwest $1
+1
+ qstat
+ quest status $1
 1
 Vars: 1
 tba_greeting 0 1

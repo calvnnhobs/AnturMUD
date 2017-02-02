@@ -48,14 +48,14 @@ A magical portal leads back to Midgaard.
 ~
 0 0 3005
 E
-tent billow billowing~
-   The tent bears wide vertical stripes of various hues.  The look is garish but
-succeeds in drawing attention.
-~
-E
 sign wooden~
    Little can now be made of the crest, and similarly there is little legible on
 the sign, except for some crude remarks about the barony.
+~
+E
+tent billow billowing~
+   The tent bears wide vertical stripes of various hues.  The look is garish but
+succeeds in drawing attention.
 ~
 S
 #2102
@@ -258,20 +258,20 @@ Up a squat bluff the trail leads.
 ~
 0 0 2110
 E
-bay firth~
-The bay itself seems relatively calm, though the water is choppier out aways.
-~
-E
-mountains~
-Its hard to tell from here, but it seems some of the furthest peaks have snow. The outlines of foothills can barely be made out.
+rock rocks ring firepit fire pit~
+Charred remains and refuse, while not fresh, still appear fresh enough to indicate the last visitors were here recently.
 ~
 E
 river prif~
 The mouth of the river is wide, and even from here, several small boats can be seen.
 ~
 E
-rock rocks ring firepit fire pit~
-Charred remains and refuse, while not fresh, still appear fresh enough to indicate the last visitors were here recently.
+mountains~
+Its hard to tell from here, but it seems some of the furthest peaks have snow. The outlines of foothills can barely be made out.
+~
+E
+bay firth~
+The bay itself seems relatively calm, though the water is choppier out aways.
 ~
 S
 #2112
@@ -302,7 +302,7 @@ continues straight and sad to the northwest and southeast.
 ~
 21 0 0 0 0 2
 D3
-The lane disappears continues unevenly amid the grime.
+The lane continues unevenly into the grime.
 ~
 ~
 0 0 2114
@@ -320,7 +320,7 @@ S
 #2114
 Ferrycourse Fen - Marshland~
    Disappearing beneath a deepening layer of muck, the lane from the east
-disappears into standing water.  What might have once been farmland is now
+vanishes into standing water.  What might have once been farmland is now
 overcome by brown grasses, broad lily pads and the occasional tree stump.  A
 somewhat drier way can be made out southwards, while off to the west, a long
 hill can be seen.
@@ -380,12 +380,16 @@ E
 straw reeds thatch roof homestead~
 One need only peer into one of the gaping holes to see the inside of the home has long been ransacked and reclaimed by the land.
 ~
+E
+well~
+The water inside the well looks as horrid as the water outside.
+~
 S
 #2117
 Ferrycourse Fen - Marshland~
    The land here is risen a bit above the surrounding swamp, and the grasses
 have given way briefly to dry, hard ground.  The welcome respite is used to
-wring out wet clothing, taking great care to remove the slime that slowly
+wring out wet clothing, taking extra time to remove the slime that steadily
 accumulates during a tromp through the fens.  A trail marked by green stones
 leads down from here, while the other available directions are all back into the
 mire.
@@ -421,6 +425,14 @@ Past some bushes, the rock-lined trail descends into the swamp.
 ~
 ~
 0 0 2117
+E
+dock planks~
+The first few planks look solid, but beyond that even a young child might plunge through the rotting boards.
+~
+E
+half submerged boat~
+Only the bow can be clearly seen, but from its size the boat must have been somewhat large and possibly seaworthy.
+~
 S
 #2119
 Ferrycourse Fen - Marshland~
@@ -439,6 +451,10 @@ Dry, rocky ground is this way.
 ~
 ~
 0 0 2117
+E
+orchid flower~
+The orchids star-shaped petals cluster about puffy, red lips, giving off an alluring scent.
+~
 S
 #2120
 Ferrycourse Fen - Marshland~
@@ -458,6 +474,10 @@ Amidst the standing water is a deteriorating farmhouse.
 ~
 ~
 0 0 2121
+E
+tree~
+Though the tree is rather tall, it looks to be a fruit tree of some kind.
+~
 S
 #2121
 Ferrycourse Fen - Marshland~
@@ -506,6 +526,14 @@ E
 furniture crockery~
 The splinters of a chair and shards of clay pots are mounded curiously in a corner.
 ~
+E
+iron stove~
+The stove is craftily made and even now resists rust.
+~
+E
+mattress bed~
+The bedding is absolutely filthy.
+~
 S
 #2123
 Ferrycourse Fen - Broken Dike~
@@ -525,6 +553,10 @@ Down the dike, a decrepit farmhouse stands.
 ~
 ~
 0 0 2121
+E
+moving flow water~
+The estuary to the east keeps the marsh marginally fresher here.
+~
 S
 #2124
 Ferrycourse Fen - Broken Dike~
@@ -532,7 +564,7 @@ Ferrycourse Fen - Broken Dike~
 narrow points and one especially large rent that requires jumping over.  The
 view is broad but dreary, as the rotting wasteland fully encompasses the raised
 bar of land.  Here and there, evidence points towards this area having been
-inhabited - perhaps the word Ferrycourse wasn't always a byword for wasteland.
+inhabited - perhaps the word Ferrycourse wasn't always a byword for decay.
 ~
 21 0 0 0 0 2
 D1
@@ -564,6 +596,10 @@ The swampwater swirls slowly.
 ~
 ~
 0 0 2126
+E
+straggly rose bush~
+Looking more closely, a few buds can be seen, and indeed, it appears this plant has been pruned.
+~
 S
 #2126
 Ferrycourse Fen - Marshland~
@@ -606,6 +642,10 @@ The road continues unabated.
 ~
 ~
 0 0 2113
+E
+prints tracks footprints humanoid~
+The curves and texture of the prints indicate, at the very least, that the owner was not wearing boots with soles.
+~
 S
 #2128
 Ferrycourse Fen - Derelict Road~
@@ -644,6 +684,10 @@ The road is straight and unending.
 ~
 ~
 0 0 2128
+E
+bog pond~
+The bog is still.
+~
 S
 #2130
 Ferrycourse Fen - Marshy Trail~
@@ -681,6 +725,10 @@ Here and there, the trail can be made out.
 ~
 ~
 0 0 2130
+E
+bank branches~
+The branches have been stripped of their bark, and small notches on the side form arrows pointing across the pond.
+~
 S
 #2132
 Ferrycourse Fen - Marshy Trail~
@@ -741,6 +789,10 @@ The trail meets up with the road.
 ~
 ~
 0 0 2135
+E
+large tree trunk~
+The trunk appears to be that of an oak. A particularly large branch can be seen leaning into the bog below.
+~
 S
 #2135
 Ferrycourse Fen - Derelict Road~
@@ -760,6 +812,12 @@ A trail winds along the waterside.
 ~
 ~
 0 0 2134
+E
+remains wooden bridge stones foundation~
+   The wreckage of the bridge is rather unremarkable.  What foundation remains
+hints at solid craftsmanship, with smooth cut stones evenly placed and forming a
+flush plane.
+~
 S
 #2136
 Ferrycourse Fen - Derelict Road~
@@ -785,6 +843,15 @@ The inside of the building is too dark to see.
 ~
 ~
 0 0 2137
+E
+squat structure~
+The wooden building droops considerably, and the inside is quite dark.
+~
+E
+splinters iron hoops shattered casks~
+   No inscriptions can be made out on the casks, but the residue of ale can
+still be sniffed off the boards.
+~
 S
 #2137
 Ferrycourse Fen - Rotting Tavern~
@@ -801,6 +868,14 @@ The road runs alongside the building.
 ~
 ~
 0 0 2136
+E
+broken crockware table debris~
+Nothing of use can be made out in the garbage.
+~
+E
+corner dirty matted straw rags bones~
+A bit of a nest has been formed in the corner, though looking unfit even for a farm animal.
+~
 S
 #2138
 Ferrycourse Fen - Derelict Road~
@@ -855,6 +930,10 @@ The trail hops about the swamp.
 ~
 ~
 0 0 2139
+E
+knotted islands yellow spatterdock~
+A broad platform of green pads are watched over by the bulbous sunny flowers.
+~
 S
 #2141
 Ferrycourse Fen - Derelict Road~
@@ -873,239 +952,321 @@ The road runs straight.
 S
 #2142
 Ferrycourse Fen - Marshland~
-You are in an unfinished room.
+   A battle between a birch tree and ivy wages here, with the vines and their
+innumerable tiny fingers strangling the trunk a good five meters up.  Despite
+the intrusion, the birch's top is still crowned with leaves, though the lowest
+clusters are yellow and frail.  To the east of the birch, the trail dives deeper
+into the grassland.
 ~
 21 0 0 0 0 3
 D1
+The reeds are quite thick.
 ~
 ~
 0 0 2143
 D2
+The road is just south of here.
 ~
 ~
 0 0 2127
 S
 #2143
 Ferrycourse Fen - Marshland~
-You are in an unfinished room.
+   Several trails converge here, with the westward way offering perhaps the
+easiest passage.  The other two routes seem less inviting, and dense reeds act
+like a curtain against unimpared access.
 ~
 21 0 0 0 0 3
 D2
+Tall grass obscures your view.
 ~
 ~
 0 0 2144
 D3
+The marshland continues, though more clearly.
 ~
 ~
 0 0 2142
 D7
+The reeds are quite dense.
 ~
 ~
 0 0 2155
 S
 #2144
 Ferrycourse Fen - In the Reeds~
-You are in an unfinished room.
+   Crowded bunches of bulrush and cattail leave little course but to tromp
+through the murky pools that twist to and fro.  They also prevent seeing any
+distance, which makes some of the fen's sounds and smells all the more
+mysterious.  With great care, ways can be made to the north and southeast.
 ~
-21 0 0 0 0 3
+21 1 0 0 0 3
 D0
+The path through the reeds continues.
 ~
 ~
 0 0 2143
 D8
+The swamp seems endless here.
 ~
 ~
 0 0 2145
 S
 #2145
 Ferrycourse Fen - In the Reeds~
-You are in an unfinished room.
+   The reeds have been joined by wide, towering tussocks of pampas grass, and
+their long leaves with their sharp edges cling at clothing and exposed skin with
+more than mild discomfort.
 ~
-21 0 0 0 0 3
+21 1 0 0 0 3
 D1
+Many little streams seem to meet here.
 ~
 ~
 0 0 2146
 D6
+The trail meanders around the grass and pools.
 ~
 ~
 0 0 2144
 S
 #2146
 Ferrycourse Fen - In the Reeds~
-You are in an unfinished room.
+   Numerous narrow watercourses congregate here, and for a brief time the trail
+is lost.  The air is a tad fresher here than elsewhere in the swamp, and the
+islands of cordgrass are a bit more vibrantly green as well.  With a bit of
+searching, the trail can be seen leading west and northeast respectively.
 ~
-21 0 0 0 0 3
+21 1 0 0 0 3
 D3
+Pampas grass dominates here.
 ~
 ~
 0 0 2145
 D7
+The grass grows thick again.
 ~
 ~
 0 0 2147
 S
 #2147
 Ferrycourse Fen - In the Reeds~
-You are in an unfinished room.
+   Closing in again tightly, the reeds force any passerby straight into a
+stagnant pool that quickly reveals to also be quite deep.  Low clearings in the
+grass lead in multiple directions.
 ~
-21 0 0 0 0 6
+21 1 0 0 0 6
 D0
+A branch has fallen over the trail, obscuring what lies past.
 ~
 ~
 0 0 2148
 D1
+The marshland grows a bit lighter.
 ~
 ~
 0 0 2149
 D9
+Various waterways converge here.
 ~
 ~
 0 0 2146
 S
 #2148
 Ferrycourse Fen - Nest~
-You are in an unfinished room.
+   From the south, the trail ducks under a fallen branch before ending at a
+cul-de-sac of high rush, of which some has been pressed flat and ringed by mud
+and straw, so as to form a bed.  
 ~
-21 0 0 0 0 3
+21 1 0 0 0 3
 D2
+Under a branch lies the main trail.
 ~
 ~
 0 0 2147
 S
 #2149
 Ferrycourse Fen - Marshland~
-You are in an unfinished room.
+   The fen ends here against a berm of dry land, and beyond to the south
+stretches a birch forest.  In all other directions, muddy tufts of grass form
+islands of various size in an expanse of turbid marsh water.  Although not
+clearly defined, a path leads west into taller grass, or north near a wide pool.
 ~
 21 0 0 0 0 3
 D0
+The trail loops about in the fen.
 ~
 ~
 0 0 2150
 D3
+The grass is quite high.
 ~
 ~
 0 0 2147
 D8
+A path leads up a bank to the forest's edge.
 ~
 ~
 0 0 2107
 S
 #2150
 Ferrycourse Fen - In the Reeds~
-You are in an unfinished room.
+   Off to the east, the slough gives way to a large pond, and the trail
+carefully traces a route before ending at the water's edge.  Various waterfowl
+float about or preen in the quieter corners of the fen.  The marsh seems a
+little less imposing to the south.
 ~
 21 0 0 0 0 3
 D1
+The pool looks quite deep!
 ~
 ~
 0 0 2151
 D2
+The trail winds up to a bank, an far off is a forest.
 ~
 ~
 0 0 2149
 S
 #2151
 Ferrycourse Fen - Wide Pool~
-You are in an unfinished room.
+   The pool is so deep that the bottom is pitch-black.  There is no current or
+movement, and the water is stone-cold and feels somewhat oily.
 ~
 21 0 0 0 0 6
 D3
+The trail is again on firmer ground.
 ~
 ~
 0 0 2150
 D6
+The pond widens, though looks shallower.
 ~
 ~
 0 0 2152
 S
 #2152
 Ferrycourse Fen - Wide Pool~
-You are in an unfinished room.
+   At this place, the pool is widest but also very shallow, and even slight
+disturbances to the mud below kicks up flurries of silt and darker debris that
+render the bog opaque.  A way through the water lilies comes in from the north
+before giving way to the deeper part of the pool to the south.
 ~
 21 0 0 0 0 3
 D0
+Some distance away, the trail splits in two.
 ~
 ~
 0 0 2153
 D8
+The pond looks very deep there.
 ~
 ~
 0 0 2151
 S
 #2153
 Ferrycourse Fen - Marshland~
-You are in an unfinished room.
+   A disintegrating mud-brick wall starts here and runs eastward, along which a
+well-worn path follows closely.  Where the wall ends, the path splits in two,
+running westward into tall grass, and southwards directly at an expanse of open
+water.
 ~
 21 0 0 0 0 3
 D1
+The wall and tail continue some ways.
 ~
 ~
 0 0 2157
 D2
+A shallow pond spreads in front of the trail.
 ~
 ~
 0 0 2152
 D9
+The reeds are very dense, almost impassible.
 ~
 ~
 0 0 2154
 S
 #2154
 Ferrycourse Fen - In the Reeds~
-You are in an unfinished room.
+   The pampas grass is exceptionally close together, and the utmost care is
+required to avoid troublesome scratches from the teeth-like edges of their
+leaves.  High above the tussocks, the fluffy white flowers, like feather dusters
+to the sky, stand proudly, almost mockingly of the lower beings that must crawl
+or root in the bog below.
 ~
 21 0 0 0 0 3
 D3
+Its hard to see through all the grass.
 ~
 ~
 0 0 2155
 D7
+The grass diminishes.
 ~
 ~
 0 0 2153
 S
 #2155
 Ferrycourse Fen - In the Reeds~
-You are in an unfinished room.
+   Sky-high grass establish a ring around a puddly tract of pickerelweed and
+persistent, almost frantic gadflies.  Gaps in the reeds allow a quick exit in a
+number of directions.
 ~
 21 0 0 0 0 3
 D0
+Through the grass, a dark swamp stretches out.
 ~
 ~
 0 0 2156
 D1
+Yet more grass impedes the way.
 ~
 ~
 0 0 2154
 D9
+Through the grass, more light can be seen.
 ~
 ~
 0 0 2143
 S
 #2156
 Ferrycourse Fen - Deep Pool~
-You are in an unfinished room.
+   Clumps of dead shrubbery, draped with black moss, evoke feelings of nostalgia
+and sadness in the deep, foul water.  This corner of the fen seems almost a
+physical realization of crushing depression.  Something odd seems looped around
+one of the crooked branches that prevent passage any way but southwards.
 ~
 21 0 0 0 0 3
 D2
+Dense grass and firmer grass are the only way out.
 ~
 ~
 0 0 2155
+E
+odd loops crooked branches leather saddle~
+Closer inspection reveals a leather strap, and tracing it into the pool, a saddle can be faintly made out, but retrieval of the saddle is impossible.
+~
 S
 #2157
 Ferrycourse Fen - Marshland~
-You are in an unfinished room.
+   A short muddy wall extends from the west up to an old stone post, green with
+moss.  A path that skirts the wall bends around it, turning northwest towards
+what appears to be a somewhat drier part of the fen.  The path looks fairly
+frequently used.
 ~
 21 0 0 0 0 3
 D3
+The trail parallels the wall some ways.
 ~
 ~
 0 0 2153
 D6
+The ground looks quite wet, but certainly more solid.
 ~
 ~
-0 0 2175
+0 0 2162
 S
 #2158
 Ferrycourse Fen - Peatmire~
@@ -1184,6 +1345,10 @@ D6
 ~
 ~
 0 0 2163
+D8
+~
+~
+0 0 2157
 D9
 ~
 ~
@@ -1371,9 +1536,10 @@ D7
 S
 #2175
 Ferrycourse Fen - Pounded Turf~
-You are in an unfinished room.
+   You don't think that you are not floating in nothing.  You can see
+a strange portal located above you.
 ~
-21 0 0 0 0 2
+21 0 0 0 0 3
 D0
 ~
 ~
@@ -1386,10 +1552,6 @@ D3
 ~
 ~
 0 0 2162
-D8
-~
-~
-0 0 2157
 S
 #2176
 Ferrycourse Fen - Razor Grass~

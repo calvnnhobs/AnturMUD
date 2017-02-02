@@ -8,24 +8,24 @@ Sex : 1
 Levl: 9
 Id  : 6
 Brth: 1484710457
-Plyd: 55953
-Last: 1485755902
-Lmot: 1485749362
-Lnew: 1485749367
+Plyd: 68497
+Last: 1486015973
+Lmot: 1485834348
+Lnew: 1485834352
 Host: 70-36-215-128.dsl.dynamic.sonic.net
 Hite: 199
 Wate: 126
-Alin: 464
-Act : gh 0 0 0
+Alin: 143
+Act : h 0 0 0
 Aff : 0 0 0 0
 Pref: efghnoACDEF c 0 0
-Wimp: 14
-Room: 3001
-Lern: 9
-Hung: 21
-Thir: 13
+Wimp: 18
+Room: 65535
+Lern: 6
+Hung: 7
+Thir: 23
 Hit : 62/62
-Mana: 152/155
+Mana: 118/155
 Move: 95/95
 Str : 12/0
 Int : 17
@@ -34,26 +34,32 @@ Dex : 15
 Con : 10
 Cha : 8
 Ac  : 100
-Gold: 5155
-Bank: 10000
-Exp : 142221
+Gold: 9303
+Bank: 15000
+Exp : 246316
 Olc : 0
-Qstp: 5
+Qstp: 15
 Qest:
 3001
 3002
+3008
 65535
 Skil:
 1 95
 19 95
+30 95
 31 95
 32 95
 39 95
 50 95
 0 0
 Affs:
-50 20 0 0 2048 0 0 0
-1 14 -20 17 0 0 0 0
+50 7 0 0 2048 0 0 0
+1 5 -20 17 0 0 0 0
+19 13 0 0 16 0 0 0
 0 0 0 0 0 0 0 0
-Vars: 1
-teleporter_return_room 0 4413
+Vars: 4
+zn118_crayondone 0 1
+zn118_b 0 1
+zn118_c 0 1
+teleporter_return_room 0 11811

@@ -524,3 +524,1037 @@ Jan 29 23:10:12     :: OLC: Klakdor stops editing text files.
 Jan 29 23:10:23 ˇˇˇˇ :: Klakdor has quit the game.
 Jan 29 23:10:23 econ :: Losing player: Klakdor.
 Jan 29 23:10:23      :: No connections.  Going to sleep.
+Jan 30 06:25:48      :: New connection.  Waking up.
+Jan 30 06:25:57      :: Klakdor has connected.
+Jan 30 06:26:00 0    :: Klakdor un-renting and entering game.
+Jan 30 06:26:00      :: Klakdor (level 34) has 13 objects (max 60).
+Jan 30 06:29:51      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 30 06:34:51      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 30 06:39:51      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 30 06:41:38      :: Klakdor has quit the game.
+Jan 30 06:41:39      :: Losing player: Klakdor.
+Jan 30 06:41:39      :: No connections.  Going to sleep.
+Jan 30 07:26:42      :: New connection.  Waking up.
+Jan 30 07:26:43 ñ# :: WARNING: EOF on socket read (connection broken by peer)
+Jan 30 07:26:43     :: Losing descriptor without char.
+Jan 30 07:26:43 ñ# :: No connections.  Going to sleep.
+Jan 30 09:00:13 ñ# :: New connection.  Waking up.
+Jan 30 09:00:16      :: Klakdor has connected.
+Jan 30 09:00:18 0    :: Klakdor un-renting and entering game.
+Jan 30 09:00:18     :: Klakdor (level 34) has 13 objects (max 60).
+Jan 30 09:02:26      :: SCRIPT ERROR: Room 6131 :: wdamage: bad syntax
+Jan 30 09:02:29      :: SCRIPT ERROR: Trigger: Near Death Trap Spiders - 6131, VNum 6100. dg_affect: cannot locate target!
+Jan 30 09:02:29      :: SCRIPT ERROR: Room 6131 :: no target found for wsend
+Jan 30 09:03:24      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 30 09:08:24      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 30 09:09:48      :: Cro has connected.
+Jan 30 09:09:50 0    :: Cro un-renting and entering game.
+Jan 30 09:09:50     :: Cro (level 7) has 28 objects (max 60).
+Jan 30 09:13:24      :: nusage: 2   sockets connected, 2   sockets playing
+Jan 30 09:18:24      :: nusage: 2   sockets connected, 2   sockets playing
+Jan 30 09:23:24      :: nusage: 2   sockets connected, 2   sockets playing
+Jan 30 09:25:58 lond :: Klakdor tried to get help on zloadcheck
+Jan 30 09:26:02     :: Klakdor tried to get help on loadcheck
+Jan 30 09:28:24      :: nusage: 2   sockets connected, 2   sockets playing
+Jan 30 09:33:24      :: nusage: 2   sockets connected, 2   sockets playing
+Jan 30 09:37:26      :: Cro advanced 1 level to level 8.
+Jan 30 09:38:24      :: nusage: 2   sockets connected, 2   sockets playing
+Jan 30 09:43:24      :: nusage: 2   sockets connected, 2   sockets playing
+Jan 30 09:48:24      :: nusage: 2   sockets connected, 2   sockets playing
+Jan 30 09:53:24      :: nusage: 2   sockets connected, 2   sockets playing
+Jan 30 09:56:27      :: OLC: Klakdor starts editing zone 30 allowed zone 0
+Jan 30 09:56:29 INDO :: OLC: Klakdor stops editing zone 30 allowed zone 0
+Jan 30 09:56:32 Ä≠˚ :: OLC: Klakdor starts editing zone 30 allowed zone 0
+Jan 30 09:58:24      :: nusage: 2   sockets connected, 2   sockets playing
+Jan 30 10:03:24      :: nusage: 2   sockets connected, 2   sockets playing
+Jan 30 10:05:43      :: OLC: Klakdor edits quest 3008
+Jan 30 10:05:43      :: GenOLC: save_quests: Saving quests in zone #30 (3000-3099).
+Jan 30 10:05:43      :: OLC: Klakdor stops editing zone 30 allowed zone 0
+Jan 30 10:06:38      :: OLC: Klakdor starts editing zone 30 allowed zone 0
+Jan 30 10:06:58 EACE :: OLC: Klakdor edits quest 3008
+Jan 30 10:06:58      :: GenOLC: save_quests: Saving quests in zone #30 (3000-3099).
+Jan 30 10:06:58      :: OLC: Klakdor stops editing zone 30 allowed zone 0
+Jan 30 10:08:24 0y :: nusage: 2   sockets connected, 2   sockets playing
+Jan 30 10:09:44      :: OLC: Klakdor saves 'text/motd'.
+Jan 30 10:09:44      :: OLC: Klakdor stops editing text files.
+Jan 30 10:10:43      :: OLC: Klakdor starts editing zone 30 allowed zone 0
+Jan 30 10:10:44      :: OLC: Klakdor stops editing zone 30 allowed zone 0
+Jan 30 10:10:47      :: OLC: Klakdor starts editing zone 306 allowed zone 0
+Jan 30 10:10:51      :: OLC: Klakdor stops editing zone 306 allowed zone 0
+Jan 30 10:10:55      :: OLC: Klakdor starts editing zone 30 allowed zone 0
+Jan 30 10:10:59 NO_M :: OLC: Klakdor stops editing zone 30 allowed zone 0
+Jan 30 10:11:05      :: OLC: Klakdor starts editing zone 30 allowed zone 0
+Jan 30 10:11:12      :: OLC: Klakdor stops editing zone 30 allowed zone 0
+Jan 30 10:11:15      :: OLC: Klakdor starts editing zone 30 allowed zone 0
+Jan 30 10:11:23      :: OLC: Klakdor edits obj 3068
+Jan 30 10:11:23     :: OLC: Klakdor stops editing zone 30 allowed zone 0
+Jan 30 10:11:55      :: OLC: Klakdor starts editing zone 30 allowed zone 0
+Jan 30 10:12:05      :: OLC: Klakdor edits quest 3008
+Jan 30 10:12:05    :: GenOLC: save_quests: Saving quests in zone #30 (3000-3099).
+Jan 30 10:12:05      :: OLC: Klakdor stops editing zone 30 allowed zone 0
+Jan 30 10:13:24 0y :: nusage: 2   sockets connected, 2   sockets playing
+Jan 30 10:18:24 0y :: nusage: 2   sockets connected, 2   sockets playing
+Jan 30 10:19:56 ˇˇˇˇ :: Cro has quit the game.
+Jan 30 10:19:56      :: Crash_is_unrentable: removing object a little white key
+Jan 30 10:19:57 y: U :: Losing player: Cro.
+Jan 30 10:20:04      :: Klakdor has quit the game.
+Jan 30 10:20:04     :: Losing player: Klakdor.
+Jan 30 10:20:04      :: No connections.  Going to sleep.
+Jan 30 10:20:09      :: New connection.  Waking up.
+Jan 30 10:20:12      :: Klakdor has connected.
+Jan 30 10:20:13 0    :: Klakdor un-renting and entering game.
+Jan 30 10:20:13      :: Klakdor (level 34) has 16 objects (max 60).
+Jan 30 10:21:06      :: OLC: Klakdor starts editing zone 30 allowed zone 0
+Jan 30 10:22:56      :: GenOLC: add_room: Added room 3099 at index #1831.
+Jan 30 10:22:56 
+  1 :: OLC: Klakdor edits room 3099.
+Jan 30 10:22:56 cts  :: GenOLC: save_rooms: Saving rooms in zone #30 (3000-3099).
+Jan 30 10:22:56      :: OLC: Klakdor stops editing zone 30 allowed zone 0
+Jan 30 10:23:29      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 30 10:24:05      :: OLC: Klakdor starts editing zone 30 allowed zone 0
+Jan 30 10:24:13      :: GenOLC: add_room: Updated existing room #3099.
+Jan 30 10:24:13     :: OLC: Klakdor edits room 3099.
+Jan 30 10:24:13      :: GenOLC: save_rooms: Saving rooms in zone #30 (3000-3099).
+Jan 30 10:24:13      :: OLC: Klakdor stops editing zone 30 allowed zone 0
+Jan 30 10:26:40      :: OLC: Klakdor starts editing zone 30 allowed zone 0
+Jan 30 10:26:49      :: GenOLC: add_room: Updated existing room #3099.
+Jan 30 10:26:49 ORS  :: OLC: Klakdor edits room 3099.
+Jan 30 10:26:49      :: GenOLC: save_rooms: Saving rooms in zone #30 (3000-3099).
+Jan 30 10:26:49      :: OLC: Klakdor stops editing zone 30 allowed zone 0
+Jan 30 10:26:58 d li :: Klakdor has quit the game.
+Jan 30 10:26:59      :: Losing player: Klakdor.
+Jan 30 10:26:59      :: No connections.  Going to sleep.
+Jan 30 10:27:03      :: New connection.  Waking up.
+Jan 30 10:27:06      :: Klakdor has connected.
+Jan 30 10:27:07 0    :: Klakdor un-renting and entering game.
+Jan 30 10:27:07      :: Klakdor (level 34) has 16 objects (max 60).
+Jan 30 10:28:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 30 10:33:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 30 10:38:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 30 10:43:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 30 10:48:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 30 10:53:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 30 10:58:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 30 11:03:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 30 11:08:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 30 11:13:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 30 11:18:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 30 11:23:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 30 11:28:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 30 11:33:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 30 11:38:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 30 11:43:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 30 11:48:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 30 11:53:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 30 11:56:16      :: OLC: Klakdor starts editing zone 75 allowed zone 0
+Jan 30 11:56:27      :: GenOLC: add_mobile: Updated existing mobile #7528.
+Jan 30 11:56:27      :: OLC: Klakdor edits mob 7528
+Jan 30 11:56:27 K    :: GenOLC: 'world/mob/75.mob' saved, 11843 bytes written.
+Jan 30 11:56:27      :: OLC: Klakdor stops editing zone 75 allowed zone 0
+Jan 30 11:58:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 30 12:03:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 30 12:08:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 30 12:13:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 30 12:18:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 30 12:20:11     :: WARNING: EOF on socket read (connection broken by peer)
+Jan 30 12:20:11 ger  :: Losing descriptor without char.
+Jan 30 12:20:12     :: WARNING: EOF on socket read (connection broken by peer)
+Jan 30 12:20:12     :: Losing descriptor without char.
+Jan 30 12:21:26     :: WARNING: EOF on socket read (connection broken by peer)
+Jan 30 12:21:26     :: Losing descriptor without char.
+Jan 30 12:21:27      :: WARNING: EOF on socket read (connection broken by peer)
+Jan 30 12:21:27     :: Losing descriptor without char.
+Jan 30 12:23:33      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 30 12:23:51 ˇˇˇˇ :: Klakdor has quit the game.
+Jan 30 12:23:51     :: Losing player: Klakdor.
+Jan 30 12:23:51      :: No connections.  Going to sleep.
+Jan 30 12:56:55      :: New connection.  Waking up.
+Jan 30 12:56:59      :: Klakdor has connected.
+Jan 30 12:56:59 0    :: Klakdor un-renting and entering game.
+Jan 30 12:56:59 ---- :: Klakdor (level 34) has 16 objects (max 60).
+Jan 30 12:57:02 4    :: Klakdor has quit the game.
+Jan 30 12:57:02     :: Losing player: Klakdor.
+Jan 30 12:57:02 ñ# :: No connections.  Going to sleep.
+Jan 30 13:43:03 ñ# :: New connection.  Waking up.
+Jan 30 13:43:06      :: Klakdor has connected.
+Jan 30 13:43:07 0    :: Klakdor un-renting and entering game.
+Jan 30 13:43:07     :: Klakdor (level 34) has 16 objects (max 60).
+Jan 30 13:47:39      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 30 13:52:39      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 30 13:57:39 &T  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 30 14:02:39      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 30 14:07:39 p%T  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 30 14:12:39      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 30 14:17:39      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 30 14:22:39      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 30 14:27:39 &T  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 30 14:32:39      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 30 14:37:39 p%T  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 30 14:42:39      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 30 14:47:39      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 30 14:52:39      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 30 14:57:39 &T  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 30 15:02:39      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 30 15:07:39 p%T  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 30 15:11:55 hGy :: Jonthax has connected.
+Jan 30 15:12:18 0    :: Jonthax un-renting and entering game.
+Jan 30 15:12:18     :: Jonthax (level 8) has 34 objects (max 60).
+Jan 30 15:12:39      :: nusage: 2   sockets connected, 2   sockets playing
+Jan 30 15:17:39      :: nusage: 2   sockets connected, 2   sockets playing
+Jan 30 15:22:39      :: nusage: 2   sockets connected, 2   sockets playing
+Jan 30 15:27:39 –8è :: nusage: 2   sockets connected, 2   sockets playing
+Jan 30 15:32:39 @¯p :: nusage: 2   sockets connected, 2   sockets playing
+Jan 30 15:37:39 @&T  :: nusage: 2   sockets connected, 2   sockets playing
+Jan 30 15:42:39      :: nusage: 2   sockets connected, 2   sockets playing
+Jan 30 15:47:39      :: nusage: 2   sockets connected, 2   sockets playing
+Jan 30 15:52:39      :: nusage: 2   sockets connected, 2   sockets playing
+Jan 30 15:57:39 @&T  :: nusage: 2   sockets connected, 2   sockets playing
+Jan 30 16:02:39      :: nusage: 2   sockets connected, 2   sockets playing
+Jan 30 16:07:35      :: Jonthax advanced 1 level to level 9.
+Jan 30 16:07:39 p%T  :: nusage: 2   sockets connected, 2   sockets playing
+Jan 30 16:12:39 ¿Áå :: nusage: 2   sockets connected, 2   sockets playing
+Jan 30 16:16:07      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 30 16:17:39      :: nusage: 2   sockets connected, 2   sockets playing
+Jan 30 16:17:59 [    :: GenOLC: add_room: Updated existing room #2142.
+Jan 30 16:17:59 –íè :: OLC: Klakdor edits room 2142.
+Jan 30 16:17:59 ts ( :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 30 16:17:59      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 30 16:18:03      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 30 16:20:46 [    :: GenOLC: add_room: Updated existing room #2143.
+Jan 30 16:20:46     :: OLC: Klakdor edits room 2143.
+Jan 30 16:20:46      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 30 16:20:46      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 30 16:20:52      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 30 16:22:39      :: nusage: 2   sockets connected, 2   sockets playing
+Jan 30 16:22:44      :: GenOLC: add_room: Updated existing room #2144.
+Jan 30 16:22:44 –íè :: OLC: Klakdor edits room 2144.
+Jan 30 16:22:44      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 30 16:22:44      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 30 16:22:48      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 30 16:23:45 [    :: GenOLC: add_room: Updated existing room #2145.
+Jan 30 16:23:45     :: OLC: Klakdor edits room 2145.
+Jan 30 16:23:45      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 30 16:23:45      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 30 16:23:51      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 30 16:26:20 [    :: GenOLC: add_room: Updated existing room #2146.
+Jan 30 16:26:20     :: OLC: Klakdor edits room 2146.
+Jan 30 16:26:20      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 30 16:26:20      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 30 16:26:25      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 30 16:27:13      :: GenOLC: add_room: Updated existing room #2147.
+Jan 30 16:27:13 ∞yè :: OLC: Klakdor edits room 2147.
+Jan 30 16:27:13      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 30 16:27:13      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 30 16:27:19      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 30 16:27:39 &T  :: nusage: 2   sockets connected, 2   sockets playing
+Jan 30 16:27:44      :: GenOLC: add_room: Updated existing room #2148.
+Jan 30 16:27:44 –íè :: OLC: Klakdor edits room 2148.
+Jan 30 16:27:44      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 30 16:27:44      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 30 16:27:54      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 30 16:28:01 [    :: GenOLC: add_room: Updated existing room #2148.
+Jan 30 16:28:01     :: OLC: Klakdor edits room 2148.
+Jan 30 16:28:01      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 30 16:28:01      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 30 16:28:02      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 30 16:28:09 [    :: GenOLC: add_room: Updated existing room #2147.
+Jan 30 16:28:09     :: OLC: Klakdor edits room 2147.
+Jan 30 16:28:09      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 30 16:28:09      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 30 16:28:10      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 30 16:28:16 [    :: GenOLC: add_room: Updated existing room #2146.
+Jan 30 16:28:16     :: OLC: Klakdor edits room 2146.
+Jan 30 16:28:16      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 30 16:28:16      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 30 16:28:18      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 30 16:28:22 [    :: GenOLC: add_room: Updated existing room #2145.
+Jan 30 16:28:22     :: OLC: Klakdor edits room 2145.
+Jan 30 16:28:22      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 30 16:28:22      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 30 16:28:24      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 30 16:28:27 [    :: GenOLC: add_room: Updated existing room #2144.
+Jan 30 16:28:27     :: OLC: Klakdor edits room 2144.
+Jan 30 16:28:27      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 30 16:28:27      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 30 16:32:39 0y :: nusage: 2   sockets connected, 2   sockets playing
+Jan 30 16:37:13      :: Klakdor has quit the game.
+Jan 30 16:37:14  25	 :: Losing player: Klakdor.
+Jan 30 16:37:39 Œ%T  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 30 16:42:39 Äôë :: nusage: 1   sockets connected, 1   sockets playing
+Jan 30 16:47:39 0y :: nusage: 1   sockets connected, 1   sockets playing
+Jan 30 16:52:39      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 30 16:53:18      :: Jonthax has quit the game.
+Jan 30 16:53:18      :: Crash_is_unrentable: removing object a small iron key
+Jan 30 16:53:20 @Uy :: Losing player: Jonthax.
+Jan 30 16:53:20      :: No connections.  Going to sleep.
+Jan 30 19:00:32      :: New connection.  Waking up.
+Jan 30 19:00:37      :: Jonthax has connected.
+Jan 30 19:00:44 0    :: Jonthax un-renting and entering game.
+Jan 30 19:00:44      :: Jonthax (level 9) has 28 objects (max 60).
+Jan 30 19:00:57      :: Klakdor has connected.
+Jan 30 19:01:01 0    :: Klakdor un-renting and entering game.
+Jan 30 19:01:01     :: Klakdor (level 34) has 16 objects (max 60).
+Jan 30 19:04:51      :: nusage: 2   sockets connected, 2   sockets playing
+Jan 30 19:09:51      :: nusage: 2   sockets connected, 2   sockets playing
+Jan 30 19:11:36      :: Jonthax has quit the game.
+Jan 30 19:14:51      :: nusage: 2   sockets connected, 1   sockets playing
+Jan 30 19:19:51      :: nusage: 2   sockets connected, 1   sockets playing
+Jan 30 19:24:51      :: nusage: 2   sockets connected, 1   sockets playing
+Jan 30 19:29:51      :: nusage: 2   sockets connected, 1   sockets playing
+Jan 30 19:34:51      :: nusage: 2   sockets connected, 1   sockets playing
+Jan 30 19:39:23      :: TheAntarchist has connected.
+Jan 30 19:39:51      :: nusage: 3   sockets connected, 1   sockets playing
+Jan 30 19:41:13 0    :: TheAntarchist un-renting and entering game.
+Jan 30 19:41:13     :: TheAntarchist (level 9) has 33 objects (max 60).
+Jan 30 19:42:40      :: Add_to_lookup failed. Already there. (uid = 4)
+Jan 30 19:42:40 0    :: Jonthax un-renting and entering game.
+Jan 30 19:42:41     :: Jonthax (level 9) has 29 objects (max 60).
+Jan 30 19:44:51      :: nusage: 3   sockets connected, 3   sockets playing
+Jan 30 19:49:51      :: nusage: 3   sockets connected, 3   sockets playing
+Jan 30 19:54:51      :: nusage: 3   sockets connected, 3   sockets playing
+Jan 30 19:59:51 0y :: nusage: 3   sockets connected, 3   sockets playing
+Jan 30 20:04:51 &T  :: nusage: 3   sockets connected, 3   sockets playing
+Jan 30 20:09:51      :: nusage: 3   sockets connected, 3   sockets playing
+Jan 30 20:14:51      :: nusage: 3   sockets connected, 3   sockets playing
+Jan 30 20:19:51      :: nusage: 3   sockets connected, 3   sockets playing
+Jan 30 20:24:51      :: nusage: 3   sockets connected, 3   sockets playing
+Jan 30 20:29:51      :: nusage: 3   sockets connected, 3   sockets playing
+Jan 30 20:34:51 0y :: nusage: 3   sockets connected, 3   sockets playing
+Jan 30 20:39:51 0y :: nusage: 3   sockets connected, 3   sockets playing
+Jan 30 20:44:51 0y :: nusage: 3   sockets connected, 3   sockets playing
+Jan 30 20:49:51 0y :: nusage: 3   sockets connected, 3   sockets playing
+Jan 30 20:54:51 0y :: nusage: 3   sockets connected, 3   sockets playing
+Jan 30 20:59:51 0y :: nusage: 3   sockets connected, 3   sockets playing
+Jan 30 21:04:51 0y :: nusage: 3   sockets connected, 3   sockets playing
+Jan 30 21:09:51 0y :: nusage: 3   sockets connected, 3   sockets playing
+Jan 30 21:14:51 0y :: nusage: 3   sockets connected, 3   sockets playing
+Jan 30 21:19:51      :: nusage: 3   sockets connected, 3   sockets playing
+Jan 30 21:24:51      :: nusage: 3   sockets connected, 3   sockets playing
+Jan 30 21:29:51      :: nusage: 3   sockets connected, 3   sockets playing
+Jan 30 21:34:51      :: nusage: 3   sockets connected, 3   sockets playing
+Jan 30 21:35:30 XJ˙ :: Jonthax has quit the game.
+Jan 30 21:35:32      :: Losing player: Jonthax.
+Jan 30 21:39:51      :: nusage: 2   sockets connected, 2   sockets playing
+Jan 30 21:44:51 0y :: nusage: 2   sockets connected, 2   sockets playing
+Jan 30 21:49:51 0y :: nusage: 2   sockets connected, 2   sockets playing
+Jan 30 21:54:51 0y :: nusage: 2   sockets connected, 2   sockets playing
+Jan 30 21:59:51      :: nusage: 2   sockets connected, 2   sockets playing
+Jan 30 22:04:51      :: nusage: 2   sockets connected, 2   sockets playing
+Jan 30 22:09:51      :: nusage: 2   sockets connected, 2   sockets playing
+Jan 30 22:14:51 p%T  :: nusage: 2   sockets connected, 2   sockets playing
+Jan 30 22:16:21      :: TheAntarchist has quit the game.
+Jan 30 22:16:23      :: Losing player: TheAntarchist.
+Jan 30 22:19:51      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 30 22:24:51      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 30 22:29:51      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 30 22:34:51      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 30 22:39:51      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 30 22:44:51      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 30 22:49:51      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 30 22:54:51      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 30 22:59:51      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 30 23:04:51      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 30 23:09:51      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 30 23:14:51      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 30 23:19:51      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 30 23:24:51      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 30 23:29:51      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 30 23:34:51      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 30 23:39:51      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 30 23:44:51      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 30 23:49:51      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 30 23:54:51      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 30 23:59:51      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 00:04:51      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 00:09:51      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 00:14:51      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 00:19:51      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 00:24:51      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 00:29:51      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 00:34:51      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 00:39:51      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 00:44:51      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 00:49:51      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 00:54:51      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 00:59:51      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 01:04:51      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 01:09:51      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 01:14:51      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 01:19:51      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 01:24:51      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 01:29:51      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 01:34:51      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 01:39:51      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 01:44:51      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 01:49:51      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 01:54:51      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 01:59:51      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 02:04:51      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 02:09:51      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 02:14:51      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 02:19:51      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 02:24:51      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 02:29:51      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 02:34:51      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 02:39:51      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 02:44:51      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 02:49:51      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 02:54:51      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 02:59:51      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 03:04:51      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 03:09:51      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 03:14:51      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 03:19:51      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 03:24:51      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 03:29:51      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 03:34:51      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 03:39:51      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 03:44:51      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 03:49:51      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 03:54:51      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 03:59:51      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 04:04:51      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 04:09:51      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 04:14:51      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 04:19:51      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 04:24:51      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 04:29:51      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 04:34:51      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 04:39:51      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 04:40:19      :: Klakdor has quit the game.
+Jan 31 04:40:21 @Uy :: Losing player: Klakdor.
+Jan 31 04:40:21      :: No connections.  Going to sleep.
+Jan 31 05:16:09      :: New connection.  Waking up.
+Jan 31 05:16:12      :: Klakdor has connected.
+Jan 31 05:20:39      :: nusage: 1   sockets connected, 0   sockets playing
+Jan 31 05:25:39      :: nusage: 1   sockets connected, 0   sockets playing
+Jan 31 05:27:22 0    :: Klakdor un-renting and entering game.
+Jan 31 05:27:22      :: Klakdor (level 34) has 16 objects (max 60).
+Jan 31 05:28:06 π   :: OLC: Klakdor starts editing Bug 2
+Jan 31 05:28:30     :: OLC: Klakdor edits Bug 2
+Jan 31 05:28:30     :: OLC: Klakdor stops editing zone 1 allowed zone 0
+Jan 31 05:29:08 π   :: OLC: Klakdor starts editing Bug 2
+Jan 31 05:29:25 [ÔO  :: OLC: Klakdor edits Bug 2
+Jan 31 05:29:25     :: OLC: Klakdor stops editing zone 1 allowed zone 0
+Jan 31 05:30:39      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 05:34:17      :: (GC) Klakdor echoed: WOAH
+Jan 31 05:35:39      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 05:40:39 &T  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 05:43:48 9ÌO  :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 31 05:44:05 [    :: GenOLC: add_room: Updated existing room #2113.
+Jan 31 05:44:05      :: OLC: Klakdor edits room 2113.
+Jan 31 05:44:05 0.80 :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 31 05:44:05      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 31 05:44:33      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 31 05:44:52      :: GenOLC: add_room: Updated existing room #2114.
+Jan 31 05:44:52     :: OLC: Klakdor edits room 2114.
+Jan 31 05:44:52      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 31 05:44:52      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 31 05:45:29      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 31 05:45:39      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 05:45:55 [    :: GenOLC: add_room: Updated existing room #2116.
+Jan 31 05:45:55     :: OLC: Klakdor edits room 2116.
+Jan 31 05:45:55      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 31 05:45:55      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 31 05:46:10      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 31 05:46:48 [    :: GenOLC: add_room: Updated existing room #2117.
+Jan 31 05:46:48     :: OLC: Klakdor edits room 2117.
+Jan 31 05:46:48      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 31 05:46:48      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 31 05:47:02      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 31 05:49:14 [    :: GenOLC: add_room: Updated existing room #2118.
+Jan 31 05:49:14     :: OLC: Klakdor edits room 2118.
+Jan 31 05:49:14      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 31 05:49:14      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 31 05:49:25      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 31 05:50:39      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 05:52:06      :: GenOLC: add_room: Updated existing room #2119.
+Jan 31 05:52:06     :: OLC: Klakdor edits room 2119.
+Jan 31 05:52:06      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 31 05:52:06      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 31 05:52:37      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 31 05:53:00 [    :: GenOLC: add_room: Updated existing room #2120.
+Jan 31 05:53:00     :: OLC: Klakdor edits room 2120.
+Jan 31 05:53:00      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 31 05:53:00      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 31 05:53:29      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 31 05:55:25 [    :: GenOLC: add_room: Updated existing room #2122.
+Jan 31 05:55:25     :: OLC: Klakdor edits room 2122.
+Jan 31 05:55:25      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 31 05:55:25      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 31 05:55:39      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 05:55:40      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 31 05:56:15 [    :: GenOLC: add_room: Updated existing room #2123.
+Jan 31 05:56:15     :: OLC: Klakdor edits room 2123.
+Jan 31 05:56:15      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 31 05:56:15      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 31 05:57:09      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 31 05:58:04 [    :: GenOLC: add_room: Updated existing room #2124.
+Jan 31 05:58:04     :: OLC: Klakdor edits room 2124.
+Jan 31 05:58:04      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 31 05:58:04      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 31 05:58:13      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 31 05:59:20 [    :: GenOLC: add_room: Updated existing room #2125.
+Jan 31 05:59:20     :: OLC: Klakdor edits room 2125.
+Jan 31 05:59:20      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 31 05:59:20      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 31 05:59:41      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 31 06:00:39      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 06:00:47 [    :: GenOLC: add_room: Updated existing room #2127.
+Jan 31 06:00:47     :: OLC: Klakdor edits room 2127.
+Jan 31 06:00:47      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 31 06:00:47      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 31 06:01:04      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 31 06:02:53 [    :: GenOLC: add_room: Updated existing room #2129.
+Jan 31 06:02:53     :: OLC: Klakdor edits room 2129.
+Jan 31 06:02:53      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 31 06:02:53      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 31 06:03:41      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 31 06:04:15 [    :: GenOLC: add_room: Updated existing room #2131.
+Jan 31 06:04:15     :: OLC: Klakdor edits room 2131.
+Jan 31 06:04:15      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 31 06:04:15      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 31 06:04:48      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 31 06:05:34      :: GenOLC: add_room: Updated existing room #2134.
+Jan 31 06:05:34     :: OLC: Klakdor edits room 2134.
+Jan 31 06:05:34      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 31 06:05:34      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 31 06:05:39      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 06:05:42      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 31 06:08:18 [    :: GenOLC: add_room: Updated existing room #2135.
+Jan 31 06:08:18     :: OLC: Klakdor edits room 2135.
+Jan 31 06:08:18      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 31 06:08:18      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 31 06:08:25      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 31 06:08:37 [    :: GenOLC: add_room: Updated existing room #2135.
+Jan 31 06:08:37     :: OLC: Klakdor edits room 2135.
+Jan 31 06:08:37      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 31 06:08:37      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 31 06:08:50      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 31 06:09:30 [    :: GenOLC: add_room: Updated existing room #2136.
+Jan 31 06:09:30     :: OLC: Klakdor edits room 2136.
+Jan 31 06:09:30      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 31 06:09:30      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 31 06:09:33      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 31 06:10:39      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 06:11:38      :: GenOLC: add_room: Updated existing room #2136.
+Jan 31 06:11:38     :: OLC: Klakdor edits room 2136.
+Jan 31 06:11:38      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 31 06:11:38      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 31 06:11:53      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 31 06:13:38 [    :: GenOLC: add_room: Updated existing room #2137.
+Jan 31 06:13:38     :: OLC: Klakdor edits room 2137.
+Jan 31 06:13:38      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 31 06:13:38      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 31 06:13:55      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Jan 31 06:15:08      :: GenOLC: add_room: Updated existing room #2140.
+Jan 31 06:15:08     :: OLC: Klakdor edits room 2140.
+Jan 31 06:15:08      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Jan 31 06:15:08      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Jan 31 06:15:39      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 06:15:41      :: Klakdor has quit the game.
+Jan 31 06:15:41      :: Losing player: Klakdor.
+Jan 31 06:15:41 p–ª :: No connections.  Going to sleep.
+Jan 31 09:07:05 p–ª :: New connection.  Waking up.
+Jan 31 09:07:12      :: Jonthax has connected.
+Jan 31 09:07:20 0    :: Jonthax un-renting and entering game.
+Jan 31 09:07:20      :: Jonthax (level 9) has 39 objects (max 60).
+Jan 31 09:12:03 p%T  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 09:17:03      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 09:22:03 ‡•  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 09:27:03      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 09:32:03 &T  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 09:37:03      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 09:42:03      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 09:47:03      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 09:52:03      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 09:57:03      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 10:02:03      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 10:07:03      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 10:12:03      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 10:17:03 0y :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 10:22:03 0y :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 10:27:03 0y :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 10:32:03 0y :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 10:37:03 0y :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 10:42:03 0y :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 10:44:08 [    :: Jonthax has quit the game.
+Jan 31 10:44:08      :: Crash_is_unrentable: removing object a small rusty key
+Jan 31 10:47:03      :: nusage: 1   sockets connected, 0   sockets playing
+Jan 31 10:52:03      :: nusage: 1   sockets connected, 0   sockets playing
+Jan 31 10:57:03      :: nusage: 1   sockets connected, 0   sockets playing
+Jan 31 10:59:03      :: Add_to_lookup failed. Already there. (uid = 4)
+Jan 31 10:59:03 0    :: Jonthax un-renting and entering game.
+Jan 31 10:59:03 
+   :: Jonthax (level 9) has 36 objects (max 60).
+Jan 31 11:02:03      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 11:07:03 ∞É :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 11:12:03      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 11:16:50     :: WARNING: EOF on socket read (connection broken by peer)
+Jan 31 11:16:50      :: Losing descriptor without char.
+Jan 31 11:16:51     :: WARNING: EOF on socket read (connection broken by peer)
+Jan 31 11:16:51     :: Losing descriptor without char.
+Jan 31 11:17:03      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 11:22:03      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 11:23:44     :: WARNING: EOF on socket read (connection broken by peer)
+Jan 31 11:23:44      :: Losing descriptor without char.
+Jan 31 11:23:44     :: WARNING: EOF on socket read (connection broken by peer)
+Jan 31 11:23:44     :: Losing descriptor without char.
+Jan 31 11:27:03      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 11:29:26      :: Jonthax has quit the game.
+Jan 31 11:29:26      :: Crash_is_unrentable: removing object a yellow plastic ski pass
+Jan 31 11:29:31      :: Losing player: Jonthax.
+Jan 31 11:29:31      :: No connections.  Going to sleep.
+Jan 31 12:09:49      :: New connection.  Waking up.
+SYSERR: gethostbyaddr: Success
+Jan 31 12:09:59     :: WARNING: EOF on socket read (connection broken by peer)
+Jan 31 12:09:59     :: Losing descriptor without char.
+Jan 31 12:09:59 ñ# :: No connections.  Going to sleep.
+Jan 31 12:14:38 ñ# :: New connection.  Waking up.
+SYSERR: gethostbyaddr: Success
+Jan 31 12:14:46     :: Klakdor has connected.
+Jan 31 12:14:47 0    :: Klakdor un-renting and entering game.
+Jan 31 12:14:47     :: Klakdor (level 34) has 16 objects (max 60).
+Jan 31 12:17:00 &T  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 12:22:00      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 12:27:00 p%T  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 12:32:00      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 12:37:00      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 12:42:00      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 12:45:00     :: Losing descriptor without char.
+Jan 31 12:47:00 &T  :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 12:52:00      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 12:57:00 p%T  :: nusage: 1   sockets connected, 1   sockets playing
+SYSERR: perform_socket_read: about to lose connection: Connection timed out
+Jan 31 13:00:15 0    :: Closing link to: Klakdor.
+Jan 31 13:00:15      :: No connections.  Going to sleep.
+Jan 31 16:03:51      :: New connection.  Waking up.
+Jan 31 16:03:58      :: Jonthax has connected.
+Jan 31 16:04:02 0    :: Jonthax un-renting and entering game.
+Jan 31 16:04:02     :: Jonthax (level 9) has 39 objects (max 60).
+Jan 31 16:05:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 16:10:36      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 16:11:46      :: Jonthax has quit the game.
+Jan 31 16:15:36      :: nusage: 1   sockets connected, 0   sockets playing
+Jan 31 16:20:36      :: nusage: 1   sockets connected, 0   sockets playing
+Jan 31 16:25:36      :: nusage: 1   sockets connected, 0   sockets playing
+Jan 31 16:30:36      :: nusage: 1   sockets connected, 0   sockets playing
+Jan 31 16:35:36      :: nusage: 1   sockets connected, 0   sockets playing
+Jan 31 16:37:49     :: Losing player: Jonthax.
+Jan 31 16:37:49      :: No connections.  Going to sleep.
+Jan 31 19:51:11      :: New connection.  Waking up.
+Jan 31 19:51:26     :: Rellik has connected.
+Jan 31 19:51:29 0    :: Rellik un-renting and entering game.
+Jan 31 19:51:29     :: Rellik (level 7) has 37 objects (max 60).
+Jan 31 19:53:59      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 19:58:59      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 20:03:59 0y :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 20:08:58 0y :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 20:13:59 0y :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 20:18:58 0y :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 20:23:58 0y :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 20:28:59 0y :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 20:33:58 0y :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 20:38:59 0y :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 20:43:59 0y :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 20:48:59 0y :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 20:53:59 0y :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 20:58:59 0y :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 21:03:58 0y :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 21:08:59 0y :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 21:11:35      :: Klakdor [apierce160725] has reconnected.
+Jan 31 21:11:48     :: Cro has connected.
+Jan 31 21:11:49 0    :: Cro un-renting and entering game.
+Jan 31 21:11:49      :: Cro (level 8) has 36 objects (max 60).
+Jan 31 21:13:59 0y :: nusage: 3   sockets connected, 3   sockets playing
+Jan 31 21:18:59 0y :: nusage: 3   sockets connected, 3   sockets playing
+Jan 31 21:23:59      :: nusage: 3   sockets connected, 3   sockets playing
+Jan 31 21:27:07 [    :: Rellik has quit the game.
+Jan 31 21:27:13      :: Losing player: Rellik.
+Jan 31 21:27:26      :: TheAntarchist has connected.
+Jan 31 21:27:29 0    :: TheAntarchist un-renting and entering game.
+Jan 31 21:27:29 ˇLx  :: TheAntarchist (level 9) has 41 objects (max 60).
+Jan 31 21:28:58      :: nusage: 3   sockets connected, 3   sockets playing
+Jan 31 21:29:03 4    :: Cro has quit the game.
+Jan 31 21:29:04     :: Losing player: Cro.
+Jan 31 21:29:10      :: Klakdor has quit the game.
+Jan 31 21:29:11     :: Losing player: Klakdor.
+Jan 31 21:30:02      :: TheAntarchist has quit the game.
+Jan 31 21:30:05     :: Losing player: TheAntarchist.
+Jan 31 21:30:05      :: No connections.  Going to sleep.
+Jan 31 21:30:07      :: New connection.  Waking up.
+Jan 31 21:30:16 '    :: Rellik has connected.
+Jan 31 21:30:19 0    :: Rellik un-renting and entering game.
+Jan 31 21:30:19     :: Rellik (level 7) has 32 objects (max 60).
+Jan 31 21:31:01      :: SYSERR: string_add: Aborting write from unknown origin.
+Jan 31 21:33:26 4    :: Rellik has quit the game.
+Jan 31 21:33:29     :: Losing player: Rellik.
+Jan 31 21:33:29      :: No connections.  Going to sleep.
+Jan 31 21:33:30      :: New connection.  Waking up.
+Jan 31 21:33:55 0    :: SteveDave [70-36-215-128.dsl.dynamic.sonic.net] new player.
+Jan 31 21:33:58      :: SteveDave had no variable file
+Jan 31 21:33:58 Ü   :: SteveDave entering game with no equipment.
+Jan 31 21:34:02      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 21:34:59 4    :: SteveDave has quit the game.
+Jan 31 21:35:08      :: PCLEAN: stevedave Lev: 1 Last: Tue Jan 31 21:33:58 2017
+Jan 31 21:35:08      :: SteveDave (lev 1) has self-deleted.
+Jan 31 21:35:08     :: Losing player: SteveDave.
+Jan 31 21:35:08      :: No connections.  Going to sleep.
+Jan 31 21:35:18      :: New connection.  Waking up.
+Jan 31 21:35:42 0    :: HypnoToad [70-36-215-128.dsl.dynamic.sonic.net] new player.
+Jan 31 21:35:48      :: HypnoToad had no variable file
+Jan 31 21:35:48 Ü   :: HypnoToad entering game with no equipment.
+Jan 31 21:37:27 4    :: HypnoToad has quit the game.
+Jan 31 21:37:46 Ä∆ë :: Add_to_lookup failed. Already there. (uid = 11)
+Jan 31 21:37:46 0    :: HypnoToad un-renting and entering game.
+Jan 31 21:37:46     :: HypnoToad (level 1) has 0 objects (max 60).
+Jan 31 21:37:57      :: HypnoToad has quit the game.
+Jan 31 21:37:59     :: Losing player: HypnoToad.
+Jan 31 21:37:59      :: No connections.  Going to sleep.
+Jan 31 21:38:02      :: New connection.  Waking up.
+Jan 31 21:38:11      :: Rellik has connected.
+Jan 31 21:38:14 0    :: Rellik un-renting and entering game.
+Jan 31 21:38:14     :: Rellik (level 7) has 32 objects (max 60).
+Jan 31 21:39:16      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 21:44:16      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 21:49:16 0y :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 21:54:16 0y :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 21:59:16 0y :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 22:04:16 0y :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 22:09:16 0y :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 22:14:16 0y :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 22:19:16 0y :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 22:24:16 0y :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 22:29:16 0y :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 22:34:16 0y :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 22:39:16 0y :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 22:44:16 0y :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 22:49:16 0y :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 22:54:16      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 22:59:16      :: nusage: 1   sockets connected, 1   sockets playing
+Jan 31 22:59:47      :: Rellik has quit the game.
+Jan 31 22:59:57 $   :: Losing player: Rellik.
+Jan 31 22:59:57      :: No connections.  Going to sleep.
+Feb 01 10:53:45      :: New connection.  Waking up.
+Feb 01 10:53:51      :: Jonthax has connected.
+Feb 01 10:53:55 0    :: Jonthax un-renting and entering game.
+Feb 01 10:53:55     :: Jonthax (level 9) has 39 objects (max 60).
+Feb 01 10:58:04      :: nusage: 1   sockets connected, 1   sockets playing
+Feb 01 11:03:04      :: nusage: 1   sockets connected, 1   sockets playing
+Feb 01 11:08:04      :: nusage: 1   sockets connected, 1   sockets playing
+Feb 01 11:13:04      :: nusage: 1   sockets connected, 1   sockets playing
+Feb 01 11:18:04      :: nusage: 1   sockets connected, 1   sockets playing
+Feb 01 11:23:04      :: nusage: 1   sockets connected, 1   sockets playing
+Feb 01 11:28:04 0y :: nusage: 1   sockets connected, 1   sockets playing
+Feb 01 11:33:04      :: nusage: 1   sockets connected, 1   sockets playing
+Feb 01 11:38:04      :: nusage: 1   sockets connected, 1   sockets playing
+Feb 01 11:42:47      :: Klakdor has connected.
+Feb 01 11:42:48 0    :: Klakdor un-renting and entering game.
+Feb 01 11:42:48 ˇˇˇˇ :: Klakdor (level 34) has 16 objects (max 60).
+Feb 01 11:43:04      :: nusage: 2   sockets connected, 2   sockets playing
+Feb 01 11:43:10      :: Klakdor tried to get help on newplayers
+Feb 01 11:47:52 >[7 :: (GC) Klakdor forced a disgusting orc to sleep
+Feb 01 11:48:04      :: nusage: 2   sockets connected, 2   sockets playing
+Feb 01 11:48:53 >[7 :: (GC) Klakdor forced a disgusting orc to hug solder
+Feb 01 11:48:56     :: (GC) Klakdor forced a disgusting orc to hug soldier
+Feb 01 11:49:07     :: (GC) Klakdor forced a disgusting orc to kneel
+Feb 01 11:49:09     :: (GC) Klakdor forced the Hannah soldier to kneel
+Feb 01 11:49:12     :: (GC) Klakdor forced the Hannah soldier to kiss orc
+Feb 01 11:51:20 >[7 :: (GC) Klakdor forced a smelly goblin to snee
+Feb 01 11:51:43      :: OLC: Klakdor starts editing zone 125 allowed zone 0
+Feb 01 11:52:24      :: Jonthax advanced 1 level to level 10.
+Feb 01 11:52:37      :: GenOLC: add_mobile: Updated existing mobile #12508.
+Feb 01 11:52:37     :: OLC: Klakdor edits mob 12508
+Feb 01 11:52:37 }    :: GenOLC: 'world/mob/125.mob' saved, 5898 bytes written.
+Feb 01 11:52:37      :: OLC: Klakdor stops editing zone 125 allowed zone 0
+Feb 01 11:52:40 @ÖH∞ :: (GC) Klakdor reset zone 125 (Hannah)
+Feb 01 11:53:04      :: nusage: 2   sockets connected, 2   sockets playing
+Feb 01 11:54:27      :: (GC) Klakdor reset zone 125 (Hannah)
+Feb 01 11:58:04 &T  :: nusage: 2   sockets connected, 2   sockets playing
+Feb 01 11:59:29      :: Cro has connected.
+Feb 01 11:59:30 0    :: Cro un-renting and entering game.
+Feb 01 11:59:30      :: Cro (level 8) has 36 objects (max 60).
+Feb 01 12:03:04 0y :: nusage: 3   sockets connected, 3   sockets playing
+Feb 01 12:03:21      :: Jonthax has quit the game.
+Feb 01 12:03:21      :: Crash_is_unrentable: removing object a key
+Feb 01 12:03:24      :: Losing player: Jonthax.
+Feb 01 12:04:50      :: Cro has quit the game.
+Feb 01 12:04:50 perb :: Losing player: Cro.
+Feb 01 12:06:59 [    :: OLC: Klakdor starts editing zone 30 allowed zone 0
+Feb 01 12:07:12      :: GenOLC: add_room: Updated existing room #3099.
+Feb 01 12:07:12      :: OLC: Klakdor edits room 3099.
+Feb 01 12:07:12 max  :: GenOLC: save_rooms: Saving rooms in zone #30 (3000-3099).
+Feb 01 12:07:12      :: OLC: Klakdor stops editing zone 30 allowed zone 0
+Feb 01 12:07:14 t gr :: Klakdor tried to get help on peacefull
+Feb 01 12:08:04      :: nusage: 1   sockets connected, 1   sockets playing
+Feb 01 12:13:04      :: nusage: 1   sockets connected, 1   sockets playing
+Feb 01 12:18:04      :: nusage: 1   sockets connected, 1   sockets playing
+Feb 01 12:19:17      :: OLC: Klakdor starts editing zone 125 allowed zone 0
+Feb 01 12:19:25 DARK :: OLC: Klakdor stops editing zone 125 allowed zone 0
+Feb 01 12:20:34      :: Cro has connected.
+Feb 01 12:20:36 0    :: Cro un-renting and entering game.
+Feb 01 12:20:36      :: Cro (level 8) has 36 objects (max 60).
+Feb 01 12:23:04 0y :: nusage: 2   sockets connected, 2   sockets playing
+Feb 01 12:23:20      :: Cro killed by a thiefing looter at Plexus Street
+Feb 01 12:23:33      :: Add_to_lookup failed. Already there. (uid = 3)
+Feb 01 12:23:33 tewa :: Cro entering game with no equipment.
+Feb 01 12:25:41      :: Cro has quit the game.
+Feb 01 12:25:41      :: Crash_is_unrentable: removing object a key
+Feb 01 12:25:41      :: Losing player: Cro.
+Feb 01 12:25:44      :: Klakdor has quit the game.
+Feb 01 12:25:44     :: Losing player: Klakdor.
+Feb 01 12:25:44      :: No connections.  Going to sleep.
+Feb 01 12:45:12      :: New connection.  Waking up.
+Feb 01 12:45:15      :: Klakdor has connected.
+Feb 01 12:45:16 0    :: Klakdor un-renting and entering game.
+Feb 01 12:45:16      :: Klakdor (level 34) has 13 objects (max 60).
+Feb 01 12:45:23      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Feb 01 12:45:32      :: GenOLC: add_room: Updated existing room #2157.
+Feb 01 12:45:32 sÌO  :: OLC: Klakdor edits room 2157.
+Feb 01 12:45:32 cts  :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Feb 01 12:45:32      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Feb 01 12:45:36      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Feb 01 12:45:50      :: GenOLC: add_room: Updated existing room #2175.
+Feb 01 12:45:50     :: OLC: Klakdor edits room 2175.
+Feb 01 12:45:50      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Feb 01 12:45:50      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Feb 01 12:47:32      :: nusage: 1   sockets connected, 1   sockets playing
+Feb 01 12:52:08      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Feb 01 12:52:32      :: nusage: 1   sockets connected, 1   sockets playing
+Feb 01 12:53:38      :: GenOLC: add_room: Updated existing room #2175.
+Feb 01 12:53:38      :: OLC: Klakdor edits room 2175.
+Feb 01 12:53:38      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Feb 01 12:53:38      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Feb 01 12:54:15      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Feb 01 12:57:32 p%T  :: nusage: 1   sockets connected, 1   sockets playing
+Feb 01 12:59:16      :: Klakdor has quit the game.
+Feb 01 12:59:16 3
+   :: Losing player: Klakdor.
+Feb 01 12:59:16      :: No connections.  Going to sleep.
+Feb 01 13:13:22      :: New connection.  Waking up.
+Feb 01 13:13:25      :: Klakdor has connected.
+Feb 01 13:13:26 0    :: Klakdor un-renting and entering game.
+Feb 01 13:13:26      :: Klakdor (level 34) has 13 objects (max 60).
+Feb 01 13:16:38      :: nusage: 1   sockets connected, 1   sockets playing
+Feb 01 13:18:27      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Feb 01 13:19:07 [    :: GenOLC: add_room: Updated existing room #2149.
+Feb 01 13:19:07 sÌO  :: OLC: Klakdor edits room 2149.
+Feb 01 13:19:07 cts  :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Feb 01 13:19:07      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Feb 01 13:19:12      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Feb 01 13:19:50      :: GenOLC: add_room: Updated existing room #2150.
+Feb 01 13:19:50     :: OLC: Klakdor edits room 2150.
+Feb 01 13:19:50      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Feb 01 13:19:50      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Feb 01 13:19:53      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Feb 01 13:20:02      :: GenOLC: add_room: Updated existing room #2150.
+Feb 01 13:20:02     :: OLC: Klakdor edits room 2150.
+Feb 01 13:20:02      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Feb 01 13:20:02      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Feb 01 13:20:04      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Feb 01 13:20:05     :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Feb 01 13:20:10     :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Feb 01 13:21:01 [    :: GenOLC: add_room: Updated existing room #2149.
+Feb 01 13:21:01     :: OLC: Klakdor edits room 2149.
+Feb 01 13:21:01      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Feb 01 13:21:01      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Feb 01 13:21:03      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Feb 01 13:21:27 [    :: GenOLC: add_room: Updated existing room #2149.
+Feb 01 13:21:27     :: OLC: Klakdor edits room 2149.
+Feb 01 13:21:27      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Feb 01 13:21:27      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Feb 01 13:21:34      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Feb 01 13:21:38      :: nusage: 1   sockets connected, 1   sockets playing
+Feb 01 13:22:06      :: GenOLC: add_room: Updated existing room #2151.
+Feb 01 13:22:06     :: OLC: Klakdor edits room 2151.
+Feb 01 13:22:06      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Feb 01 13:22:06      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Feb 01 13:22:08      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Feb 01 13:22:57 [    :: GenOLC: add_room: Updated existing room #2152.
+Feb 01 13:22:57     :: OLC: Klakdor edits room 2152.
+Feb 01 13:22:57      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Feb 01 13:22:57      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Feb 01 13:23:05      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Feb 01 13:24:03 [    :: GenOLC: add_room: Updated existing room #2153.
+Feb 01 13:24:03     :: OLC: Klakdor edits room 2153.
+Feb 01 13:24:03      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Feb 01 13:24:03      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Feb 01 13:24:09      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Feb 01 13:25:04 [    :: GenOLC: add_room: Updated existing room #2157.
+Feb 01 13:25:04     :: OLC: Klakdor edits room 2157.
+Feb 01 13:25:04      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Feb 01 13:25:04      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Feb 01 13:25:08      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Feb 01 13:26:22      :: GenOLC: add_room: Updated existing room #2154.
+Feb 01 13:26:22     :: OLC: Klakdor edits room 2154.
+Feb 01 13:26:22      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Feb 01 13:26:22      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Feb 01 13:26:26      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Feb 01 13:26:38      :: nusage: 1   sockets connected, 1   sockets playing
+Feb 01 13:27:55 [    :: GenOLC: add_room: Updated existing room #2155.
+Feb 01 13:27:55     :: OLC: Klakdor edits room 2155.
+Feb 01 13:27:55      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Feb 01 13:27:55      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Feb 01 13:28:05      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Feb 01 13:30:54 [    :: GenOLC: add_room: Updated existing room #2156.
+Feb 01 13:30:54     :: OLC: Klakdor edits room 2156.
+Feb 01 13:30:54      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Feb 01 13:30:54      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Feb 01 13:31:00      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Feb 01 13:31:12 [    :: GenOLC: add_room: Updated existing room #2156.
+Feb 01 13:31:12     :: OLC: Klakdor edits room 2156.
+Feb 01 13:31:12      :: GenOLC: save_rooms: Saving rooms in zone #21 (2100-2199).
+Feb 01 13:31:12      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Feb 01 13:31:38 &T  :: nusage: 1   sockets connected, 1   sockets playing
+Feb 01 13:36:38      :: nusage: 1   sockets connected, 1   sockets playing
+Feb 01 13:41:02      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Feb 01 13:41:38      :: nusage: 1   sockets connected, 1   sockets playing
+Feb 01 13:45:19      :: Jonthax has connected.
+Feb 01 13:45:19 q˚˘Ü :: GenOLC: add_mobile: Added mobile 2102 at index #498.
+Feb 01 13:45:19 êëï :: OLC: Klakdor edits mob 2102
+Feb 01 13:45:19     :: GenOLC: 'world/mob/21.mob' saved, 169 bytes written.
+Feb 01 13:45:19      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Feb 01 13:45:21 0    :: Jonthax un-renting and entering game.
+Feb 01 13:45:21      :: Jonthax (level 10) has 41 objects (max 60).
+Feb 01 13:45:53      :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Feb 01 13:45:54 NOBI :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Feb 01 13:45:56     :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Feb 01 13:46:29      :: GenOLC: add_mobile: Updated existing mobile #2102.
+Feb 01 13:46:29      :: OLC: Klakdor edits mob 2102
+Feb 01 13:46:29     :: GenOLC: 'world/mob/21.mob' saved, 221 bytes written.
+Feb 01 13:46:29      :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Feb 01 13:46:38      :: nusage: 2   sockets connected, 2   sockets playing
+Feb 01 13:47:13 9ÌO  :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Feb 01 13:47:27      :: OLC: Klakdor edits zone info for room 2105.
+Feb 01 13:47:27     :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Feb 01 13:47:30      :: (GC) Klakdor reset zone 21 (Ferrycourse Fen)
+Feb 01 13:47:34 TôR  :: OLC: Klakdor starts editing zone 21 allowed zone 0
+Feb 01 13:47:39 NOBI :: OLC: Klakdor stops editing zone 21 allowed zone 0
+Feb 01 13:51:38      :: nusage: 2   sockets connected, 2   sockets playing
+Feb 01 13:56:38 Ê%T  :: nusage: 2   sockets connected, 2   sockets playing
+Feb 01 14:01:38      :: nusage: 2   sockets connected, 2   sockets playing
+Feb 01 14:04:37      :: Jonthax has quit the game.
+Feb 01 14:04:39      :: Losing player: Jonthax.
+Feb 01 14:06:38      :: nusage: 1   sockets connected, 1   sockets playing
+Feb 01 14:11:38      :: nusage: 1   sockets connected, 1   sockets playing
+Feb 01 14:16:38      :: nusage: 1   sockets connected, 1   sockets playing
+Feb 01 14:21:38      :: nusage: 1   sockets connected, 1   sockets playing
+Feb 01 14:26:38      :: nusage: 1   sockets connected, 1   sockets playing
+Feb 01 14:31:38      :: nusage: 1   sockets connected, 1   sockets playing
+Feb 01 14:36:38      :: nusage: 1   sockets connected, 1   sockets playing
+Feb 01 14:41:38 p%T  :: nusage: 1   sockets connected, 1   sockets playing
+Feb 01 14:42:01 ó˛ :: (GC) Klakdor reset zone 21 (Ferrycourse Fen)
+Feb 01 14:46:38      :: nusage: 1   sockets connected, 1   sockets playing
+Feb 01 14:50:42      :: Klakdor has quit the game.
+Feb 01 14:50:42 ˇ   :: Losing player: Klakdor.
+Feb 01 14:50:42      :: No connections.  Going to sleep.
+Feb 01 15:21:51      :: New connection.  Waking up.
+Feb 01 15:21:57      :: Jonthax has connected.
+Feb 01 15:22:02 0    :: Jonthax un-renting and entering game.
+Feb 01 15:22:02      :: Jonthax (level 10) has 35 objects (max 60).
+Feb 01 15:22:47      :: nusage: 1   sockets connected, 1   sockets playing
+Feb 01 15:27:47      :: nusage: 1   sockets connected, 1   sockets playing
+Feb 01 15:32:47      :: nusage: 1   sockets connected, 1   sockets playing
+Feb 01 15:34:21      :: Jonthax has quit the game.
+Feb 01 15:37:47      :: nusage: 1   sockets connected, 0   sockets playing
+Feb 01 15:42:47      :: nusage: 1   sockets connected, 0   sockets playing
+Feb 01 15:46:43      :: Add_to_lookup failed. Already there. (uid = 4)
+Feb 01 15:46:43 0    :: Jonthax un-renting and entering game.
+Feb 01 15:46:43     :: Jonthax (level 10) has 38 objects (max 60).
+Feb 01 15:47:47      :: nusage: 1   sockets connected, 1   sockets playing
+Feb 01 15:52:47      :: nusage: 1   sockets connected, 1   sockets playing
+Feb 01 15:57:47 0y :: nusage: 1   sockets connected, 1   sockets playing
+Feb 01 16:02:47      :: nusage: 1   sockets connected, 1   sockets playing
+Feb 01 16:07:47 ¿D :: nusage: 1   sockets connected, 1   sockets playing
+Feb 01 16:12:47 p%T  :: nusage: 1   sockets connected, 1   sockets playing
+Feb 01 16:17:47      :: nusage: 1   sockets connected, 1   sockets playing
+Feb 01 16:22:47      :: nusage: 1   sockets connected, 1   sockets playing
+Feb 01 16:27:47 0y :: nusage: 1   sockets connected, 1   sockets playing
+Feb 01 16:32:40      :: Jonthax has quit the game.
+Feb 01 16:32:40      :: Crash_is_unrentable: removing object a marble key
+Feb 01 16:32:40      :: Crash_is_unrentable: removing object an oak key
+Feb 01 16:32:40      :: Crash_is_unrentable: removing object an iron key
+Feb 01 16:32:42      :: Losing player: Jonthax.
+Feb 01 16:32:43      :: No connections.  Going to sleep.
+Feb 01 20:17:49      :: New connection.  Waking up.
+Feb 01 20:17:53      :: nusage: 1   sockets connected, 0   sockets playing
+Feb 01 20:18:05     :: Rellik has connected.
+Feb 01 20:18:11 0    :: Rellik un-renting and entering game.
+Feb 01 20:18:11     :: Rellik (level 7) has 33 objects (max 60).
+Feb 01 20:22:53      :: nusage: 1   sockets connected, 1   sockets playing
+Feb 01 20:27:53 p%T  :: nusage: 1   sockets connected, 1   sockets playing
+Feb 01 20:29:07      :: Rellik advanced 1 level to level 8.
+Feb 01 20:32:53      :: nusage: 1   sockets connected, 1   sockets playing
+Feb 01 20:37:53      :: nusage: 1   sockets connected, 1   sockets playing
+Feb 01 20:38:51      :: Klakdor has connected.
+Feb 01 20:38:53 0    :: Klakdor un-renting and entering game.
+Feb 01 20:38:53     :: Klakdor (level 34) has 13 objects (max 60).
+Feb 01 20:40:02     :: (GC) Klakdor echoed: A small man hiding behind a bush catches your eye, but now he's gone.
+Feb 01 20:41:31     :: (GC) Klakdor echoed: A small man hiding behind a bush catches your eye, but now he's gone.
+Feb 01 20:41:58 >[7 :: (GC) Klakdor forced the Sexton to slap maid
+Feb 01 20:42:40 >[7 :: (GC) Klakdor forced the green gelatinous blob to smooch maid
+Feb 01 20:42:53 @&T  :: nusage: 2   sockets connected, 2   sockets playing
+Feb 01 20:47:53 &T  :: nusage: 2   sockets connected, 2   sockets playing
+Feb 01 20:52:53      :: nusage: 2   sockets connected, 2   sockets playing
+Feb 01 20:56:41      :: Jonthax has connected.
+Feb 01 20:56:45 0    :: Jonthax un-renting and entering game.
+Feb 01 20:56:45      :: Jonthax (level 10) has 38 objects (max 60).
+Feb 01 20:57:53 p%T  :: nusage: 3   sockets connected, 3   sockets playing
+Feb 01 21:02:53      :: nusage: 3   sockets connected, 3   sockets playing
+Feb 01 21:07:53 0y :: nusage: 3   sockets connected, 3   sockets playing
+Feb 01 21:09:42     :: (GC) Klakdor echoed: A small man hiding behind a bush catches your eye, but now he's gone.
+Feb 01 21:10:58 Ay :: (GC) Klakdor echoed: The ATM makes a brief buzzing sound, flashes twice, and then returns to normal.
+Feb 01 21:12:53      :: nusage: 3   sockets connected, 3   sockets playing
+Feb 01 21:13:07 c    :: (GC) Klakdor forced Santa Claus to say Don't worry, guys, I'm just in your imagination.
+Feb 01 21:13:16     :: (GC) Klakdor forced Santa Claus to laugh
+Feb 01 21:14:21 >ùP  :: (GC) Klakdor forced Santa Claus to say I'm Santa Claus.
+Feb 01 21:14:28     :: (GC) Klakdor forced Santa Claus to say No, I'm Santa Claus.
+Feb 01 21:14:36     :: (GC) Klakdor forced Santa Claus to kill santa
+Feb 01 21:14:40     :: (GC) Klakdor forced Santa Claus to kill 2.santa
+Feb 01 21:15:16 XJ˙ :: Jonthax has quit the game.
+Feb 01 21:15:51 >[7 :: (GC) Klakdor forced Santa Claus to kill santa
+Feb 01 21:15:53     :: (GC) Klakdor forced Santa Claus to kill 2.santa
+Feb 01 21:15:59     :: (GC) Klakdor forced Santa Claus to kill other santa
+Feb 01 21:16:34 >[7 :: (GC) Klakdor forced Santa Claus to kneel
+Feb 01 21:16:39     :: (GC) Klakdor forced Santa Claus to sleep
+Feb 01 21:16:52 9ÌO  :: (GC) Klakdor forced Santa Claus to sit
+Feb 01 21:17:53 0y :: nusage: 3   sockets connected, 2   sockets playing
+Feb 01 21:19:11      :: Rellik has quit the game.
+Feb 01 21:19:11      :: Crash_is_unrentable: removing object a key of dull metal
+Feb 01 21:19:11      :: Crash_is_unrentable: removing object a rusty key
+Feb 01 21:19:14 @Uy :: Losing player: Rellik.
+Feb 01 21:19:24      :: TheAntarchist has connected.
+Feb 01 21:19:27 0    :: TheAntarchist un-renting and entering game.
+Feb 01 21:19:27     :: TheAntarchist (level 9) has 41 objects (max 60).
+Feb 01 21:22:53 0y :: nusage: 3   sockets connected, 2   sockets playing
+Feb 01 21:27:53      :: nusage: 3   sockets connected, 2   sockets playing
+Feb 01 21:29:13      :: Add_to_lookup failed. Already there. (uid = 4)
+Feb 01 21:29:13 0    :: Jonthax un-renting and entering game.
+Feb 01 21:29:13      :: Jonthax (level 10) has 37 objects (max 60).
+Feb 01 21:32:53      :: nusage: 3   sockets connected, 3   sockets playing
+Feb 01 21:33:08      :: Rellik has connected.
+Feb 01 21:33:11 0    :: Rellik un-renting and entering game.
+Feb 01 21:33:11     :: Rellik (level 8) has 37 objects (max 60).
+Feb 01 21:37:53 0y :: nusage: 4   sockets connected, 4   sockets playing
+Feb 01 21:40:42 ;ñ :: Jonthax tried to get help on store
+Feb 01 21:41:37      :: Cro has connected.
+Feb 01 21:41:38 0    :: Cro un-renting and entering game.
+Feb 01 21:41:38      :: Cro (level 8) has 35 objects (max 60).
+Feb 01 21:42:53 0y :: nusage: 5   sockets connected, 5   sockets playing
+Feb 01 21:46:30      :: Cro has quit the game.
+Feb 01 21:46:30      :: Losing player: Cro.
+Feb 01 21:47:53 0y :: nusage: 4   sockets connected, 4   sockets playing
+Feb 01 21:52:53 0y :: nusage: 4   sockets connected, 4   sockets playing
+Feb 01 21:56:24      :: Cro has connected.
+Feb 01 21:56:25 0    :: Cro un-renting and entering game.
+Feb 01 21:56:25      :: Cro (level 8) has 35 objects (max 60).
+Feb 01 21:56:34 HJy :: Cro tried to get help on tell
+Feb 01 21:57:53 0y :: nusage: 5   sockets connected, 5   sockets playing
+Feb 01 22:02:53 0y :: nusage: 5   sockets connected, 5   sockets playing
+Feb 01 22:06:23      :: Jonthax advanced 1 level to level 11.
+Feb 01 22:07:53 0y :: nusage: 5   sockets connected, 5   sockets playing
+Feb 01 22:12:53 0y :: nusage: 5   sockets connected, 5   sockets playing
+Feb 01 22:14:23      :: Cro has quit the game.
+Feb 01 22:14:24      :: Losing player: Cro.
+Feb 01 22:14:48      :: Rellik has quit the game.
+Feb 01 22:14:50      :: Losing player: Rellik.

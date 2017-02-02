@@ -127,9 +127,14 @@ A goblin can be smelled before you even see him.
 drools from its mouth.  
 ~
 72 0 0 0 0 0 0 0 -500 E
-7 18 5 1d1+70 1d2+1
+9 17 3 2d10+70 2d4+3
 70 4900
 8 8 2
+SavingPara: 1
+SavingRod: 1
+SavingPetri: 1
+SavingBreath: 1
+SavingSpell: 1
 E
 #12509
 girl crying~

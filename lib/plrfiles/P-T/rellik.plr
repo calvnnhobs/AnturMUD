@@ -1,34 +1,34 @@
 Name: Rellik
 Pass: ReISj/ytxt55o
-Titl: the Cut-Purse
+Titl: the Snatcher
 Desc:
 sneaky sneaky
 ~
 Sex : 1
 Clas: 2
-Levl: 7
+Levl: 8
 Id  : 2
 Brth: 1484436768
-Plyd: 49429
-Last: 1485639552
-Lmot: 1485636518
-Lnew: 1485636515
+Plyd: 65835
+Last: 1486015973
+Lmot: 1485921154
+Lnew: 1485921159
 Host: 70-36-215-128.dsl.dynamic.sonic.net
 Hite: 181
 Wate: 160
-Alin: -70
+Alin: -216
 Act : gh 0 0 0
 Aff : 0 0 0 0
 Pref: efghnoABCDEF 0 0 0
 Wimp: 12
 Frez: 34
-Room: 3001
-Lern: 38
-Hung: 9
-Thir: 24
-Hit : 80/80
+Room: 3005
+Lern: 39
+Hung: 6
+Thir: 16
+Hit : 92/92
 Mana: 100/100
-Move: 95/95
+Move: 90/96
 Str : 16/0
 Int : 10
 Wis : 9
@@ -36,9 +36,9 @@ Dex : 16
 Con : 11
 Cha : 6
 Ac  : 100
-Gold: 25290
-Bank: 227000
-Exp : 55150
+Gold: 378
+Bank: 260000
+Exp : 72498
 Skil:
 1 100
 2 100
@@ -242,4 +242,4 @@ Skil:
 200 100
 0 0
 Vars: 1
-teleporter_return_room 0 3656
+teleporter_return_room 0 3005
