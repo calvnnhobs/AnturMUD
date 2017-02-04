@@ -366,8 +366,9 @@
 #define WEAR_WIELD     16  /**< Equipment Location Weapon */
 #define WEAR_HOLD      17  /**< Equipment Location held in offhand */
 #define WEAR_BACK      18  /**< Equipment Location Worn on Back */
+#define WEAR_EARS      19  /**< Equipment Location Worn on Ears */
 /** Total number of available equipment lcoations */
-#define NUM_WEARS      19
+#define NUM_WEARS      20 
 
 /* object-related defines */
 /* Item types: used by obj_data.obj_flags.type_flag */
@@ -414,8 +415,9 @@
 #define ITEM_WEAR_WIELD	   13   /**< Item can be wielded */
 #define ITEM_WEAR_HOLD     14   /**< Item can be held */
 #define ITEM_WEAR_BACK     15   /**< Item can be worn on back */
+#define ITEM_WEAR_EARS     16   /**< Item can be worn on ears */
 /** Total number of item wears */
-#define NUM_ITEM_WEARS    16
+#define NUM_ITEM_WEARS    17
 
 /* Extra object flags: used by obj_data.obj_flags.extra_flags */
 #define ITEM_GLOW              0   /**< Item is glowing */
