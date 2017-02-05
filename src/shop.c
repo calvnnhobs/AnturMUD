@@ -532,18 +532,21 @@ static void shopping_buy(char *arg, struct char_data *ch, struct char_data *keep
     }
   }
   }
-  
-  if (IS_NPC(ch) || (!IS_NPC(ch) && !PRF_FLAGGED(ch, PRF_NOHASSLE))) {
-	if (IS_CARRYING_N(ch) + 1 > CAN_CARRY_N(ch)) {
-      send_to_char(ch, "%s: You can't carry any more items.\r\n", fname(obj->name));
-	  return;
-    }
-    if (IS_CARRYING_W(ch) + GET_OBJ_WEIGHT(obj) > CAN_CARRY_W(ch)) {
-	  send_to_char(ch, "%s: You can't carry that much weight.\r\n", fname(obj->name));
-      return;
-	}
-  }
-  
+
+	if (IS_NPC(ch) || (!IS_NPC(ch) && !PRF_FLAGGED(ch, PRF_NOHASSLE)))
+		{
+			if (IS_CARRYING_N(ch) + 1 > CAN_CARRY_N(ch))
+				{
+					send_to_char(ch, "%s: You can't carry any more items.\r\n", fname(obj->name));
+					return;
+				}
+			if (IS_CARRYING_W(ch) + GET_OBJ_WEIGHT(obj) > CAN_CARRY_W(ch))
+				{
+					send_to_char(ch, "%s: You can't carry that much weight.\r\n", fname(obj->name));
+					return;
+				}
+		}
+
   if (OBJ_FLAGGED(obj, ITEM_QUEST)) {
     while (obj &&
            (GET_QUESTPOINTS(ch) >= GET_OBJ_COST(obj) || IS_GOD(ch))
@@ -877,59 +880,68 @@ static char *list_object(struct obj_data *obj, int cnt, int aindex, int shop_nr,
 
 static void shopping_list(char *arg, struct char_data *ch, struct char_data *keeper, int shop_nr)
 {
-  char buf[MAX_STRING_LENGTH], name[MAX_INPUT_LENGTH];
-  struct obj_data *obj, *last_obj = NULL;
-  int cnt = 0, lindex = 0, found = FALSE, has_quest = FALSE;
-  size_t len;
-  /* cnt is the number of that particular object available */
-  /* has_quest indicates if the shopkeeper sells quest items */
+	char buf[MAX_STRING_LENGTH], name[MAX_INPUT_LENGTH];
+	struct obj_data *obj, *last_obj = NULL;
+	int cnt = 0, lindex = 0, found = FALSE, has_quest = FALSE;
+	size_t len;
+	/* cnt is the number of that particular object available */
+	/* has_quest indicates if the shopkeeper sells quest items */
 
-  if (!is_ok(keeper, ch, shop_nr))
-    return;
+	if (!is_ok(keeper, ch, shop_nr))
+		return;
 
-  if (SHOP_SORT(shop_nr) < IS_CARRYING_N(keeper))
-    sort_keeper_objs(keeper, shop_nr);
+	if (SHOP_SORT(shop_nr) < IS_CARRYING_N(keeper))
+		sort_keeper_objs(keeper, shop_nr);
 
-  one_argument(arg, name);
+	one_argument(arg, name);
 
-  len = strlcpy(buf,   " ##   Available   Item                                               Cost\r\n"
-      "----------------------------------------------------------------------------\r\n", sizeof(buf));
-  if (keeper->carrying)
-    for (obj = keeper->carrying; obj; obj = obj->next_content)
-      if (CAN_SEE_OBJ(ch, obj) && GET_OBJ_COST(obj) > 0) {
-	if (!last_obj) {
-	  last_obj = obj;
-	  cnt = 1;
-	} else if (same_obj(last_obj, obj))
-	  cnt++;
-	else {
-	  lindex++;
-	  if (!*name || isname(name, last_obj->name)) {
-	    strncat(buf, list_object(last_obj, cnt, lindex, shop_nr, keeper, ch), sizeof(buf) - len - 1);	/* strncat: OK */
-            len = strlen(buf);
-            if (len + 1 >= sizeof(buf))
-              break;
-            found = TRUE;
-            if (OBJ_FLAGGED(last_obj, ITEM_QUEST))
-              has_quest = TRUE;
-	  }
-	  cnt = 1;
-	  last_obj = obj;
+	len = strlcpy(buf,   " ##   Available   Item                                               Cost\r\n"
+	"----------------------------------------------------------------------------\r\n", sizeof(buf));
+	if (keeper->carrying)
+	{
+		for (obj = keeper->carrying; obj; obj = obj->next_content)
+		{
+			if (CAN_SEE_OBJ(ch, obj) && GET_OBJ_COST(obj) > 0)
+				{
+					if (!last_obj)
+						{
+							last_obj = obj;
+							cnt = 1;
+						}
+					else if (same_obj(last_obj, obj))
+						cnt++;
+					else
+						{
+							lindex++;
+							if (!*name || isname(name, last_obj->name))
+								{
+									strncat(buf, list_object(last_obj, cnt, lindex, shop_nr, keeper, ch), sizeof(buf) - len - 1);	/* strncat: OK */
+									len = strlen(buf);
+									if (len + 1 >= sizeof(buf))
+										break;
+									found = TRUE;
+									if (OBJ_FLAGGED(last_obj, ITEM_QUEST))
+										has_quest = TRUE;
+								}
+							cnt = 1;
+							last_obj = obj;
+						}
+				}
+		}
 	}
-      }
-  lindex++;
-  if (!last_obj)	/* we actually have nothing in our list for sale, period */
-    send_to_char(ch, "Currently, there is nothing for sale.\r\n");
-  else if (*name && !found)	/* nothing the char was looking for was found */
-    send_to_char(ch, "Presently, none of those are for sale.\r\n");
-  else {
-    if (!*name || isname(name, last_obj->name))	/* show last obj */
-      if (len < sizeof(buf))
-        strncat(buf, list_object(last_obj, cnt, lindex, shop_nr, keeper, ch), sizeof(buf) - len - 1);	/* strncat: OK */
-    page_string(ch->desc, buf, TRUE);
-    if (has_quest)
-      send_to_char(ch, "Items flagged \"qp\" require quest points to purchase.\r\n");
-  }
+	lindex++;
+	if (!last_obj)	/* we actually have nothing in our list for sale, period */
+		send_to_char(ch, "Currently, there is nothing for sale.\r\n");
+	else if (*name && !found)	/* nothing the char was looking for was found */
+		send_to_char(ch, "Presently, none of those are for sale.\r\n");
+	else {
+			if (!*name || isname(name, last_obj->name))	/* show last obj */
+				if (len < sizeof(buf))
+					strncat(buf, list_object(last_obj, cnt, lindex, shop_nr, keeper, ch), sizeof(buf) - len - 1);	/* strncat: OK */
+			page_string(ch->desc, buf, TRUE);
+			if (has_quest)
+				send_to_char(ch, "Items flagged \"qp\" require quest points to purchase.\r\n");
+		}
 }
 
 static int ok_shop_room(int shop_nr, room_vnum room)
@@ -1580,7 +1592,7 @@ bool shopping_identify(char *arg, struct char_data *ch, struct char_data *keeper
 		GET_OBJ_WEIGHT(obj),
 		QYEL, sell_price(obj, shop_nr, keeper, ch), QNRM,
 		QYEL, buy_price(obj, shop_nr, keeper, ch), QNRM);
-		
+
   sprintbitarray(GET_OBJ_WEAR(obj), wear_bits, TW_ARRAY_MAX, buf);
   send_to_char(ch, "Can be worn on: %s\r\n", buf);
 
