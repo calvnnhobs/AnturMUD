@@ -249,9 +249,9 @@ void gain_exp(struct char_data *ch, int gain)
       mudlog(BRF, MAX(LVL_IMMORT, GET_INVIS_LEV(ch)), TRUE, "%s advanced %d level%s to level %d.",
 		GET_NAME(ch), num_levels, num_levels == 1 ? "" : "s", GET_LEVEL(ch));
       if (num_levels == 1)
-        send_to_char(ch, "You rise a level!\r\n");
+        send_to_char(ch, "\tMYou rise a level!\tn\r\n");
       else
-	send_to_char(ch, "You rise %d levels!\r\n", num_levels);
+	send_to_char(ch, "\tMYou rise %d levels!\tn\r\n", num_levels);
       set_title(ch, NULL);
       if (GET_LEVEL(ch) >= LVL_IMMORT && !PLR_FLAGGED(ch, PLR_NOWIZLIST))
         run_autowiz();
@@ -291,9 +291,9 @@ void gain_exp_regardless(struct char_data *ch, int gain)
       mudlog(BRF, MAX(LVL_IMMORT, GET_INVIS_LEV(ch)), TRUE, "%s advanced %d level%s to level %d.",
 		GET_NAME(ch), num_levels, num_levels == 1 ? "" : "s", GET_LEVEL(ch));
       if (num_levels == 1)
-        send_to_char(ch, "You rise a level!\r\n");
+        send_to_char(ch, "\tMYou rise a level!\tn\r\n");
       else
-	send_to_char(ch, "You rise %d levels!\r\n", num_levels);
+	send_to_char(ch, "\tMYou rise %d levels!\tn\r\n", num_levels);
       set_title(ch, NULL);
     }
   }
