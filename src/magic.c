@@ -503,7 +503,7 @@ void mag_affects(int level, struct char_data *ch, struct char_data *victim,
     break;
 
   case SPELL_SENSE_LIFE:
-    to_vict = "Your feel your awareness improve.";
+    to_vict = "You feel your awareness improve.";
     af[0].duration = GET_LEVEL(ch);
     SET_BIT_AR(af[0].bitvector, AFF_SENSE_LIFE);
     accum_duration = TRUE;
